@@ -1,0 +1,17 @@
+A paradox is a statement, situation, or concept that contains contradictory elements that seem logically impossible or absurd, yet may still be true. Paradoxes often appear to defy common sense or create a logical loop that is difficult to resolve.
+
+Some famous examples of paradoxes include:
+
+1. The Liar's Paradox: "This statement is false." (If it's true, then it's false, and if it's false, then it's true)
+
+2. The Ship of Theseus: If every part of a ship is gradually replaced, is it still the same ship?
+
+3. The Grandfather Paradox: If you travel back in time and prevent your grandfather from meeting your grandmother, how could you exist to travel back in time?
+
+Paradoxes can be:
+- Logical (containing contradictory elements in reasoning)
+- Semantic (arising from ambiguity in language)
+- Visual (optical illusions that seem impossible)
+- Scientific (apparently contradictory findings)
+
+Paradoxes are often used in philosophy, mathematics, and science to explore the limits of human reasoning and understanding.

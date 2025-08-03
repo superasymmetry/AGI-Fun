@@ -1,0 +1,7 @@
+{
+    "condition_1": "Fundamental Attribution Error",
+    "condition_2": "Pseudocertainty Effect",
+    "condition_3": "Illusory Superiority",
+    "prompt": "Generate an example that demonstrates the Fundamental Attribution Error and Pseudocertainty Effect psychological biases, but that does not show the Illusory Superiority psychological bias.",
+    "inferences": "Here's an example demonstrating both the Fundamental Attribution Error and Pseudocertainty Effect, without Illusory Superiority:\n\nSarah observes her coworker James arriving late to work, looking disheveled. She immediately concludes that James is an irresponsible and lazy person who probably partied too hard last night (Fundamental Attribution Error - attributing his behavior to personality rather than considering situational factors like potential car trouble or family emergency).\n\nLater that day, Sarah needs to make a decision about a project investment:\nScenario A: A guaranteed loss of $3,000\nScenario B: An 80% chance of losing $4,000 and a 20% chance of losing nothing\n\nWhen the loss is framed as certain in Scenario A, Sarah chooses Scenario B, preferring to take the risk rather than accept the certain loss (Pseudocertainty Effect - changing risk preferences based on how certain the outcome appears).\n\nThis example doesn't show Illusory Superiority because Sarah isn't comparing herself to others or demonstrating an inflated view of her own abilities."
+}

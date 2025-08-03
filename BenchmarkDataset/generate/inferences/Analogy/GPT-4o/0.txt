@@ -1,0 +1,7 @@
+{
+    "concept": "Analogy",
+    "semantic_condition": "loss",
+    "form_condition": "Use the first-person perspective.",
+    "lexical_condition": "light",
+    "inferences": "Losing you was like watching a light slowly begin to dim. At first, it flickered softly, casting familiar shadows that danced with the warmth of memories. I would stand there, hopeful, thinking I could keep that light alive, that its brilliance would never fade. But, over time, it grew weaker, and no matter how hard I tried to reignite its glow, the encroaching darkness was inevitable. Now, in the silence left behind, I find myself wandering through the shadows, searching for even the slightest glimmer to guide me through the emptiness."
+}

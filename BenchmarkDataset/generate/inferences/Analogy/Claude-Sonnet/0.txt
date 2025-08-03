@@ -1,0 +1,7 @@
+{
+    "concept": "Analogy",
+    "semantic_condition": "a hobby",
+    "form_condition": "Use a comma in the first sentence or line.",
+    "lexical_condition": "red",
+    "inferences": "Just as a red rose requires careful pruning, delicate care, and daily attention to reach its full potential, mastering the art of baking demands precision, patience, and consistent practice to create the perfect loaf of bread."
+}

@@ -1,0 +1,36 @@
+A mixed strategy Nash equilibrium is a profile of mixed strategies (one for each player) where no player can improve their expected payoff by unilaterally deviating to a different strategy, given that all other players stick to their equilibrium mixed strategies. Let's break that down:
+
+* **Mixed Strategy:** A mixed strategy is a probability distribution over a player's available pure strategies.  Instead of choosing a single action with certainty, the player randomly selects between different actions according to specified probabilities. For example, in rock-paper-scissors, a mixed strategy could be to play rock with probability 1/3, paper with probability 1/3, and scissors with probability 1/3.  This is in contrast to a *pure strategy*, where a player chooses a single action with probability 1.
+
+* **Strategy Profile:** A strategy profile is a list of strategies, one for each player in the game. It specifies what each player intends to do, whether that's a pure strategy or a mixed strategy.
+
+* **Expected Payoff:**  Since players are using probabilities in their mixed strategies, the outcome of the game is uncertain. Therefore, we need to consider the *expected* payoff. This is calculated by taking a weighted average of the payoffs for each possible outcome, where the weights are the probabilities of those outcomes occurring. These probabilities are derived from the mixed strategies of all players.
+
+* **Unilaterally Deviating:**  This means that *one* player is considering changing their strategy while everyone else keeps playing their currently prescribed strategy.
+
+* **No Incentive to Deviate:** The core idea of a Nash equilibrium is that no player can gain by unilaterally changing their strategy.  In a *mixed strategy* Nash equilibrium, this means no player can increase their *expected* payoff by switching to a different mixed strategy (or even a pure strategy).
+
+**In simpler terms:**
+
+Imagine several people playing a game.  In a mixed strategy Nash equilibrium, each person has chosen a randomized strategy (a way of playing that involves randomly choosing actions) *such that if everyone else sticks to their randomized strategy, then no one person can improve their average outcome by switching to a different randomized strategy*.
+
+**Example: Matching Pennies**
+
+Consider the game "Matching Pennies." Two players, A and B, each simultaneously flip a coin. If the coins match (both heads or both tails), A wins a dollar from B. If the coins don't match, B wins a dollar from A.
+
+* **Pure Strategy Nash Equilibrium:** There is no pure strategy Nash equilibrium in this game. If A plays heads, B will play tails to win. But then A would want to play tails to win. And so on.
+
+* **Mixed Strategy Nash Equilibrium:** The mixed strategy Nash equilibrium is for both players to flip their coin randomly, with a 50% chance of heads and a 50% chance of tails.
+
+    * **Why is this an equilibrium?**
+        * If A plays 50/50, B's expected payoff for playing heads is (0.5 * -1) + (0.5 * 1) = 0.  And B's expected payoff for playing tails is (0.5 * 1) + (0.5 * -1) = 0. B is indifferent between heads and tails.  Any mixed strategy is equally good (including the 50/50 strategy).
+        * Similarly, if B plays 50/50, A's expected payoff for playing heads is (0.5 * 1) + (0.5 * -1) = 0.  And A's expected payoff for playing tails is (0.5 * -1) + (0.5 * 1) = 0.  A is indifferent between heads and tails.
+
+    * **Therefore:** Neither player can improve their expected payoff (which is zero in this case) by deviating from their 50/50 strategy, assuming the other player sticks to it.  Hence, it's a mixed strategy Nash equilibrium.
+
+**Key Takeaways:**
+
+* **Randomization:** Mixed strategy Nash equilibria involve players randomly choosing actions.
+* **Indifference:** Players are indifferent between the pure strategies they are mixing between in their equilibrium mixed strategy. They get the same expected payoff no matter which of those pure strategies they choose.
+* **Existence:**  Nash's Existence Theorem guarantees that every game with a finite number of players and finite action spaces has at least one Nash equilibrium, possibly in mixed strategies.
+* **Real-World Relevance:** While it may seem counterintuitive that players would intentionally randomize, mixed strategies can model situations where unpredictability is advantageous. For example, a tennis player might want to vary their serve direction to keep their opponent guessing, or a penalty taker in soccer might want to vary which side of the goal they shoot towards.

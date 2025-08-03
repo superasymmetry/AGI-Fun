@@ -1,0 +1,7 @@
+{
+    "concept": "Paradox",
+    "semantic_condition": "nature",
+    "form_condition": "Have at least two sentences or lines that start with the same word.",
+    "lexical_condition": "king",
+    "inferences": "In the heart of the forest, the king of the jungle roars, yet he is the most silent in the midst of the bustling wildlife. In the depths of the ocean, the king of the sea swims, yet he is the most stationary in the vast expanse of the deep blue."
+}

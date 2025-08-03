@@ -1,0 +1,18 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Pareto Optimality",
+    "example": "The lead singer of a band prefers large venues to small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer, so they only play large venues.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n The lead singer of a band prefers large venues to small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer, so they only play large venues.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n The lead singer of a band prefers large venues to small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer, so they only play large venues.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "The lead singer of a band prefers large venues to small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer, so they only play large venues. This is not an instance of Pareto Optimality because the preferences of the lead singer are not aligned with the preferences of the rest of the band. A Pareto Optimal solution would be one where no one can be made better off without making someone else worse off. In this case, the lead singer's preference for large venues is being prioritized over the preferences of the rest of the band, which means that the rest of the band is being made worse off. A Pareto Optimal solution would be one where the band plays at venues that are preferred by the majority of the band members, rather than just the lead singer.\n<OUTPUT>[[ (1,0), (0,1) ],\n [ (0,0), (0,0) ]]",
+    "message": "Found 2 Pareto optimal outcomes.",
+    "correct": false
+}

@@ -1,0 +1,18 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Pareto Optimality",
+    "example": "C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "To make this an instance of Pareto Optimality, we need to find a situation where both C and D are better off than in the current scenario, and there is no other situation where one can be made better off without making the other worse off. One possible solution is for C and D to alternate between fancy and casual restaurants, so that each gets to go to their preferred type of restaurant half the time. This way, both C and D are better off than before, and there is no other solution that would make one of them better off without making the other worse off. The payoff matrix for this solution would be:\n[[ (1,0), (0,1) ],\n [ (0,1), (1,0) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": false
+}

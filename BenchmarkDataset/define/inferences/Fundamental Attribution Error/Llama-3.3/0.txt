@@ -1,0 +1,9 @@
+The fundamental attribution error (FAE) is a psychological bias that refers to the tendency to overestimate the role of personality and underestimate the impact of situational factors in shaping behavior. In other words, when we observe someone's behavior, we tend to attribute it to their character, intentions, or personality traits, rather than considering the potential influence of external circumstances or situational factors.
+
+For example, if someone cuts us off in traffic, we might think, "What a rude and aggressive person!" rather than considering the possibility that they might be late for an emergency, having a bad day, or simply not paying attention.
+
+This bias was first identified by psychologist Lee Ross in 1977, and it has been extensively studied in social psychology. The fundamental attribution error is considered a "fundamental" error because it is a basic and widespread tendency that affects how we perceive and interpret the behavior of others.
+
+The FAE can lead to misunderstandings, miscommunications, and unfair judgments about others. It can also lead to a lack of empathy and understanding, as we fail to consider the complexities of the situation and the potential factors that might be influencing the other person's behavior.
+
+It's worth noting that the fundamental attribution error is more likely to occur when we don't have enough information about the situation or when we are under time pressure or stress. Additionally, cultural differences can also influence the extent to which people exhibit the FAE, with some cultures being more prone to attributing behavior to situational factors and others to personality traits.

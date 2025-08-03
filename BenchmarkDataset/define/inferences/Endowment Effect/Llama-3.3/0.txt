@@ -1,0 +1,13 @@
+The endowment effect is a psychological bias that refers to the tendency for people to overvalue things they own or possess, simply because they own them. This means that individuals tend to assign a higher value to an item or object when they possess it, compared to when they do not possess it.
+
+The endowment effect was first identified by Richard Thaler in 1980, and it has since been extensively studied in the field of behavioral economics. The effect is often demonstrated through experiments, where participants are given an item (such as a mug or a pen) and then asked to state the minimum price they would be willing to accept to sell it. Meanwhile, other participants who do not own the item are asked to state the maximum price they would be willing to pay to buy it.
+
+Consistently, the results show that the owners of the item tend to demand a higher price to sell it than the non-owners are willing to pay to buy it. This discrepancy is known as the "endowment effect gap." For example, if someone is given a mug and asked to sell it, they might demand $10, while someone who does not own the mug might be willing to pay only $5 to buy it.
+
+The endowment effect has several implications, including:
+
+1. **Loss aversion**: People tend to fear losses more than they value gains. When they own something, they feel a sense of loss when they consider selling it, which leads them to overvalue it.
+2. **Ownership and attachment**: The act of owning something creates a sense of attachment and emotional connection, which can lead to an inflated perception of its value.
+3. **Biased decision-making**: The endowment effect can lead to poor decision-making, as people may hold onto items or assets that are no longer valuable or useful to them, simply because they own them.
+
+The endowment effect has been observed in various domains, including finance, marketing, and everyday decision-making. It highlights the importance of recognizing and mitigating this bias, in order to make more rational and informed decisions.

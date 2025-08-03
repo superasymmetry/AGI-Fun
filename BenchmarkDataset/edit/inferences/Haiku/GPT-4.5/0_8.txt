@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4.5-preview",
+    "concept": "Haiku",
+    "example": "_ man\nIt's better for you to wane\nLet it float away",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Haiku? Include only the text that should replace the blank.\n\n _ man\nIt's better for you to wane\nLet it float away",
+    "label": "no",
+    "inferences": "Old"
+}

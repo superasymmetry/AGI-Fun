@@ -1,0 +1,6 @@
+In game theory, the concept of weak dominance refers to a situation where one strategy is at least as good as another strategy for a player, regardless of what the other players choose, and there exists at least one situation where it is better. Formally, a strategy \( A \) weakly dominates another strategy \( B \) if the following conditions are met:
+
+1. For every possible set of strategies chosen by the other players, the payoff from choosing strategy \( A \) is at least as high as the payoff from choosing strategy \( B \).
+2. For at least one set of strategies chosen by the other players, the payoff from choosing strategy \( A \) is strictly higher than that from choosing strategy \( B \).
+
+This means that while \( A \) is never worse than \( B \), there are circumstances under which \( A \) provides a strictly better outcome. It's important to distinguish weak dominance from strong dominance, where a strategy is better than another strategy in all scenarios, not just in some. In strategic decision-making, if a player finds a weakly dominant strategy, it may guide them toward making a more beneficial choice, though the implications can be more nuanced than with strictly dominant strategies.

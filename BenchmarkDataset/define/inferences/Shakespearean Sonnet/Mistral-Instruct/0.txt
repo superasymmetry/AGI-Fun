@@ -1,0 +1,27 @@
+ A Shakespearean Sonnet is a type of sonnet that was popularized by the playwright and poet William Shakespeare. It consists of 14 lines, following a specific rhyme scheme and structure.
+
+The rhyme scheme is ABAB CDCD EFEF GG. This means that the first and third lines of the first four quatrains (4-line stanzas) rhyme with each other, as do the second and fourth lines. The fifth, sixth, and seventh lines rhyme with each other, and the eighth, ninth, and twelfth lines rhyme with each other. The final two lines, the "couplet," also rhyme with each other.
+
+In terms of structure, a Shakespearean Sonnet is written in iambic pentameter, which means that each line contains five iambs (unstressed syllable followed by a stressed syllable). The sonnet is divided into three quatrains and a final couplet.
+
+The first three quatrains typically present a problem or question, while the final couplet provides a resolution or answer. Shakespearean Sonnets often deal with themes of love, beauty, nature, and mortality.
+
+Here's an example of a Shakespearean Sonnet, Sonnet 18 by William Shakespeare:
+
+Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+And summer's lease hath all too short a date:
+
+Sometime too hot the eye of heaven shines,
+And often is his gold complexion dimmed;
+And every fair from fair sometime declines,
+By chance, or nature's changing course, untrimmed;
+
+But thy eternal summer shall not fade,
+Nor lose possession of that fair thou ow'st;
+Nor shall Death brag thou wand'rest in his shade,
+When in eternal lines to time thou grow'st:
+
+So long as men can breathe or eyes can see,
+So long lives this, and this gives life to thee.

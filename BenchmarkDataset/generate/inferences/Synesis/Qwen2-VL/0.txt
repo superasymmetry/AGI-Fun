@@ -1,0 +1,7 @@
+{
+    "concept": "Synesis",
+    "semantic_condition": "friendship",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "friend",
+    "inferences": "Mature friends often exhibit Synesis, demonstrating a deep understanding and respect for each other's perspectives and feelings."
+}

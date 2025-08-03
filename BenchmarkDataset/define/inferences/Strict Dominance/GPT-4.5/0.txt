@@ -1,0 +1,5 @@
+In game theory, strict dominance refers to a situation where one strategy is better than another strategy for a player, no matter what the other players do. Formally, a strategy \( A \) strictly dominates another strategy \( B \) if the payoff for playing \( A \) is always greater than the payoff for playing \( B \), regardless of the strategies chosen by the other players in the game.
+
+To put it simply, if a player has a strategy that always yields a better outcome compared to another strategy, that better strategy strictly dominates the other. In practice, rational players would avoid playing strategies that are strictly dominated because there is always a better option available.
+
+The identification of strictly dominated strategies is a key part of simplifying games and predicting outcomes, as such strategies are usually eliminated in the analysis of games, with players assumed to play only undominated strategies.

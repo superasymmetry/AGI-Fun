@@ -1,0 +1,7 @@
+{
+    "concept": "Paradox",
+    "semantic_condition": "friendship",
+    "form_condition": "Have at least two sentences or lines that start with the same word.",
+    "lexical_condition": "nectar",
+    "inferences": "In the heart of a timeless garden, two friends tended to the same flower believing it held the nectar of eternal companionship. They both promised to keep their bond, but only if they never tasted the flower's sweetness.  \n  \nEach day, they watered and cherished the bloom, trusting in its magic, whispering secrets beneath its vibrant petals. Each day, the temptation grew, as did their fear that one taste could fracture their unspoken oath.  \n  \nThe paradox lingered: to taste the nectar and risk losing the friendship it had promised to preserve. In pursuit of an untested bond, they forever nurtured a friendship that could only exist in longing, never in fulfillment."
+}

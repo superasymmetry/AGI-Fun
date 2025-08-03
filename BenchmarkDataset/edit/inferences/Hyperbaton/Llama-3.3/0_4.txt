@@ -1,0 +1,9 @@
+{
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "concept": "Hyperbaton",
+    "example": "\"Crabs, over there!\" _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Hyperbaton? Include only the text that should replace the blank.\n\n \"Crabs, over there!\" _.",
+    "label": "yes",
+    "inferences": "are",
+    "correct": "N/A"
+}

@@ -1,0 +1,8 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Paradox",
+    "example": "As the child ate _ until they erupted",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Paradox? Include only the text that should replace the blank.\n\n As the child ate _ until they erupted",
+    "label": "yes",
+    "inferences": "As the child ate candy until they erupted"
+}

@@ -1,0 +1,7 @@
+{
+    "concept": "Enthymeme",
+    "semantic_condition": "a hobby",
+    "form_condition": "Use alliteration at least once.",
+    "lexical_condition": "jump",
+    "inferences": "Enthymeme: You should try skipping rope regularly since it enhances endurance and makes you more agile.\n\nHidden Premise: Activities that enhance endurance and agility are beneficial.\n\nInstance: Every afternoon, when you jump joyously with the skipping rope, it not only boosts your fitness but elevates your energy levels."
+}

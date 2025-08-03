@@ -1,0 +1,17 @@
+The **endowment effect** is a cognitive bias that describes our tendency to place a higher value on things we already own (or feel we own) than on identical things we don't own.  In other words, once we possess something, we're less likely to give it up and demand a higher price to sell it than we'd be willing to pay to acquire it in the first place.
+
+Here's a breakdown:
+
+*   **Core Idea:** Ownership creates a sense of attachment or special value.
+*   **Example:** Imagine you're given a coffee mug.  You might be unwilling to sell that mug for less than $10, even though you wouldn't have paid more than $5 for the exact same mug beforehand.
+*   **Key Factors:**
+    *   **Loss Aversion:** The pain of losing something is psychologically more powerful than the pleasure of gaining something of equal value. Giving something up feels like a loss.
+    *   **Sense of Ownership:** The mere act of owning something, even for a short time, can create a sense of psychological ownership.
+    *   **Framing:** The endowment effect is stronger when the transaction is framed as a loss (selling what you own) rather than a gain (buying something new).
+*   **Real-World Implications:**
+    *   **Sales and Marketing:** Free trials, demonstrations, and return policies can create a sense of ownership, making customers more likely to buy.
+    *   **Negotiations:**  People are often reluctant to give up concessions they've already gained in a negotiation, even if it would lead to a better overall outcome.
+    *   **Real Estate:**  Sellers may overvalue their homes because of the emotional attachment and memories associated with them.
+    *   **Investments:** Investors may hold onto losing stocks longer than they should, hoping they will recover to their original purchase price.
+
+In essence, the endowment effect illustrates that our perceptions of value are not solely based on objective factors but are heavily influenced by our sense of ownership and aversion to loss.

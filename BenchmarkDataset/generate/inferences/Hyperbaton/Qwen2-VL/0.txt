@@ -1,0 +1,7 @@
+{
+    "concept": "Hyperbaton",
+    "semantic_condition": "hope",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "king",
+    "inferences": "Majestic hope crowns the king, elevating his spirit to the heavens."
+}

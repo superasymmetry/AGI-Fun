@@ -1,0 +1,64 @@
+<think>
+Okay, so I need to understand what a pure Nash equilibrium is in game theory. Let me start by recalling what I know about game theory in general. Game theory is the study of mathematical models of strategic interaction among rational decision-makers. It's used in economics, political science, psychology, and other fields. A key concept here is the Nash equilibrium, which I think is a situation where no player can benefit by changing their strategy while the other players keep theirs unchanged. But the question specifically asks about a pure Nash equilibrium, so I need to differentiate between pure and mixed strategies.
+
+First, what is a strategy in game theory? A strategy is a complete plan of action a player will take given the set of circumstances that might arise. A pure strategy provides a complete definition of how a player will play a game, determining the move a player will make for any situation they might face. In contrast, a mixed strategy involves assigning probabilities to each pure strategy, which allows players to randomize over possible moves.
+
+So, a pure Nash equilibrium would then be a situation where each player's strategy is a pure strategy, and no player can benefit by changing their own strategy while the other players keep theirs fixed. That makes sense. So in other words, in a pure Nash equilibrium, everyone is choosing a specific action (not randomizing) and no one has an incentive to deviate from their chosen action given what others are doing.
+
+Let me think of an example to solidify this. The classic example is the Prisoner's Dilemma. In that game, two suspects are arrested and interrogated separately. Each can either betray the other (defect) or remain silent (cooperate). The payoff is such that if both defect, they both get moderate sentences. If one defects and the other cooperates, the defector goes free and the cooperator gets a harsh sentence. If both cooperate, they get light sentences. The Nash equilibrium here is both defecting, because regardless of what the other does, each player is better off defecting. Since both are choosing a pure strategy (defect), this is a pure Nash equilibrium.
+
+Another example might be the Battle of the Sexes game. Suppose a couple wants to spend time together but have different preferences on activities: one prefers football, the other ballet. They must decide without communicating. The payoff matrix could be structured so that both get a higher payoff if they coordinate, even if it's not their preferred activity. The pure Nash equilibria here would be both going to football or both going to ballet. Each player would not want to switch unilaterally because then they'd end up alone, which is worse.
+
+Wait, but how do we formally define this? Let me try to structure it. In a normal-form game with players, each player has a set of strategies. A strategy profile is a set of strategies, one for each player. A pure strategy profile is when each player's strategy is a pure strategy. Then, a pure Nash equilibrium is a strategy profile where no player can increase their payoff by switching to a different pure strategy, given the strategies of the other players.
+
+Mathematically, suppose we have a game with n players. Each player i has a strategy set S_i, and a payoff function u_i: S_1 × S_2 × ... × S_n → R. A pure strategy profile (s_1*, s_2*, ..., s_n*) is a pure Nash equilibrium if for every player i, and for every strategy s_i in S_i, the payoff u_i(s_1*, ..., s_i*, ..., s_n*) ≥ u_i(s_1*, ..., s_i, ..., s_n*). That is, each player's strategy is a best response to the others' strategies.
+
+So the key points are: all players are using pure strategies, and unilateral deviation does not benefit any player. This is different from a mixed Nash equilibrium where players use mixed strategies (probability distributions over pure strategies), and the equilibrium is defined in terms of expected payoffs.
+
+It's important to note that not all games have a pure Nash equilibrium. For example, games like Rock-Paper-Scissors don't have a pure Nash equilibrium because any pure strategy can be beaten by another. The Nash equilibrium in such cases is mixed, where each player randomizes equally among rock, paper, and scissors.
+
+Another example where pure Nash equilibrium exists is in coordination games. If two players need to choose between driving on the left or right side of the road, the pure Nash equilibria are both choosing left or both choosing right. Neither can benefit by switching if they're already coordinated.
+
+Wait, but how do we determine if a pure Nash equilibrium exists in a game? One way is to check each strategy profile and see if any player has an incentive to deviate. If none do, that's a pure Nash equilibrium. However, this can be computationally intensive for large games.
+
+In some cases, the existence can be proven via fixed-point theorems, like Nash's theorem, which states that every finite game has at least one Nash equilibrium, possibly in mixed strategies. But pure Nash equilibria aren't guaranteed. For instance, games with certain structures, like potential games, do have pure Nash equilibria.
+
+I should also consider the difference between dominant strategies and Nash equilibria. A dominant strategy is one that is optimal regardless of what others do. A Nash equilibrium only requires that the strategy is optimal given the others' strategies. So a dominant strategy equilibrium is a special case of Nash equilibrium where each player's strategy is dominant.
+
+To summarize, a pure Nash equilibrium is a set of strategies, one for each player, such that no player can benefit by changing their strategy while the others keep theirs unchanged, with all strategies being pure (non-randomized). It's a foundational concept in game theory, providing a solution concept where players' strategies are mutually optimal responses.
+
+But let me verify if my understanding is correct. Suppose in a game, if each player is choosing a pure strategy and no one wants to switch, that's a pure NE. Yes. If even one player could benefit by switching, then it's not a NE. So in the Prisoner's Dilemma, (Defect, Defect) is the pure NE because both players choosing defect is stable—neither can gain by switching to cooperate given the other's choice. 
+
+Another test case: the Stag Hunt game. If two hunters can choose to hunt a stag or a hare. Hunting a stag requires cooperation but gives a higher payoff, while hunting a hare is a safe lower payoff. The pure Nash equilibria here are both hunting stag or both hunting hare. If one is hunting stag and the other hare, the stag hunter would prefer to switch to hare to get some payoff instead of none. So again, the pure Nash equilibria are the coordinated outcomes.
+
+So in essence, pure Nash equilibrium is about stability in strategies where no unilateral deviation is profitable. It's a key solution concept because it identifies outcomes where players, acting independently, have no reason to change their behavior, assuming others don't change theirs either.
+
+I think I have a good grasp now. To recap: pure strategies are specific actions, not probabilistic mixes. Pure Nash equilibrium is when all players use pure strategies and no player gains by changing their own strategy alone. Examples include Prisoner's Dilemma's mutual defection, Battle of the Sexes' coordinated choices, and Stag Hunt's coordinated hunting. Not all games have pure Nash equilibria, but when they do, it's a stable outcome.
+</think>
+
+A **pure Nash equilibrium** is a fundamental concept in game theory where each player in a game selects a specific strategy (known as a **pure strategy**) that is optimal for them, given the strategies chosen by the other players. In this equilibrium, no player can benefit by unilaterally changing their strategy while the others keep theirs unchanged. 
+
+### Key Characteristics:
+1. **Pure Strategies**: Each player chooses a single, definite action (no randomization).
+2. **Mutual Best Responses**: Every player's strategy is the best possible reply to the strategies of the others.
+3. **Stability**: No player has an incentive to deviate from their chosen strategy.
+
+### Formal Definition:
+In a game with \( n \) players, let \( S_i \) be the set of pure strategies for player \( i \), and \( u_i \) be the payoff function for player \( i \). A **pure strategy profile** \((s_1^*, s_2^*, \dots, s_n^*)\) is a **pure Nash equilibrium** if for every player \( i \):
+\[
+u_i(s_1^*, \dots, s_i^*, \dots, s_n^*) \geq u_i(s_1^*, \dots, s_i, \dots, s_n^*)
+\]
+for all \( s_i \in S_i \). This means player \( i \) cannot improve their payoff by switching to any other pure strategy \( s_i \).
+
+### Examples:
+1. **Prisoner's Dilemma**: Both players defect (mutual defection) because neither gains by unilaterally cooperating.
+2. **Battle of the Sexes**: Both players coordinate on the same activity (e.g., both choose football or both choose ballet).
+3. **Stag Hunt**: Both players hunt stag (high reward with cooperation) or both hunt hare (safe, individual payoff).
+
+### Notes:
+- Pure Nash equilibria are **not guaranteed** in all games (e.g., Rock-Paper-Scissors has no pure Nash equilibrium but has a mixed-strategy equilibrium).
+- They are distinct from **mixed Nash equilibria**, where players randomize over strategies.
+- Existence can be proven for certain classes of games (e.g., potential games) but not universally.
+
+### Why It Matters:
+Pure Nash equilibria represent stable, self-enforcing outcomes in strategic interactions, where rational players have no reason to alter their behavior unilaterally. They are widely used to predict outcomes in economics, politics, and social sciences.

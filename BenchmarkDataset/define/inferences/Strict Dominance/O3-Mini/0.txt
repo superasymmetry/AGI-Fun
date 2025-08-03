@@ -1,0 +1,11 @@
+In game theory, a strategy is said to strictly dominate another strategy if it always results in a better payoff for a player, regardless of what the other players do. Specifically, consider a strategic game where \( S_i \) is the set of strategies available to player \( i \), and \( u_i \) is the payoff function for player \( i \).
+
+A strategy \( s_i' \in S_i \) strictly dominates another strategy \( s_i \in S_i \) if for every combination of the other players' strategies \( s_{-i} \), the payoff \( u_i(s_i', s_{-i}) \) is greater than \( u_i(s_i, s_{-i}) \). Mathematically, this is expressed as:
+
+\[
+u_i(s_i', s_{-i}) > u_i(s_i, s_{-i}) \quad \text{for all} \quad s_{-i} \in S_{-i}
+\]
+
+where \( s_{-i} \) denotes the strategy profile of all players except player \( i \).
+
+If a strategy is strictly dominated, a rational player would never choose it, since there is always a better alternative available, regardless of the actions of other players. Identifying and eliminating strictly dominated strategies is a common method used to simplify the analysis of games by reducing the number of strategies that need to be considered.

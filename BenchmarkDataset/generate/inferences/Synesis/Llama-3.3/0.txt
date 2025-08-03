@@ -1,0 +1,7 @@
+{
+    "concept": "Synesis",
+    "semantic_condition": "hope",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "order",
+    "inferences": "Maintaining a sense of hope in the face of adversity is what gives us the strength to rebuild and restore order in our lives, reminding us that even in chaos, there is always a way to create a new and better world."
+}

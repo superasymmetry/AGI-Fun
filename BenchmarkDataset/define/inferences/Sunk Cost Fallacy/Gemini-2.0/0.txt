@@ -1,0 +1,39 @@
+The sunk cost fallacy is a cognitive bias where people continue to invest resources (time, money, effort) into a losing proposition simply because they have already invested resources into it, rather than cutting their losses and moving on to a more promising alternative.  In essence, they're throwing good money after bad.
+
+Here's a breakdown:
+
+*   **Sunk Costs:** These are costs that have already been incurred and cannot be recovered, regardless of what future actions are taken.  They are "sunk" because they're gone.
+
+*   **The Fallacy:** The fallacy lies in allowing these unrecoverable sunk costs to influence current or future decisions.  Logically, decisions should be based on the potential future costs and benefits of the available options, not on past investments.
+
+*   **Why it happens:** Several factors contribute to the sunk cost fallacy:
+
+    *   **Loss Aversion:** People feel the pain of a loss more strongly than the pleasure of an equivalent gain.  Cutting losses feels like admitting defeat and incurring a loss.
+    *   **Cognitive Dissonance:** Continuing to invest reduces the cognitive dissonance (mental discomfort) that arises from acknowledging a poor initial decision.
+    *   **Escalation of Commitment:** A related phenomenon where individuals or groups escalate their commitment to a failing course of action to justify past decisions, especially when they are publicly responsible for the initial investment.
+    *   **Fear of Waste:** People feel guilty about "wasting" the resources already invested.
+    *   **Hope for Recovery:** The belief that continued investment will eventually lead to success and recoup the losses.
+
+**Examples:**
+
+*   **Staying in a bad relationship:** Someone might stay in an unhappy relationship because they've "already invested so much time and effort" into it.
+*   **Finishing a terrible book:** Reading a book you hate simply because you've already read half of it.
+*   **Continuing a failing project at work:** A company continuing to pour money into a project that is clearly not working because they've already spent a significant amount of money on it.
+*   **Attending an event you no longer want to go to:** You bought a non-refundable ticket to a concert. Even though you now feel sick and don't want to go, you force yourself to attend because you "don't want to waste the money."
+*   **Home Improvement:** Investing more and more money into repairing an old car instead of buying a new, more reliable one.
+
+**Consequences:**
+
+The sunk cost fallacy can lead to:
+
+*   **Continued losses:** Investing more resources into a failing venture only exacerbates the initial loss.
+*   **Missed opportunities:** Staying committed to a bad investment prevents you from pursuing more promising alternatives.
+*   **Poor decision-making:** Decisions are based on emotional factors (fear of loss, guilt) rather than rational analysis.
+
+**How to overcome the sunk cost fallacy:**
+
+*   **Recognize sunk costs:** Explicitly identify and acknowledge that past costs are irrelevant to current decisions.
+*   **Focus on future costs and benefits:** Evaluate the potential future outcomes of each option, ignoring past investments.
+*   **Seek objective advice:** Get an outside perspective from someone who is not emotionally invested in the past decision.
+*   **Set clear stopping rules:** Define in advance the conditions under which you will abandon a project or investment.
+*   **Accept failure:** Acknowledge that everyone makes mistakes and that cutting losses is sometimes the best course of action.

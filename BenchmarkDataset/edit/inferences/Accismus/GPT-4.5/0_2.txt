@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4.5-preview",
+    "concept": "Accismus",
+    "example": "Cake on my birthday? In my favorite spot? With my favorite people? You _",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Accismus? Include only the text that should replace the blank.\n\n Cake on my birthday? In my favorite spot? With my favorite people? You _",
+    "label": "yes",
+    "inferences": "definitely know how to make me feel special!"
+}

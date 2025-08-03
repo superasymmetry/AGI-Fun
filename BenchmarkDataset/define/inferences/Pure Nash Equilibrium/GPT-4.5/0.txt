@@ -1,0 +1,5 @@
+In game theory, a pure Nash equilibrium is a concept used to describe a stable state in a strategic interaction (or game) involving two or more players. In this state, each player has chosen a strategy, and no player has anything to gain by changing only their own strategy, given that the other players' strategies remain unchanged. 
+
+Formally, a strategy profile (a combination of strategies, one for each player) is a pure Nash equilibrium if, for every player, the strategy they have chosen yields the highest possible payoff given the strategies chosen by the other players. In other words, no player can improve their payoff by unilaterally deviating from their current strategy.
+
+It's called "pure" because it involves players choosing strategies with certainty, as opposed to a mixed Nash equilibrium where players may randomize over possible strategies. Each player's strategy in a pure Nash equilibrium is deterministic and does not involve probabilities. This concept is fundamental in predicting outcomes in competitive scenarios where individuals act independently and rationally.

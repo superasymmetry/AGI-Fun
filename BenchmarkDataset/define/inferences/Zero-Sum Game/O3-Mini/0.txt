@@ -1,0 +1,5 @@
+In game theory, a zero-sum game is a situation in which one participant's gain or loss is exactly balanced by the losses or gains of the other participants. In other words, the total amount of resources available in the game is fixed, and any benefit gained by one player results in an equivalent loss to the other player(s). 
+
+The term "zero-sum" reflects the idea that the sum of gains and losses is zero. If you add up all the gains and subtract all the losses, the net result is zero. This type of game implies a competitive scenario where the interests of the participants are strictly opposed, such as in traditional board games or competitive sports where one player's victory directly correlates with the other player's defeat.
+
+A classic example of a zero-sum game is chess, where there is a clear winner and loser. In economic contexts, zero-sum situations are less common, as most interactions allow for mutual benefit or growth in the total value, which would classify them as non-zero-sum games.

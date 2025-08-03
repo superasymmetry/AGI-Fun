@@ -1,0 +1,7 @@
+{
+    "concept": "Anapest",
+    "semantic_condition": "change",
+    "form_condition": "Do not use any adverbs.",
+    "lexical_condition": "father",
+    "inferences": "My **fa**ther be**came**, a **man** made of **glass**,\nHis **eyes** once so **firm**, now **show** how things **pass**.\n"
+}

@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Pareto Optimality",
+    "example": "Two thirds of the country supports a policy to tax the rich. One third of the country supports a policy to tax the poor.  Everyone prefers some taxes to no taxes, because it\u2019s important to fund the government. The second group has lobbying power and so their preferred policy is enacted.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n Two thirds of the country supports a policy to tax the rich. One third of the country supports a policy to tax the poor.  Everyone prefers some taxes to no taxes, because it\u2019s important to fund the government. The second group has lobbying power and so their preferred policy is enacted.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n Two thirds of the country supports a policy to tax the rich. One third of the country supports a policy to tax the poor.  Everyone prefers some taxes to no taxes, because it\u2019s important to fund the government. The second group has lobbying power and so their preferred policy is enacted.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "[[ (1, 1), (0, 0) ],\n [ (0, 0), (1, 1) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": true
+}

@@ -1,0 +1,7 @@
+{
+    "condition_1": "Normalcy Bias",
+    "condition_2": "Spotlight Effect",
+    "condition_3": "Sunk Cost Fallacy",
+    "prompt": "Generate an example that demonstrates the Normalcy Bias and Spotlight Effect psychological biases, but that does not show the Sunk Cost Fallacy psychological bias.",
+    "inferences": "Normalcy Bias: A person who lives in an area prone to natural disasters, such as hurricanes or earthquakes, may underestimate the likelihood of such an event occurring in their lifetime, despite evidence to the contrary. They may believe that they are immune to such events or that they will have enough time to prepare if one does occur.\nSpotlight Effect: A person who makes a mistake in front of a group of people may overestimate the amount of attention that others are paying to their mistake. They may feel embarrassed and assume that everyone is focused on their mistake, when in reality, others may not have even noticed.\nExample: A person who lives in an area prone to hurricanes may underestimate the likelihood of a hurricane occurring and not take proper precautions, such as stocking up on supplies or having an evacuation plan. When a hurricane does occur, they may feel embarrassed and assume that everyone is focused on their lack of preparation, when in reality, others may be focused on their own safety and well-being."
+}

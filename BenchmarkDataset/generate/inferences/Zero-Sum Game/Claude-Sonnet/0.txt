@@ -1,0 +1,10 @@
+{
+    "concept": "Zero-Sum Game",
+    "prompt": "Generate an example of a zero-sum game. If Player 1 takes the second action, they should receive a payoff of [0, 8, 6] if the other player takes the corresponding actions.   ",
+    "inferences": "Let me help create a zero-sum game with the specified conditions.\n\nFor a zero-sum game, the sum of each player's payoffs in every cell must equal zero, meaning if Player 1 gets x, Player 2 gets -x.\n\nWe know that when Player 1 takes the second action (middle row), they should receive:\n- 0 when Player 2 takes first action\n- 8 when Player 2 takes second action\n- 6 when Player 2 takes third action\n\nLet me create a complete matrix that incorporates these requirements and maintains the zero-sum property.\n\n<OUTPUT>\n[[ (2,-2), (-3,3), (4,-4) ],\n [ (0,0), (8,-8), (6,-6) ],\n [ (5,-5), (1,-1), (-2,2) ]]",
+    "correct": [
+        true,
+        "The payoff matrix is zero-sum"
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 3x3 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                                 It must be in the following format:\n\n[[ (A1,B1), (A2,B2), (A3,B3) ],\n [ (A4,B4), (A5,B5), (A6,B6) ],\n [ (A7,B7), (A8,B8), (A9,B9) ]]\n\nWhere Ai and Bi represent the                                 integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

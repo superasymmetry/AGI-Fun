@@ -1,0 +1,18 @@
+A Shakespearean sonnet, also known as an English sonnet, is a poetic form that consists of 14 lines, typically written in iambic pentameter. This form is characterized by a specific structure and rhyme scheme. Here are the key elements:
+
+1. **Structure**: 
+   - The sonnet is divided into three quatrains (four-line stanzas) followed by a concluding couplet (a two-line stanza).
+   
+2. **Rhyme Scheme**: 
+   - The rhyme scheme of a Shakespearean sonnet is ABABCDCDEFEFGG. Each quatrain has its own alternating rhyme, and the couplet at the end rhymes with itself.
+
+3. **Iambic Pentameter**:
+   - Each line typically contains ten syllables, with the rhythm following an unstressed-stressed pattern. This is known as iambic pentameter.
+
+4. **Themes**:
+   - Common themes in Shakespearean sonnets include love, beauty, time, mortality, and nature.
+
+5. **Turn or Volta**:
+   - Often, there is a "volta" or "turn" at the beginning of the third quatrain. This is a shift in the thematic direction or argument of the poem.
+
+Shakespeare's sonnets, written in this form, are among the most celebrated and studied in English literature.

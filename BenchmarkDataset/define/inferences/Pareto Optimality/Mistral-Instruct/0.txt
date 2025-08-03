@@ -1,0 +1,5 @@
+ In game theory and economics, Pareto optimality, also known as the Pareto efficiency, refers to a state or allocation of resources where no individual can be made better off without making at least one other individual worse off. In other words, it's a situation where no one can be given a bigger slice of the pie without someone else losing a slice.
+
+This concept is named after the Italian economist Vilfredo Pareto. It's used to identify an optimal solution in situations where multiple individuals or groups have conflicting interests. Pareto optimality helps in making decisions that benefit everyone as much as possible, given the constraints and trade-offs involved.
+
+In game theory, Pareto optimality can help determine the Nash equilibrium, which is a solution where no player has an incentive to unilaterally deviate from their strategy, given the strategies of the other players. If a Nash equilibrium is also Pareto optimal, it means that no player can improve their outcome without another player suffering a decrease in their outcome.

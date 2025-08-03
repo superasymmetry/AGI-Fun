@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Pareto Optimality",
+    "example": "A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. All money is put into the pot, and each person gets out the multiplied money they put in.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. All money is put into the pot, and each person gets out the multiplied money they put in.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. All money is put into the pot, and each person gets out the multiplied money they put in.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "To remove the Pareto optimality from this scenario, we can modify the payoff structure so that there exists at least one alternative outcome where at least one individual can be made better off without making anyone else worse off. Here's a modified version:\n\nA group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. However, if all 10 people contribute, the pot only multiplies by 1.5 (instead of 2). Each person gets out the multiplied money they put in.\n\nIn the original scenario, if all contribute, each gets $2 (Pareto optimal, as no one can get more without others getting less). In the modified version, if all contribute, each gets $1.5, but if 9 contribute, they each get $2 (since the pot still doubles for 9 contributors). Thus, the 10th person could be better off by not contributing (free-riding), and the other 9 could also be better off if the 10th doesn't contribute (since they'd get $2 instead of $1.5). This breaks Pareto optimality.\n\nHere's the 2x2 payoff matrix representing a simplified version of this (Player 1: Contribute/Don't, Player 2: Contribute/Don't):\n\n[[ (1.5, 1.5), (0, 2) ],\n [ (2, 0),    (1, 1) ]]  \n\n<OUTPUT>\n[[ (1, 1), (0, 2) ],\n [ (2, 0), (1, 1) ]]",
+    "message": "Found 4 Pareto optimal outcomes.",
+    "correct": false
+}

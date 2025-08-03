@@ -1,0 +1,7 @@
+{
+    "concept": "Hyperbaton",
+    "semantic_condition": "hope",
+    "form_condition": "Use a comma in the first sentence or line.",
+    "lexical_condition": "shine",
+    "inferences": "Through darkest storms, the light eternal waited,\nShine would it again when dawn abated.\n\n(In this hyperbaton, the normal word order \"it would shine\" is deliberately inverted to \"shine would it\" in the second line, creating the rhetorical effect characteristic of hyperbaton.)"
+}

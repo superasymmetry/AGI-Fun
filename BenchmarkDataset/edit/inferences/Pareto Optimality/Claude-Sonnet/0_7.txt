@@ -1,0 +1,18 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Pareto Optimality",
+    "example": "A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. After money is put in the pot, it is pooled, and each person gets one tenth of whatever comes out of the pot. No one puts their money in.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. After money is put in the pot, it is pooled, and each person gets one tenth of whatever comes out of the pot. No one puts their money in.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. After money is put in the pot, it is pooled, and each person gets one tenth of whatever comes out of the pot. No one puts their money in.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "Let me help create a payoff matrix that illustrates Pareto Optimality using this scenario.\n\nLet's simplify this to a 2-player version of the game to fit a 2x2 matrix, where each player can choose to either \"Contribute\" $1 or \"Don't Contribute.\"\n\nAnalysis:\n- If both players contribute $1 each:\n  * Total pot = $2, doubles to $4\n  * Each player gets $2 back\n  * Net payoff: $2 - $1 = $1 for each player\n\n- If one player contributes and the other doesn't:\n  * Total pot = $1, doubles to $2\n  * Each player gets $1 back\n  * Contributing player net: $1 - $1 = 0\n  * Non-contributing player net: $1 - $0 = 1\n\n- If neither contributes:\n  * No one gains or loses anything\n  * Net payoff: 0 for both\n\nThe payoff matrix below shows a Pareto optimal outcome when both players contribute, as neither player can improve their payoff without making the other player worse off. The (1,1) outcome in the top-left is Pareto optimal because any other outcome makes at least one player worse off.\n\n<OUTPUT>\n[[ (1,1), (0,1) ],\n [ (1,0), (0,0) ]]",
+    "message": "Found 1 Pareto optimal outcomes.",
+    "correct": true
+}

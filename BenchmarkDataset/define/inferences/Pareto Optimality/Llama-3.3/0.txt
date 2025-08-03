@@ -1,0 +1,16 @@
+In game theory, Pareto optimality is a concept that describes a state where no individual or player can improve their outcome without making at least one other player worse off. It is named after the Italian economist Vilfredo Pareto, who first introduced the concept in the late 19th century.
+
+In a Pareto optimal state, any change or deviation from the current situation would make at least one player worse off, while others may or may not be affected. In other words, it is a state where no further improvements can be made for one player without harming another player.
+
+To be more precise, a situation is considered Pareto optimal if:
+
+1. No player can improve their outcome (e.g., increase their payoff or utility) without making at least one other player worse off.
+2. No player is worse off than they could be, given the outcomes of the other players.
+
+Pareto optimality is often used as a criterion for evaluating the efficiency of a solution or outcome in game theory, economics, and other fields. It is a useful concept for analyzing situations where multiple players or agents have conflicting interests and are trying to maximize their own outcomes.
+
+Here's an example to illustrate the concept:
+
+Suppose two friends, Alice and Bob, are deciding how to split a pizza. They both like pepperoni and mushrooms, but Alice prefers pepperoni, while Bob prefers mushrooms. A Pareto optimal allocation of the pizza would be one where Alice gets all the pepperoni slices and Bob gets all the mushroom slices. In this state, neither Alice nor Bob can improve their outcome without making the other worse off. If Alice were to take some of Bob's mushroom slices, Bob would be worse off, and if Bob were to take some of Alice's pepperoni slices, Alice would be worse off.
+
+Pareto optimality is an important concept in game theory, as it helps to identify efficient and stable outcomes in situations where multiple players are interacting and trying to achieve their goals.

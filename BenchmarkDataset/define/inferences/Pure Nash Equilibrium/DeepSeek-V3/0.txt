@@ -1,0 +1,38 @@
+In game theory, a **pure Nash equilibrium** (pure NE) is a set of strategies, one for each player in a game, where no player can benefit by unilaterally changing their strategy while the other players keep theirs unchanged. 
+
+### Formal Definition:
+Consider a game with \( n \) players, where each player \( i \) has a strategy set \( S_i \). A strategy profile \( s^* = (s_1^*, s_2^*, \ldots, s_n^*) \) is a **pure Nash equilibrium** if for every player \( i \), the following holds:
+
+\[
+u_i(s_i^*, s_{-i}^*) \geq u_i(s_i, s_{-i}^*) \quad \text{for all } s_i \in S_i
+\]
+
+Here:
+- \( u_i \) is the payoff function for player \( i \),
+- \( s_{-i}^* \) represents the strategies of all players except \( i \),
+- \( s_i^* \) is the strategy of player \( i \) in the equilibrium,
+- \( s_i \) is any alternative strategy for player \( i \).
+
+### Intuition:
+- At a pure Nash equilibrium, no player has an incentive to deviate from their chosen strategy because doing so would not improve their payoff, given what the other players are doing.
+- The equilibrium is "pure" because each player chooses a single deterministic strategy (as opposed to a mixed strategy, where players randomize over multiple strategies).
+
+### Example: Prisoner's Dilemma
+Consider the classic Prisoner's Dilemma with two players, each having two strategies: **Cooperate (C)** or **Defect (D)**. The payoff matrix is:
+
+|               | Player 2: C | Player 2: D |
+|---------------|------------|------------|
+| **Player 1: C** | (-1, -1)   | (-3, 0)    |
+| **Player 1: D** | (0, -3)    | (-2, -2)   |
+
+The pure Nash equilibrium here is **(D, D)**, because:
+- If Player 1 unilaterally switches from D to C, their payoff goes from -2 to -3 (worse).
+- If Player 2 unilaterally switches from D to C, their payoff goes from -2 to -3 (worse).
+Thus, neither player can improve their outcome by changing their strategy alone.
+
+### Key Points:
+1. **No unilateral deviation**: No player can gain by changing their strategy while others stay fixed.
+2. **Not necessarily optimal**: A pure Nash equilibrium does not always lead to the best collective outcome (e.g., in the Prisoner's Dilemma, mutual cooperation would be better but is not an equilibrium).
+3. **Existence**: Not all games have a pure Nash equilibrium (e.g., Rock-Paper-Scissors has none in pure strategies but does in mixed strategies).
+
+Pure Nash equilibria are foundational in game theory and are used to analyze strategic interactions in economics, political science, biology, and more.

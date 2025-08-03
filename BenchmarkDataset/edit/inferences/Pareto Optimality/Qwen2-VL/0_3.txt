@@ -1,0 +1,18 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Pareto Optimality",
+    "example": "The lead singer of a is indifferent between large venues and small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer who is indifferent, so they only play large venues.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n The lead singer of a is indifferent between large venues and small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer who is indifferent, so they only play large venues.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n The lead singer of a is indifferent between large venues and small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer who is indifferent, so they only play large venues.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "In this scenario, the lead singer is indifferent between large venues and small venues, while the rest of the band prefers small venues. However, the booking agent only listens to the lead singer, so they only play large venues. This is an example of a Pareto suboptimal outcome because there is a possible alternative (playing small venues) that would make at least one person better off (the rest of the band) without making anyone worse off (the lead singer is indifferent). A Pareto optimal outcome would be one in which no one can be made better off without making someone else worse off.\n<OUTPUT>\n[[ (1,0), (1,1) ],\n [ (0,1), (0,0) ]]",
+    "message": "Found 1 Pareto optimal outcomes.",
+    "correct": true
+}

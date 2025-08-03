@@ -1,0 +1,47 @@
+In game theory, **iterated dominance** (also called **iterated elimination of dominated strategies**) is a method used to solve games by sequentially removing strategies that are strictly or weakly dominated for a player, simplifying the game until no further dominated strategies remain.
+
+### Key Concepts:
+1. **Dominated Strategy**:  
+   - A strategy is **strictly dominated** if there exists another strategy that yields a higher payoff for a player **regardless of what the other players do**.  
+   - A strategy is **weakly dominated** if another strategy does at least as well in all cases and strictly better in at least one.
+
+2. **Process of Iterated Elimination**:  
+   - **Step 1**: Identify and remove a strictly dominated strategy for any player.  
+   - **Step 2**: Repeat the process for the reduced game (since removing a strategy may make other strategies dominated).  
+   - Continue until no more dominated strategies exist.
+
+3. **Result**:  
+   - The remaining strategies form the **iterated dominance solution**.  
+   - If only one strategy per player remains, it is a **dominance-solvable game**, and the outcome is a Nash Equilibrium.
+
+### Example:  
+Consider the following payoff matrix for two players (Row and Column):
+
+|               | Column: L | Column: R |
+|---------------|----------|----------|
+| **Row: U**    | (1, 1)   | (0, 2)   |
+| **Row: D**    | (2, 0)   | (1, 1)   |
+
+- For **Row**:  
+  - If Column plays **L**, Row gets 1 from **U** and 2 from **D**.  
+  - If Column plays **R**, Row gets 0 from **U** and 1 from **D**.  
+  → **U** is strictly dominated by **D** for Row. Eliminate **U**.
+
+- Reduced game:  
+
+|               | Column: L | Column: R |
+|---------------|----------|----------|
+| **Row: D**    | (2, 0)   | (1, 1)   |
+
+- For **Column**:  
+  - If Row plays **D**, Column gets 0 from **L** and 1 from **R**.  
+  → **L** is strictly dominated by **R** for Column. Eliminate **L**.
+
+- Final outcome: **(D, R)** with payoffs (1, 1).  
+
+### Notes:
+- **Order matters**: The sequence of elimination can affect the result if weakly dominated strategies are removed.  
+- **Not all games are dominance-solvable**: Some games (e.g., Rock-Paper-Scissors) have no dominated strategies to eliminate.  
+- **Relation to Nash Equilibrium**: A strategy profile surviving iterated elimination of strictly dominated strategies is a Nash Equilibrium (though not all Nash Equilibria survive this process).
+
+This method is particularly useful for simplifying complex games and identifying rational outcomes.

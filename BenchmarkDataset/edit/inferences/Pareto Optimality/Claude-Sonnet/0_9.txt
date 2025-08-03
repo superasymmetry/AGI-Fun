@@ -1,0 +1,18 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Pareto Optimality",
+    "example": "C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "Let me help create a payoff matrix that illustrates Pareto optimality in this restaurant choice scenario.\n\nFor Pareto optimality, we want a situation where we can't make one player better off without making the other player worse off. \n\nIn this scenario:\n- Player 1 (C) gets similar utility from both fancy and casual restaurants\n- Player 2 (D) strongly prefers casual restaurants\n\nLet's assign the payoffs:\n\nFor C (Player 1):\n- Fancy restaurant: 3 (slightly prefers)\n- Casual restaurant: 2 (still good)\n\nFor D (Player 2):\n- Fancy restaurant: 1 (dislikes)\n- Casual restaurant: 5 (strongly prefers)\n\nThe casual restaurant choice (2,5) would be Pareto optimal because:\n- Moving to fancy (3,1) would make D worse off\n- No other move can make either player better off without hurting the other\n\n<OUTPUT>\n[[ (3,1), (2,5) ],\n [ (3,1), (2,5) ]]",
+    "message": "Found 4 Pareto optimal outcomes.",
+    "correct": true
+}

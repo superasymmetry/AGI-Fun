@@ -1,0 +1,32 @@
+The fundamental attribution error (FAE), also known as the correspondence bias or attribution effect, is the tendency to **overemphasize dispositional or personality-based explanations for behaviors observed in others while underemphasizing situational explanations.**
+
+In simpler terms, it means we tend to think people do things because of *who they are* (their personality, character, traits) rather than because of *the situation they are in*.
+
+Here's a breakdown:
+
+*   **Dispositional Attribution:** Explaining behavior by attributing it to internal factors like personality, character, ability, or motivation. (e.g., "They failed the test because they're not smart.")
+
+*   **Situational Attribution:** Explaining behavior by attributing it to external factors like the environment, luck, other people, or circumstances. (e.g., "They failed the test because it was unfairly difficult and they had a terrible week.")
+
+The fundamental attribution error leads us to:
+
+*   **Judge others harshly:** We might think someone who cuts us off in traffic is a rude person, rather than considering they might be rushing to the hospital.
+*   **Overestimate personal responsibility for success and failure:** We may attribute our own successes to our hard work and intelligence, but downplay the role of luck or helpful circumstances.  (While we are prone to make the FAE when judging others, we tend to do the opposite when judging ourselves.)
+*   **Misunderstand social situations:** We may fail to appreciate how social roles and pressures can influence behavior. For instance, we might assume a strict boss is naturally tyrannical, without considering the demands and constraints of their position.
+
+**Example:**
+
+Imagine you see someone trip and fall in the street. The fundamental attribution error would lead you to think, "They must be clumsy," attributing the fall to their inherent clumsiness. A more accurate explanation might consider situational factors like an uneven sidewalk, slippery conditions, or that they were distracted.
+
+**Why does it happen?**
+
+Several factors contribute to the FAE:
+
+*   **Perceptual Salience:** We tend to focus on the *person* we are observing and their actions, while the situation fades into the background. The actor is more visually prominent and easier to process than the complexities of the environment.
+*   **Lack of Awareness:** We may be unaware of all the situational factors that might be influencing the person's behavior.
+*   **Cognitive Effort:** Dispositional attributions are often easier and more automatic than situational ones. It requires more cognitive effort to consider all the possible external factors.
+*   **Cultural Differences:**  Collectivist cultures (emphasizing group harmony and interdependence) tend to show the FAE less often than individualistic cultures (emphasizing personal autonomy and independence).
+
+**In Summary:**
+
+The fundamental attribution error is a pervasive bias that makes us jump to conclusions about people's character based on their behavior, often neglecting the significant influence of external circumstances. Recognizing this bias is crucial for more accurate and empathetic social understanding.

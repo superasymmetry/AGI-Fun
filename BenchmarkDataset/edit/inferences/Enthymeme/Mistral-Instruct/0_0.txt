@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Enthymeme",
+    "example": "Since she is a student, she has a student ID. It must be true that _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Enthymeme? Include only the text that should replace the blank.\n\n Since she is a student, she has a student ID. It must be true that _.",
+    "label": "yes",
+    "inferences": " She always carries her student ID with her. (This statement is a complete argument, not an enthymeme, because it does not leave out any necessary premises.)"
+}

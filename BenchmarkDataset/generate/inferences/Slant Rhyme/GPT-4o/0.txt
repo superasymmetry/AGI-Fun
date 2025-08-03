@@ -1,0 +1,7 @@
+{
+    "concept": "Slant Rhyme",
+    "semantic_condition": "anger",
+    "form_condition": "End with a one-vowel word.",
+    "lexical_condition": "friend",
+    "inferences": "In the fiery night, my words ascend,  \nWhen truth and lies both twist and bend.  \nFury's grip, yet still I defend,  \nTrust betrayed, my voice won't mend,  \nA silent cry, I send.  \nBurns past our strands, just end."
+}

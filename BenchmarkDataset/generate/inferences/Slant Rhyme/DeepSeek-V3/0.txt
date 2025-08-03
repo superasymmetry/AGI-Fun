@@ -1,0 +1,7 @@
+{
+    "concept": "Slant Rhyme",
+    "semantic_condition": "childhood memories",
+    "form_condition": "Do not use any adverbs.",
+    "lexical_condition": "press",
+    "inferences": "**Childhood Memory Slant Rhyme:**  \n\n*We\u2019d press our hands in fresh cement,*  \n*the marks we left\u2014so soft, so bent.*  \n\nHere, *\"press\"* and *\"bent\"* form a slant rhyme\u2014their ending sounds are similar but not identical, fitting the theme of childhood nostalgia."
+}

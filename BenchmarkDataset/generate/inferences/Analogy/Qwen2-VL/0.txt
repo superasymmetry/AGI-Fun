@@ -1,0 +1,7 @@
+{
+    "concept": "Analogy",
+    "semantic_condition": "a hobby",
+    "form_condition": "Do not use any pronouns.",
+    "lexical_condition": "jump",
+    "inferences": "Jumping rope is to exercise as painting is to relaxation."
+}

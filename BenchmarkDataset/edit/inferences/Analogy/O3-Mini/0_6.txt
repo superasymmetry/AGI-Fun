@@ -1,0 +1,8 @@
+{
+    "model": "o3-mini",
+    "concept": "Analogy",
+    "example": "The baseball players _ troops _ extreme conditions",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Analogy? Include only the text that should replace the blank.\n\n The baseball players _ troops _ extreme conditions",
+    "label": "no",
+    "inferences": "endure"
+}

@@ -1,0 +1,7 @@
+{
+    "concept": "Paradox",
+    "semantic_condition": "your dreams",
+    "form_condition": "Use the third-person perspective.",
+    "lexical_condition": "run",
+    "inferences": "She found herself trapped in a paradoxical dream, where she was forced to run towards a destination that constantly shifted further away. The more she ran, the more the finish line seemed to recede, yet if she stopped running, it would instantly appear right in front of her. \n\nIn this bizarre dream, she was compelled to keep running, even though it seemed futile. If she didn't run, the destination would be within reach, but the moment she took a step forward, it would vanish into the distance. Her mind was torn between the desire to reach the finish line and the futility of her actions, as she was caught in an endless cycle of running and chasing a goal that always remained just out of reach.\n\nAs she ran, the scenery around her changed, with roads looping back onto themselves and paths merging into infinite corridors. She began to question the nature of her dream, wondering if she was running towards something or away from it. The paradox had her trapped, and she couldn't wake up, forced to continue running in a never-ending pursuit of a goal that seemed to be always one step ahead."
+}

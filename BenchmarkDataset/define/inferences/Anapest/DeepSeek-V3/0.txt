@@ -1,0 +1,19 @@
+An **anapest** (or **anapaest**) is a metrical foot in poetry consisting of three syllables, where the first two are **unstressed** and the third is **stressed** (˘ ˘ ′). The pattern is:  
+
+**da-da-DUM**  
+
+### Examples:  
+1. **"The Assyrian came down like the wolf on the fold"**  
+   *(Lord Byron, "The Destruction of Sennacherib")*  
+   - Breakdown: "The As-syr-ian came down..." (˘ ˘ ′ | ˘ ˘ ′)  
+
+2. **"Twas the night before Christmas, when all through the house"**  
+   *(Clement Clarke Moore, "A Visit from St. Nicholas")*  
+   - The opening line is largely anapestic.  
+
+### Key Features:  
+- Creates a **galloping, rhythmic** or **lively** effect.  
+- Common in **limericks, ballads, and comic verse**.  
+- Contrasts with the **iamb** (˘ ′) and **dactyl** (′ ˘ ˘).  
+
+Would you like examples in modern songs or more classic poetry?

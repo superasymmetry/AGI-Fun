@@ -1,0 +1,18 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Pareto Optimality",
+    "example": "A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "Let me help create a payoff matrix that specifically avoids Pareto optimality. \n\nIn the original scenario, both players prefer bananas, so let's value bananas at 2 points and apples at 1 point for both players.\n\nFor this to NOT be Pareto optimal, we need at least one alternative allocation where at least one player can be made better off without making the other player worse off.\n\nLet's create a simple 2x2 matrix where:\n- Strategy 1 for each player is to demand 2 bananas and 1 apple\n- Strategy 2 for each player is to demand 1 banana and 2 apples\n\nIf both demand high (Strategy 1), they get nothing (0,0)\nIf both demand low (Strategy 2), they split evenly\nIf one demands high and other low, high demander gets more\n\nThis will create a situation where there are clearly better outcomes available to both players than some of the chosen strategies.\n\n<OUTPUT>\n[[ (0,0), (5,2) ],\n [ (2,5), (3,3) ]]",
+    "message": "Found 3 Pareto optimal outcomes.",
+    "correct": false
+}

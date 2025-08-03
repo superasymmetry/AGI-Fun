@@ -1,0 +1,30 @@
+An **enthymeme** is a rhetorical device or logical argument in which one premise (or sometimes the conclusion) is left unstated but implied, requiring the audience to fill in the missing part. It is often used in persuasive speech and writing to make arguments more concise and engaging.
+
+### Key Features of an Enthymeme:
+1. **Missing Component**: Typically, either the major premise, minor premise, or conclusion is omitted because it is assumed to be obvious or widely accepted.
+2. **Relies on Audience Knowledge**: The effectiveness of an enthymeme depends on the audience recognizing and supplying the unstated premise.
+3. **Common in Everyday Reasoning**: People frequently use enthymemes in casual conversation, advertising, and political rhetoric.
+
+### Examples:
+1. **Classic Example**:  
+   - **Stated**: "Socrates is mortal because he is a man."  
+   - **Unstated Major Premise**: "All men are mortal."  
+   - **Full Syllogism**:  
+     - Major Premise: All men are mortal.  
+     - Minor Premise: Socrates is a man.  
+     - Conclusion: Socrates is mortal.  
+
+2. **Everyday Example**:  
+   - "You should trust her; she’s a doctor."  
+   - **Unstated Premise**: "Doctors are trustworthy."  
+
+3. **Persuasive Use (Advertising)**:  
+   - "This car is the best—it’s the most popular!"  
+   - **Unstated Premise**: "The most popular car must be the best."  
+
+### Why Use an Enthymeme?
+- **Efficiency**: Makes arguments quicker and more fluid.  
+- **Persuasion**: Engages the audience by making them participate in completing the reasoning.  
+- **Appeal to Shared Beliefs**: Works well when the unstated premise aligns with common assumptions.  
+
+Enthymemes are foundational in **Aristotelian rhetoric**, where they serve as a form of "rhetorical syllogism," blending logic with audience psychology.

@@ -1,0 +1,45 @@
+In game theory, a **pure Nash equilibrium** is a state where no player can benefit by unilaterally changing their strategy, assuming all other players keep their strategies unchanged.  Here's a breakdown:
+
+*   **Game:**  A game consists of:
+    *   Players: The decision-makers.
+    *   Strategies:  The possible actions each player can take.
+    *   Payoffs: The outcome (usually a number representing utility or profit) each player receives based on the combination of strategies chosen by all players.
+
+*   **Strategy Profile:** A strategy profile is a list of strategies, one for each player.  For example, if there are two players, A and B, and A's strategy is "cooperate" and B's strategy is "defect," then the strategy profile is (cooperate, defect).
+
+*   **Unilateral Deviation:**  A unilateral deviation is when only *one* player changes their strategy, while all other players maintain their current strategies.
+
+*   **Equilibrium:** A Nash equilibrium is a stable state.  It's like a resting point.
+
+**Putting it all together: A pure Nash equilibrium is a strategy profile such that, for each player, their chosen strategy is the *best response* to the other players' chosen strategies. "Best response" means that given what the other players are doing, that player cannot achieve a higher payoff by switching to a different strategy.**
+
+**Key Characteristics:**
+
+*   **Pure Strategy:** The player chooses a single, specific action with certainty.  Contrast this with a mixed strategy, where a player randomizes between different actions. A pure strategy equilibrium is based solely on these deterministic, single actions.
+*   **Stability:**  If a game is in a pure Nash equilibrium, no player has an incentive to deviate.  The status quo is self-enforcing.
+*   **Not always guaranteed:** A game may have one pure Nash equilibrium, multiple pure Nash equilibria, or *no* pure Nash equilibrium.  Some games only have Nash equilibria in mixed strategies.
+*   **Not necessarily optimal:**  A Nash equilibrium is not necessarily the most efficient or desirable outcome for all players collectively.  The Prisoner's Dilemma is a classic example where the Nash equilibrium leads to a worse outcome for both players than if they had cooperated.
+
+**Example: The Coordination Game**
+
+Imagine two drivers approaching an intersection at the same time.  They both need to decide whether to drive on the left or the right.  If they choose the same side, they avoid a collision (high payoff). If they choose different sides, they collide (low payoff).
+
+Payoff Matrix:
+
+|           | Driver B: Left | Driver B: Right |
+|-----------|----------------|-----------------|
+| Driver A: Left | (1, 1)          | (0, 0)          |
+| Driver A: Right| (0, 0)          | (1, 1)          |
+
+In this game, there are two pure Nash equilibria:
+
+*   (Left, Left): Both drivers choose left. Neither driver would benefit from switching to the right, as that would result in a collision.
+*   (Right, Right): Both drivers choose right. Neither driver would benefit from switching to the left, as that would result in a collision.
+
+**How to find a Pure Nash Equilibrium (in a small game):**
+
+1.  **Consider each player's perspective, one at a time.**
+2.  **For each strategy a player could take, determine the best response(s) of the other players.**
+3.  **Look for strategy profiles where *every* player is playing a best response to the other players' strategies.**  These are the pure Nash equilibria.
+
+**In summary, a pure Nash equilibrium is a strategy profile where each player is doing the best they can, given what the other players are doing, and they are all playing a single, deterministic strategy.**

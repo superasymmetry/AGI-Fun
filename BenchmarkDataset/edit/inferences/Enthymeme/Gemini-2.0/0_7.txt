@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Enthymeme",
+    "example": "Everyone who has a computer has access to the Internet.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Enthymeme? Include only the text that should replace the blank.\n\n Everyone who has a computer has access to the Internet.",
+    "label": "no",
+    "inferences": "Therefore, everyone has access to the Internet.\n"
+}

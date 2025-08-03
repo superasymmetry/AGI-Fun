@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Asyndeton",
+    "example": "The doctor's advice was to _ sleep until my symptoms healed and only after that point could I go back to normal day-to-day activities",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Asyndeton? Include only the text that should replace the blank.\n\n The doctor's advice was to _ sleep until my symptoms healed and only after that point could I go back to normal day-to-day activities",
+    "label": "yes",
+    "inferences": "rest, \n"
+}

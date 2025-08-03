@@ -1,0 +1,5 @@
+In game theory, a symmetric game is one where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. In other words, the identity of the players does not affect the payoff structure. If you and another player switch roles and strategies, your respective payoffs remain the same. 
+
+For example, in a symmetric game, if playing strategy A against strategy B results in a payoff of X, then for any player adopting strategy B against another player using strategy A, the payoff will also be X. Classic examples of symmetric games include the Prisoner's Dilemma and the game of Chicken, where the payoff matrix is such that swapping the identities or strategies of players gives the same outcomes as before. 
+
+A formal definition can be stated as: a game is symmetric if the payoff to any player depends only on their own strategy and the strategies of others, not on who they are. This kind of symmetry often simplifies the analysis of the game, as one can often consider only a single player's decision without loss of generality.

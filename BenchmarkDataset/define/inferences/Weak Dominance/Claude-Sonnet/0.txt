@@ -1,0 +1,14 @@
+In game theory, weak dominance (also called weak strategic dominance) occurs when one strategy is at least as good as another strategy in all scenarios and strictly better in at least one scenario. 
+
+A strategy A weakly dominates strategy B if:
+1. Strategy A performs at least as well as strategy B in all possible situations
+2. Strategy A performs strictly better than strategy B in at least one situation
+
+The key difference between weak dominance and strict dominance is that weak dominance allows for some outcomes where both strategies perform equally well, while strict dominance requires one strategy to be strictly better in all scenarios.
+
+For example, in a two-player game:
+- If Strategy A gives payoffs of (5,3,4)
+- And Strategy B gives payoffs of (5,2,4)
+- Then Strategy A weakly dominates Strategy B because it's never worse and is better in at least one case
+
+Weakly dominated strategies are generally considered inferior choices, though they're not as clearly disadvantageous as strictly dominated strategies.

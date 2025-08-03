@@ -1,0 +1,44 @@
+<think>
+Okay, so I need to understand what the sunk cost fallacy is in the context of psychological biases. Let me start by recalling what I know. I remember that "sunk cost" is a term from economics, right? It refers to money or resources that have already been spent and can't be recovered. The fallacy part probably means making a mistake in reasoning related to these sunk costs.
+
+Wait, so the sunk cost fallacy is when people continue a behavior or endeavor because of previously invested resources (time, money, effort), even if the current costs outweigh the benefits. Like, for example, if someone keeps pouring money into a failing business because they've already invested so much, instead of cutting their losses. That makes sense. But why is it a fallacy? Because rational decision-making should consider only future costs and benefits, not past investments that can't be recovered. But humans aren't always rational, so they let past investments influence their current decisions.
+
+I think there are some common examples. Like watching a movie you don't enjoy just because you paid for the ticket. Even though leaving would save you time, you stay because you don't want to "waste" the money already spent. But the money's already gone either way. Another example might be continuing a project at work that's clearly not working, just because a lot of time and resources have already been put into it.
+
+What causes this fallacy? Maybe emotional attachment to the investment, or not wanting to admit failure. There's also commitment consistency, where people want to act consistently with their past decisions. Or maybe loss aversion, where the pain of losing the invested resources feels worse than the potential gain from cutting losses.
+
+I should check if there are any studies or experiments related to this. I recall the classic experiment where people are more likely to continue investing in a project if they've already put in money, even when presented with evidence it's failing. Also, in relationships, people might stay in unhappy ones because of the time they've already invested, even if they're unhappy now.
+
+How do you avoid the sunk cost fallacy? By recognizing that past costs are irrecoverable and focusing on future outcomes. Decision-making should be based on what will happen next, not what has already been spent. It's about being aware of this bias and consciously making an effort to ignore sunk costs when evaluating options.
+
+Wait, but sometimes there might be exceptions. For instance, if continuing the investment could lead to future benefits that aren't immediately obvious. But the key is whether the decision is based on potential future benefits rather than past costs. The fallacy occurs specifically when the decision is driven by the desire to justify past investments rather than future gains.
+
+I should also differentiate it from other biases. Like, confirmation bias is seeking information that confirms existing beliefs. The sunk cost fallacy is about continuing an endeavor due to prior investment. They can be related but are distinct.
+
+In summary, the sunk cost fallacy is a cognitive bias where individuals continue investing in a decision based on cumulative prior investment (time, money, effort) despite new evidence suggesting that the cost, moving forward, outweighs the expected benefit. It's important to focus on future costs and benefits rather than irrecoverable past investments to make rational decisions.
+</think>
+
+The **sunk cost fallacy** is a cognitive bias in which individuals persist with a decision, project, or endeavor primarily because of the resources (time, money, effort) they have already invested, even when continuing leads to greater losses or diminished benefits. Key aspects include:
+
+1. **Definition**: 
+   - It occurs when past investments, which cannot be recovered ("sunk costs"), unduly influence ongoing decisions. Rational choices should consider only future costs and benefits, not irrecoverable past expenditures.
+
+2. **Examples**:
+   - Continuing to watch a boring movie because you paid for the ticket.
+   - Prolonging a failing business venture due to prior financial commitments.
+   - Staying in an unfulfilling relationship because of years invested.
+
+3. **Underlying Causes**:
+   - **Emotional attachment**: Reluctance to "waste" resources or admit failure.
+   - **Commitment consistency**: Desire to act in line with past decisions.
+   - **Loss aversion**: Overvaluing avoiding perceived losses (e.g., sunk costs) over potential gains.
+
+4. **Avoidance Strategies**:
+   - Recognize sunk costs as irrecoverable and irrelevant to future decisions.
+   - Evaluate choices based on **future outcomes**, not past investments.
+   - Cultivate awareness of the bias and consciously separate emotions from decision-making.
+
+5. **Differentiation from Other Biases**:
+   - Unlike confirmation bias (seeking information to confirm existing beliefs), the sunk cost fallacy focuses on justifying past investments rather than future utility.
+
+**Key Takeaway**: Rational decision-making requires ignoring sunk costs and focusing on whether current and future benefits outweigh ongoing costs. Overcoming this fallacy involves mindfulness of its influence and a commitment to forward-looking analysis.

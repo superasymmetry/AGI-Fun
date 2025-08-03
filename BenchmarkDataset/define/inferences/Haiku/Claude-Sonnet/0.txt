@@ -1,0 +1,15 @@
+A haiku is a short form of Japanese poetry that consists of three unrhyming lines. The traditional structure follows this pattern:
+
+1. First line: 5 syllables
+2. Second line: 7 syllables
+3. Third line: 5 syllables
+
+Traditionally, haikus often contain a seasonal reference (kigo) and a cutting word (kireji) that creates a break or pause in thought. They typically capture a fleeting moment in nature or evoke a particular feeling or image.
+
+Here's an example of a famous haiku by Matsuo Bashō:
+
+An old silent pond
+A frog jumps into the pond
+Splash! Silence again
+
+While this structure is traditional in Japanese, modern haikus in other languages sometimes vary from these strict rules while maintaining the spirit of brevity and imagery.

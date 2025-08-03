@@ -1,0 +1,8 @@
+{
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "concept": "Slant Rhyme",
+    "example": "\"_\" and \"lesser\"",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Slant Rhyme? Include only the text that should replace the blank.\n\n \"_\" and \"lesser\"",
+    "label": "no",
+    "inferences": "worse"
+}

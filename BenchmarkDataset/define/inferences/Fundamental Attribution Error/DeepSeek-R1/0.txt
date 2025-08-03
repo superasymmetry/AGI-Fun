@@ -1,0 +1,35 @@
+<think>
+Okay, so I need to explain the fundamental attribution error. Let me start by recalling what I know about psychological biases. I remember that attribution theory has to do with how people explain their own behavior and others' behavior. The fundamental attribution error must be a specific type of bias in that context.
+
+From what I remember, the fundamental attribution error (FAE) is when people tend to overemphasize personal characteristics and ignore situational factors when judging others' behavior. For example, if someone cuts me off in traffic, I might think they're a rude person, not considering that maybe they're rushing to an emergency. But if I cut someone off, I might justify it by saying I was in a hurry because of an emergency. So, it's like attributing others' actions to their personality (dispositional) and our own to the situation (situational).
+
+Wait, but is there a specific term for when we do the opposite for ourselves? Like, when explaining our own actions, we focus on the situation? I think that's part of the actor-observer bias. But FAE is specifically about others. So the key point is the tendency to overestimate dispositional factors and underestimate situational ones when evaluating others.
+
+I should check if there are any classic experiments related to this. I recall the study where participants read essays either for or against Fidel Castro. Even when they knew the essay writers were assigned a position (pro or con), participants still rated the writers' true attitudes as aligning with the essay. That's the FAE because they ignored the situational pressure (being told to write a certain way) and attributed the essay to the writer's actual beliefs.
+
+Another example might be if a student fails a test, a teacher might think the student is lazy (dispositional) rather than considering situational factors like family issues or lack of resources. But if the teacher failed a task, they might blame external factors like time constraints.
+
+So, to define FAE: It's the tendency for people to overemphasize internal, dispositional factors and underestimate external, situational factors when explaining others' behavior. This leads to judging others more harshly based on their character without considering the context. It's a common cognitive bias that affects social interactions and judgments.
+
+I should also mention that FAE is more prevalent in individualistic cultures, where personal responsibility is emphasized, compared to collectivist cultures, which might be more attuned to situational factors. But maybe that's a nuance that's part of the broader discussion rather than the definition itself.
+
+Also, how does this differ from the self-serving bias? Self-serving bias is when individuals attribute their successes to internal factors and failures to external factors. FAE is specifically about others' behavior. So they're related but distinct concepts.
+
+In summary, the fundamental attribution error is a cognitive bias where people explain others' actions by overemphasizing personality traits and underestimating the influence of situational factors, leading to potentially inaccurate judgments.
+</think>
+
+The **fundamental attribution error (FAE)** is a cognitive bias in social psychology where individuals tend to overemphasize **dispositional (internal) factors**—such as personality traits, intentions, or character—when explaining others' behavior, while underestimating **situational (external) factors**—like context, environment, or external pressures. 
+
+### Key Points:
+1. **Self vs. Others**: When judging others, people often attribute behavior to inherent qualities (e.g., "They’re rude") rather than considering situational influences (e.g., "They’re stressed"). Conversely, individuals are more likely to justify their own actions using situational factors (e.g., "I was late because of traffic").
+
+2. **Classic Example**: In a study where participants read essays about Fidel Castro, even when writers were assigned a position (pro/con), observers still assumed the essays reflected the writers' true beliefs, ignoring the situational constraint of being instructed to take that stance.
+
+3. **Cultural Variation**: FAE is more common in individualistic cultures (e.g., the U.S.), which prioritize personal agency, compared to collectivist cultures (e.g., Japan), where situational context is often given more weight.
+
+4. **Contrast with Other Biases**:
+   - **Actor-Observer Bias**: Extends FAE by noting that people attribute their own behavior to situational factors but others' behavior to dispositional ones.
+   - **Self-Serving Bias**: Involves attributing personal successes to internal factors and failures to external ones, distinct from FAE’s focus on others.
+
+### Implications:
+FAE can lead to unfair judgments, stereotyping, and misunderstandings in social interactions. Recognizing this bias encourages more empathetic, context-aware evaluations of others' actions.

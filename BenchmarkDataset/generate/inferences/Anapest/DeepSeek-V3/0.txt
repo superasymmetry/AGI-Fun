@@ -1,0 +1,7 @@
+{
+    "concept": "Anapest",
+    "semantic_condition": "change",
+    "form_condition": "Include a repeated phrase.",
+    "lexical_condition": "shine",
+    "inferences": "Certainly! Here\u2019s an anapestic (da-da-DUM) verse on the theme of change, featuring the word *shine* and a repeated phrase:  \n\n---\n\n**\"The winds of change will rise again,**  \n**they dance and twist, they spin and bend.**  \n**The stars will shine through darkened skies,**  \n**oh, rise again, oh, rise again!**  \n\n**The past may fade, the new unfold,**  \n**like threads of light in tales untold.**  \n**The dawn will shine with fire bright,**  \n**oh, rise again, oh, rise again!\"**  \n\n---\n\nThe repeated phrase *\"oh, rise again\"* reinforces the cyclical nature of change, while the anapestic meter (e.g., \"they **dance** and **twist**, they **spin** and **bend**\") gives it a lively, forward-moving rhythm. Hope you like it!"
+}

@@ -1,0 +1,36 @@
+In game theory, a strategy is said to **weakly dominate** another strategy if it yields a payoff that is **at least as good** in all possible scenarios and **strictly better** in at least one scenario. 
+
+### Formal Definition:
+Let’s consider a player in a game with two strategies, \( S_1 \) and \( S_2 \).  
+- \( S_1 \) **weakly dominates** \( S_2 \) if:  
+  1. For **every** possible strategy profile of the other players, the payoff from \( S_1 \) is **≥** the payoff from \( S_2 \).  
+  2. For **at least one** strategy profile of the other players, the payoff from \( S_1 \) is **strictly >** the payoff from \( S_2 \).  
+
+### Key Differences from Strict Dominance:
+- **Strict dominance**: \( S_1 \) always gives a **strictly better** payoff than \( S_2 \), no matter what others do.  
+- **Weak dominance**: \( S_1 \) is **never worse** than \( S_2 \) and is **sometimes better**.  
+
+### Example:
+Consider the following payoff matrix for Player 1 (rows) against Player 2 (columns):
+
+|               | Player 2: L | Player 2: R |
+|---------------|-------------|-------------|
+| **Player 1: U** | (3, _)      | (2, _)      |
+| **Player 1: D** | (3, _)      | (4, _)      |
+
+Here:  
+- **U weakly dominates D** because:  
+  - Against L: \( 3 \geq 3 \) (equal).  
+  - Against R: \( 2 < 4 \) (D is better).  
+  → D does **not** weakly dominate U.  
+- However, **D does not strictly dominate U** because U is just as good when Player 2 chooses L.  
+
+### Implications:
+- A weakly dominated strategy is never a **unique best response**, but it may still be played in equilibrium if it is tied for best in some cases.  
+- Rational players often eliminate strictly dominated strategies first, but weakly dominated ones may persist (e.g., in some Nash equilibria).  
+
+### Contrast with Strict Dominance:
+- **Strict dominance**: Eliminating strictly dominated strategies is uncontroversial.  
+- **Weak dominance**: Elimination can sometimes remove plausible equilibria, so caution is needed.  
+
+Would you like an example involving mixed strategies or iterated elimination?

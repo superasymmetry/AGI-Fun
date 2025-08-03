@@ -1,0 +1,7 @@
+{
+    "concept": "Accismus",
+    "semantic_condition": "your dreams",
+    "form_condition": "Use a comma in the first sentence or line.",
+    "lexical_condition": "mother",
+    "inferences": "**Accismus Instance (Theme: Dreams, Word: Mother):**  \n\n*\"In my dream, my mother offered me the keys to a golden city, but I waved her away, saying, 'Oh, I couldn\u2019t possibly accept, I\u2019d only lose them in the clouds.'\"*  \n\nHere, the refusal of something deeply desired (the golden city) under false modesty or indifference exemplifies accismus, while the dream theme and the inclusion of \"mother\" fulfill the requested elements. The comma in the first line adheres to the structure."
+}

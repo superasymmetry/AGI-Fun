@@ -1,0 +1,37 @@
+In game theory, **strict dominance** occurs when one strategy is always better than another, no matter what the other players do. 
+
+### Formal Definition:
+A strategy **s_i** for player *i* is **strictly dominated** by another strategy **s_i'** if, for every possible combination of the other players' strategies, the payoff for player *i* from choosing **s_i'** is strictly greater than the payoff from choosing **s_i**:
+
+\[
+u_i(s_i', s_{-i}) > u_i(s_i, s_{-i}) \quad \text{for all} \quad s_{-i}
+\]
+
+where:
+- \( u_i \) is the payoff function for player *i*,
+- \( s_{-i} \) represents the strategies of all other players.
+
+### Key Implications:
+1. **Rational players never play strictly dominated strategies** because there is always a better alternative.
+2. **Iterated elimination of strictly dominated strategies (IESDS)** is a solution concept where players iteratively remove dominated strategies to simplify the game.
+3. **A strictly dominant strategy** (if it exists) is one that strictly dominates all other strategies for a player.
+
+### Example:
+Consider the following payoff matrix for Player 1 (row player) in a two-player game:
+
+|               | Player 2: L | Player 2: R |
+|---------------|------------|------------|
+| **Player 1: U** | 3          | 1          |
+| **Player 1: D** | 4          | 2          |
+
+Here, **D strictly dominates U** because:
+- If Player 2 plays **L**, Player 1 gets 4 (D) > 3 (U).
+- If Player 2 plays **R**, Player 1 gets 2 (D) > 1 (U).
+
+Thus, a rational Player 1 will never choose **U**.
+
+### Contrast with Weak Dominance:
+- **Strict dominance**: One strategy is always better.
+- **Weak dominance**: One strategy is never worse and sometimes better.
+
+Strict dominance is a stronger concept and is particularly useful for predicting rational behavior in games.

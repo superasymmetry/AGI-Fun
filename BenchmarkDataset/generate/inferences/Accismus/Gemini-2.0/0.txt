@@ -1,0 +1,7 @@
+{
+    "concept": "Accismus",
+    "semantic_condition": "nature",
+    "form_condition": "Make every sentence start with a verb.",
+    "lexical_condition": "nectar",
+    "inferences": "**Scoffing**, I wave off the hummingbird's generous offering, *\"Oh, no thank you,\"* though my throat aches for sweetness. **Claiming**, I don't need its precious nectar, harvested from the honeysuckle's heart, because the dew on these leaves is surely enough. **Pretending**, satisfaction with the watery droplets, though I'm secretly envious of the butterfly sipping deeply nearby. **Knowing**, full well, the hummingbird understands my false modesty.\n"
+}

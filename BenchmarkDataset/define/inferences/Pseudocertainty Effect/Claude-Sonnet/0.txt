@@ -1,0 +1,29 @@
+The pseudocertainty effect is a cognitive bias where people tend to make risk-averse choices when dealing with guaranteed gains and risk-seeking choices when dealing with guaranteed losses, regardless of the actual probabilities involved. This bias occurs when people incorrectly evaluate probabilities in multi-stage decision processes.
+
+Key aspects of the pseudocertainty effect:
+
+1. Decision framing:
+- People react differently to the same scenario when it's presented in different ways
+- The way outcomes are framed influences risk preferences
+
+2. Two-stage processes:
+- Often involves decisions with multiple stages
+- People tend to ignore the probability of reaching the second stage
+
+3. Main characteristics:
+- Risk aversion for guaranteed gains
+- Risk seeking for guaranteed losses
+- Violation of rational decision-making principles
+
+4. Real-world applications:
+- Financial decisions
+- Medical treatment choices
+- Insurance purchases
+- Gambling behavior
+
+5. Relation to other biases:
+- Connected to prospect theory
+- Similar to certainty effect
+- Related to framing effects
+
+The pseudocertainty effect helps explain why people make seemingly irrational decisions when faced with complex probability scenarios.

@@ -1,0 +1,18 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Pareto Optimality",
+    "example": "A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "To make this scenario *not* Pareto optimal, we need to find a different allocation where at least one person is better off, and *no one* is worse off.\n\nHere's a change that achieves this:\n\n**New Allocation:**\n\n*   **A gets: 3 bananas**\n*   **B gets: 3 apples**\n\n**Explanation of why this is NOT Pareto Optimal (the original *is* Pareto Optimal):**\n\nIn the original allocation:\n\n* A gets 2 bananas and 1 apple\n* B gets 1 banana and 2 apples\n\nIn the new allocation:\n\n* A gets all 3 bananas, which is an improvement from the original allocation of 2 bananas and 1 apple, since A prefers bananas\n* B gets all 3 apples, which is an improvement from the original allocation of 1 banana and 2 apples, since B prefers bananas (i.e. does not prefer apples).\n\n**Therefore, the original allocation of 2 bananas and 1 apple for A, and 1 banana and 2 apples for B, *is* Pareto Optimal.**\n",
+    "message": "No valid Python literal found in the input.",
+    "correct": true
+}

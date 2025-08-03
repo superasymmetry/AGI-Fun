@@ -1,0 +1,18 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Symmetric Game",
+    "example": "Max and Anna are both deciding whether to attend Harvard or MIT for an economics PhD. Max is obsessed with rankings and will derive +100 utility from going to MIT and 0 utility from going to Harvard. Anna hates Max and his obsessions with rankings. But secretly she\u2019s also obsessed with rankings and will get 0 utility from Harvard and +100 utility from MIT. ",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Symmetric Game.\n\n Max and Anna are both deciding whether to attend Harvard or MIT for an economics PhD. Max is obsessed with rankings and will derive +100 utility from going to MIT and 0 utility from going to Harvard. Anna hates Max and his obsessions with rankings. But secretly she\u2019s also obsessed with rankings and will get 0 utility from Harvard and +100 utility from MIT. ",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Symmetric Game.\n\n Max and Anna are both deciding whether to attend Harvard or MIT for an economics PhD. Max is obsessed with rankings and will derive +100 utility from going to MIT and 0 utility from going to Harvard. Anna hates Max and his obsessions with rankings. But secretly she\u2019s also obsessed with rankings and will get 0 utility from Harvard and +100 utility from MIT. ",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "To make the game asymmetric, we can change the utility values for Max and Anna. For example, we can make Max derive +100 utility from going to Harvard and 0 utility from going to MIT, while Anna still derives 0 utility from Harvard and +100 utility from MIT.\nThe new payoff matrix would be:\n[[ (100,0), (0,100) ],\n [ (0,0), (0,0) ]]\n<OUTPUT>[[ (100,0), (0,100) ],\n [ (0,0), (0,0) ]]",
+    "message": "The payoff matrix is not symmetric at (0,0).",
+    "correct": true
+}

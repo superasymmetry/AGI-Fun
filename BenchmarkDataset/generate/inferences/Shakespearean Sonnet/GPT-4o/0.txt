@@ -1,0 +1,7 @@
+{
+    "concept": "Shakespearean Sonnet",
+    "semantic_condition": "nature",
+    "form_condition": "Use the first-person perspective.",
+    "lexical_condition": "red",
+    "inferences": "When I behold the vibrant morn unfold,  \nThe golden rays, a gentle blush they spread,  \nUpon the dewy grass, a tale retold,  \nOf life's own breath, in whispers 'neath the red.  \n\nThe crimson rose, with petals soft and true,  \nUnfurls its grace beneath the vast expanse,  \nWhile robins sing to greet the early hue,  \nIn nature's dance, a fleeting, merry chance.  \n\nThe brook it flows, a silver thread unfurls,  \nThrough verdant fields where wild winds freely play,  \nIn echoes of the past, where time it whirls,  \nAnd weaves its song beneath the light of day.  \n\nIn nature\u2019s arms, I find my soul's sweet rest,  \nAmongst her beauty, truly I am blessed.  "
+}

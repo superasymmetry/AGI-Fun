@@ -1,0 +1,35 @@
+In game theory, a **symmetric game** is a game where the payoff for playing a particular strategy depends only on the *other* strategies employed, *not* on *who* is playing which strategy. In other words, the identity of the players doesn't matter. The payoffs are determined solely by the strategies chosen by the players relative to each other.
+
+More formally:
+
+*   A two-player game with payoff matrices A and B is symmetric if and only if B = A<sup>T</sup> (B is the transpose of A).
+
+*   In a symmetric game, if Player 1 chooses strategy `i` and Player 2 chooses strategy `j`, Player 1 receives the payoff A<sub>ij</sub>, and Player 2 receives the payoff A<sub>ji</sub>. Crucially, *if the roles were reversed*, meaning Player 1 chose strategy `j` and Player 2 chose strategy `i`, then Player 1 would receive A<sub>ji</sub> and Player 2 would receive A<sub>ij</sub>.
+
+**Key Characteristics and Implications:**
+
+*   **Interchangeable Players:** Players can effectively switch places without changing the underlying structure of the game. Their personal characteristics (like experience, reputation, etc.) do not influence the payoffs.
+*   **Only Strategies Matter:** The only thing that matters is the strategies the players choose *relative* to one another.
+*   **Symmetric Nash Equilibria:** Symmetric games always have at least one symmetric Nash equilibrium.  A symmetric Nash equilibrium is one where all players use the same strategy. This is a powerful property.
+*   **No Advantage to First Mover (Typically):** In many symmetric games, there's no inherent advantage to being the "first mover," as the payoffs are entirely determined by the strategy profiles chosen.
+
+**Examples of Symmetric Games:**
+
+*   **Prisoner's Dilemma:** Both players face the same dilemma, and their payoffs depend only on their choice to cooperate or defect, relative to what the other player does. The payoff matrix has the symmetric structure required.
+*   **Chicken:** The payoffs depend solely on whether the players swerve or drive straight, relative to each other.
+*   **Matching Pennies:** (After a slight modification). If the original matching pennies is defined such that Player 1 wins if the pennies match, and Player 2 wins if they don't, it's *not* symmetric. However, it can be turned into a symmetric zero-sum game by paying Player 1 $1 if the pennies match, and Player 2 $1 if they don't.
+*   **Hawk-Dove Game:** (Model of animal conflict)
+*   **Rock, Paper, Scissors:** The rules and payoffs are the same for both players.
+
+**Examples of Asymmetric Games:**
+
+*   **Ultimatum Game:** One player proposes a split of money, and the other player either accepts or rejects. The two players have fundamentally different roles, so the game is not symmetric.
+*   **Stackelberg Competition:** One firm (the leader) chooses its production quantity first, and the other firm (the follower) then chooses its quantity in response.  The firms have different decision-making timelines and therefore the game is asymmetric.
+*   **Most Auctions:** In many auctions, players have different valuations for the item being auctioned, making the game asymmetric.
+
+**Why Symmetry Matters:**
+
+*   **Simplicity:** Symmetric games are often easier to analyze because we only need to consider the strategies and payoffs from a single player's perspective.
+*   **Modeling Common Situations:** Many real-world situations, especially in economics, politics, and evolutionary biology, can be reasonably modeled as symmetric games. This allows us to gain insights into optimal strategies and outcomes in these situations.
+*   **Prediction of Outcomes:** The existence of symmetric Nash equilibria gives us a powerful tool for predicting the outcomes of these games.
+*   **Theoretical Foundation:** The concept of symmetric games is a fundamental building block in game theory, and it is used as a basis for analyzing more complex games.

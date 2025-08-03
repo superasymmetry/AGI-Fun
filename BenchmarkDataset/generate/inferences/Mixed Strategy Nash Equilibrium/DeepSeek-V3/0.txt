@@ -1,0 +1,10 @@
+{
+    "concept": "Mixed Strategy Nash Equilibrium",
+    "prompt": "Generate an example of a mixed strategy Nash equilibrium. In the mixed strategy Nash equilibrium, Player 1 should take Action 1 with a probability of 1.0 and Action 2 with a probability of 0.0.",
+    "inferences": "[[ (1, 1), (0, 0) ],\n [ (0, 0), (0, 0) ]]",
+    "correct": [
+        false,
+        "Failed to parse output: invalid syntax (<unknown>, line 0)"
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

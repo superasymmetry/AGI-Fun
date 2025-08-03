@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4.5-preview",
+    "concept": "Asyndeton",
+    "example": "We _ got up _ because it was going to start soon",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Asyndeton? Include only the text that should replace the blank.\n\n We _ got up _ because it was going to start soon",
+    "label": "yes",
+    "inferences": "and"
+}

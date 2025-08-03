@@ -1,0 +1,38 @@
+A Shakespearean sonnet, also known as an English sonnet or Elizabethan sonnet, is a specific type of sonnet (a 14-line poem) characterized by its structure and rhyme scheme. Here's a breakdown:
+
+**Key Characteristics:**
+
+*   **Structure:** It consists of three quatrains (four-line stanzas) followed by a concluding couplet (two-line stanza).
+*   **Rhyme Scheme:** The rhyme scheme is **ABAB CDCD EFEF GG**. This means the first and third lines of each quatrain rhyme, and the second and fourth lines rhyme. The final couplet rhymes with itself.
+*   **Meter:** Generally written in **iambic pentameter**. Iambic pentameter is a rhythmic pattern where each line has 10 syllables, with an alternating pattern of unstressed and stressed syllables (da-DUM da-DUM da-DUM da-DUM da-DUM).
+*   **Theme/Content:** While not strictly defined, Shakespearean sonnets often explore themes of love, beauty, time, mortality, and the nature of art.
+*   **Turn (Volta):** Typically, there's a shift in thought or emotion, often called a "volta," around the third quatrain or in the couplet. This turn can introduce a new perspective, resolve a conflict, or offer a conclusion.
+
+**Breakdown of the Quatrains and Couplet:**
+
+*   **Quatrain 1 (ABAB):** Often introduces the subject, theme, or problem.
+*   **Quatrain 2 (CDCD):** Develops the subject or theme further, adding details or providing a contrasting viewpoint.
+*   **Quatrain 3 (EFEF):** Usually explores the subject with more complexity or offers a twist, leading to the resolution.
+*   **Couplet (GG):** Provides a summary, resolution, or a final thought that ties the poem together. It often acts as a punchline or emphasizes the main point.
+
+**Example (Shakespeare's Sonnet 18):**
+
+Shall I compare thee to a summer's day?  **(A)**
+Thou art more lovely and more temperate: **(B)**
+Rough winds do shake the darling buds of May, **(A)**
+And summer's lease hath all too short a date; **(B)**
+
+Sometime too hot the eye of heaven shines, **(C)**
+And often is his gold complexion dimmed; **(D)**
+And every fair from fair sometime declines, **(C)**
+By chance or nature's changing course untrimmed; **(D)**
+
+But thy eternal summer shall not fade, **(E)**
+Nor lose possession of that fair thou ow'st; **(F)**
+Nor shall Death brag thou wander'st in his shade, **(E)**
+When in eternal lines to time thou grow'st: **(F)**
+
+So long as men can breathe or eyes can see, **(G)**
+So long lives this, and this gives life to thee. **(G)**
+
+**In summary, a Shakespearean sonnet is a 14-line poem in iambic pentameter with a specific rhyme scheme (ABAB CDCD EFEF GG) that typically explores a theme in three quatrains and offers a resolution or concluding thought in a couplet.**

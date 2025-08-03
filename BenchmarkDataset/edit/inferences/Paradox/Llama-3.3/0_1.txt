@@ -1,0 +1,9 @@
+{
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "concept": "Paradox",
+    "example": "All movie directors are _ but some _ others",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Paradox? Include only the text that should replace the blank.\n\n All movie directors are _ but some _ others",
+    "label": "yes",
+    "inferences": "mortal, movie directors",
+    "correct": "N/A"
+}

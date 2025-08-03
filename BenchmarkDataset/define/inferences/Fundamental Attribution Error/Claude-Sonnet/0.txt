@@ -1,0 +1,29 @@
+The fundamental attribution error (FAE), also known as correspondence bias or attribution effect, is a cognitive bias where people tend to overemphasize personal characteristics and ignore situational factors when explaining someone else's behavior. Here's a detailed explanation:
+
+Key aspects:
+
+1. Core concept:
+- Attributing others' behavior primarily to their personality
+- Underestimating the influence of external circumstances
+
+2. Examples:
+- Assuming someone is rude because of their personality rather than considering they might be having a bad day
+- Judging a person's driving skills based on one observed mistake
+- Labeling someone as lazy without considering their circumstances
+
+3. Cultural differences:
+- More prevalent in individualistic cultures
+- Less common in collectivist societies that emphasize context
+
+4. Impact:
+- Can lead to unfair judgments
+- May affect relationships and social interactions
+- Can influence workplace dynamics
+
+5. How to avoid it:
+- Consider situational factors
+- Practice empathy
+- Gather more context before making judgments
+- Be aware of the bias
+
+The fundamental attribution error is important to understand because it affects how we perceive and judge others in daily life.

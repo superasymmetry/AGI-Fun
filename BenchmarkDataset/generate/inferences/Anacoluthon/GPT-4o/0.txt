@@ -1,0 +1,7 @@
+{
+    "concept": "Anacoluthon",
+    "semantic_condition": "nature",
+    "form_condition": "Start with a monosyllabic word.",
+    "lexical_condition": "love",
+    "inferences": "Sun, it rises over the tranquil valley, love for the mountains and their ancient whispers\u2014have you ever felt the leaves dancing as if calling to the sunlight, where the stream sings its own song, a place where time, but who can truly comprehend nature\u2019s gentle embrace?"
+}

@@ -1,0 +1,9 @@
+{
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "concept": "Enthymeme",
+    "example": "Since he is a soldier, he has access to a gun. _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Enthymeme? Include only the text that should replace the blank.\n\n Since he is a soldier, he has access to a gun. _.",
+    "label": "yes",
+    "inferences": "but that doesn't necessarily mean he will use it to commit a crime.",
+    "correct": "N/A"
+}

@@ -1,0 +1,7 @@
+{
+    "concept": "Asyndeton",
+    "semantic_condition": "love",
+    "form_condition": "Make the result in the past tense.",
+    "lexical_condition": "sunshine",
+    "inferences": "Her eyes sparkled, her laugh ignited, sunshine danced, love overwhelmed."
+}

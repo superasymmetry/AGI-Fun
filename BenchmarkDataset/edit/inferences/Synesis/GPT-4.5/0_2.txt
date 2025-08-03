@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4.5-preview",
+    "concept": "Synesis",
+    "example": "We don't know the verdict yet. The council _ in their opinion of your collegue. He may or may not get tenure.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Synesis? Include only the text that should replace the blank.\n\n We don't know the verdict yet. The council _ in their opinion of your collegue. He may or may not get tenure.",
+    "label": "yes",
+    "inferences": "doesn\u2019t agree"
+}

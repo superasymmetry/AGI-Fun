@@ -1,0 +1,8 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Synesis",
+    "example": "_ been blacks and whites at the same time.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Synesis? Include only the text that should replace the blank.\n\n _ been blacks and whites at the same time.",
+    "label": "no",
+    "inferences": "The blank could be filled with:  \n\n**\"The team has\"**  \n\nThis would make the sentence:  \n\n**\"The team has been blacks and whites at the same time.\"**  \n\nThis is an example of **synesis** because the verb (\"has\") agrees with the sense or meaning (the collective \"team\") rather than the strict grammatical number of the subject. Although \"blacks and whites\" is plural in form, the focus is on the singular collective entity (\"the team\"), making the singular verb appropriate."
+}

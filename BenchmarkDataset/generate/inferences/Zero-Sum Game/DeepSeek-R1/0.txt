@@ -1,0 +1,10 @@
+{
+    "concept": "Zero-Sum Game",
+    "prompt": "Generate an example of a zero-sum game. If Player 1 takes the first action, they should receive a payoff of [0, 9, 8] if the other player takes the corresponding actions.   ",
+    "inferences": "<think>\nOkay, I need to create a 3x3 zero-sum game matrix where Player 1's payoffs for the first row are [0, 9, 8]. Since it's a zero-sum game, Player 2's payoffs in that row should be the negatives of those: [0, -9, -8]. \n\nNow, for the other two rows (Player 1's second and third actions), I have to make sure that the sum of Player 1 and Player 2's payoffs in each cell is zero. So whatever numbers I choose for Player 1's payoffs in those rows, Player 2's will be the negatives.\n\nLet me just pick some numbers for the remaining cells. Maybe for the second row, Player 1 gets 3, -2, 5. Then Player 2 would have -3, 2, -5. For the third row, maybe 4, 6, -1. Then Player 2's payoffs would be -4, -6, 1.\n\nLet me check that all cells are integers and the first row matches the requirement. The first row for Player 1 is 0,9,8 and Player 2 is 0,-9,-8. The other rows have Player 1's payoffs as [3, -2, 5] and [4,6,-1], with Player 2's accordingly. Yes, this should work. Let me structure it into the matrix format.\n</think>\n\n<OUTPUT>\n[[ (0,0), (9,-9), (8,-8) ],\n [ (3,-3), (-2,2), (5,-5) ],\n [ (4,-4), (6,-6), (-1,1) ]]\n</OUTPUT>",
+    "correct": [
+        true,
+        "The payoff matrix is zero-sum"
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 3x3 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                                 It must be in the following format:\n\n[[ (A1,B1), (A2,B2), (A3,B3) ],\n [ (A4,B4), (A5,B5), (A6,B6) ],\n [ (A7,B7), (A8,B8), (A9,B9) ]]\n\nWhere Ai and Bi represent the                                 integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

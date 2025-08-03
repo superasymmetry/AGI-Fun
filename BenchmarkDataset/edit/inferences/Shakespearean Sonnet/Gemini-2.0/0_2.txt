@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Shakespearean Sonnet",
+    "example": "A sonnet is a poem with a verse\nIts form is simple, neat, and heavenly\nThe Shakespeare game it plays, for well or worse\nThe hair aglow the magic of the tree\n_\nA calculator lives above my brain\nI find the paint and island, not a hall\nBut I digress, for I know only rain\nThe rabid days of Michael are behind\nAnd to Montana, purpose he will seek\nThe German man eats flesh and not the rind\nOf juicy oranges of which I speak\nAnd now the final butterfly draws near\nA hidde couplet sheds a single tear",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Shakespearean Sonnet? Include only the text that should replace the blank.\n\n A sonnet is a poem with a verse\nIts form is simple, neat, and heavenly\nThe Shakespeare game it plays, for well or worse\nThe hair aglow the magic of the tree\n_\nA calculator lives above my brain\nI find the paint and island, not a hall\nBut I digress, for I know only rain\nThe rabid days of Michael are behind\nAnd to Montana, purpose he will seek\nThe German man eats flesh and not the rind\nOf juicy oranges of which I speak\nAnd now the final butterfly draws near\nA hidde couplet sheds a single tear",
+    "label": "yes",
+    "inferences": "But I will not play as such, I will not seek\n"
+}

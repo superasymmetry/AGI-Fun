@@ -1,0 +1,14 @@
+An enthymeme is a type of logical argument that is similar to a syllogism but has one premise left unstated or implied. It's a common form of reasoning in everyday conversation and rhetoric where one of the premises is assumed to be understood by the audience and therefore doesn't need to be explicitly stated.
+
+For example:
+Complete syllogism:
+- All humans are mortal (major premise)
+- Socrates is human (minor premise)
+- Therefore, Socrates is mortal (conclusion)
+
+Enthymeme version:
+- Socrates is human
+- Therefore, Socrates is mortal
+(The unstated premise is "All humans are mortal")
+
+Enthymemes are frequently used in advertising, political speeches, and everyday arguments because they rely on shared cultural knowledge or common understanding between the speaker and audience. They can be more persuasive than complete syllogisms because they engage the audience by requiring them to supply the missing premise themselves.

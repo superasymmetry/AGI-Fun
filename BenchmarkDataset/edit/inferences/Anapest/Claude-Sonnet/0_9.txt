@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Anapest",
+    "example": "I just went _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Anapest? Include only the text that should replace the blank.\n\n I just went _.",
+    "label": "no",
+    "inferences": "to the STORE\n\nThe word \"to\" is unstressed, followed by \"the\" which is unstressed, and finally \"STORE\" which is stressed, creating the anapestic pattern of two unstressed syllables followed by a stressed syllable (da-da-DUM).\n\nThe complete phrase \"I just went to the STORE\" would contain an iamb (\"I JUST\") followed by an anapest (\"went to the STORE\")."
+}

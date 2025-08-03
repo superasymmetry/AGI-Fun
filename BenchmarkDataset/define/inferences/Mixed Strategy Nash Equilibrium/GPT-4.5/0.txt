@@ -1,0 +1,5 @@
+In game theory, a mixed strategy Nash equilibrium is a situation where players choose to randomize over possible strategies, assigning a specific probability to each strategy, in such a way that no player can unilaterally change their strategy to achieve a better payoff. In a mixed strategy, instead of selecting one pure strategy, players assign probabilities to each of their available pure strategies and choose according to these probabilities.
+
+The mixed strategy Nash equilibrium occurs when every player's strategy in the game is a best response to the strategies of the other players. This means that each player's mixed strategy maximizes their expected payoff given the mixed strategies of the other players. At this equilibrium, no player has an incentive to deviate from their current strategy, as doing so would not result in a higher expected payoff.
+
+This concept is particularly useful in games where no pure strategy Nash equilibrium exists or when players are indifferent between several pure strategies. It helps to predict rational behavior in scenarios where players might want to keep their opponents uncertain about their actions.

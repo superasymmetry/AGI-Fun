@@ -1,0 +1,7 @@
+{
+    "concept": "Slant Rhyme",
+    "semantic_condition": "change",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "earth",
+    "inferences": "**M**oonlight's gleam,\nAcross the dust, a fading dream.\nThe wind whispers low, a mournful **hearth**,\nFor changes turning in the **earth**.\n"
+}

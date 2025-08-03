@@ -1,0 +1,10 @@
+{
+    "concept": "Weak Dominance",
+    "prompt": "Generate an example of the following concept in game theory: Weak Dominance. In the game, there is weakly dominant strategy for both players. In the row that is weakly dominant for Player 1, Player 1 receives a payoff of [1, 9, 2] if the other player takes the corresponding actions.  ",
+    "inferences": "Let me help construct a 3x3 payoff matrix demonstrating weak dominance.\n\nFor weak dominance to occur, a strategy must yield payoffs that are at least as good as another strategy for all opponent moves, and strictly better for at least one opponent move.\n\nLet's make Row 2 weakly dominant for Player 1 with payoffs [1,9,2].\n\nFor Row 2 to be weakly dominant:\n- Row 1 must have payoffs less than or equal to [1,9,2] with at least one strictly less\n- Row 3 must have payoffs less than or equal to [1,9,2] with at least one strictly less\n\nFor Player 2, let's make Column 2 weakly dominant by ensuring its payoffs are at least as good as other columns, with at least one strictly better outcome.\n\n<OUTPUT>\n[[ (1,3), (8,6), (2,2) ],\n [ (1,2), (9,7), (2,3) ],\n [ (0,1), (7,6), (1,2) ]]",
+    "correct": [
+        true,
+        "There is a weakly dominant strategy for both players. Moreover, the dominant strategy for Player 1 matches row 2."
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 3x3 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2), (A3,B3) ],\n [ (A4,B4), (A5,B5), (A6,B6) ],\n [ (A7,B7), (A8,B8), (A9,B9) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

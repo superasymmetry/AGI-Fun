@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Haiku",
+    "example": "Haikus are so fun\nI _ winter\nBrrr, it's so cold out",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Haiku? Include only the text that should replace the blank.\n\n Haikus are so fun\nI _ winter\nBrrr, it's so cold out",
+    "label": "yes",
+    "inferences": "Here's something that could fill the blank that would make it NOT a haiku:\n\nabsolutely despise this terrible\n\n(This makes the second line too long for a haiku, which requires 7 syllables in the second line. This suggested text has 9 syllables, breaking the haiku format.)"
+}

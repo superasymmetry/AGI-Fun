@@ -1,0 +1,7 @@
+{
+    "condition_1": "Catastrophizing",
+    "condition_2": "IKEA Effect",
+    "condition_3": "Normalcy Bias",
+    "prompt": "Generate an example that demonstrates the Catastrophizing and IKEA Effect psychological biases, but that does not show the Normalcy Bias psychological bias.",
+    "inferences": "Catastrophizing is a cognitive bias where a person overestimates the severity of a situation or event. The IKEA Effect is a cognitive bias where people overvalue items they have invested time or effort into.\nExample:\nJohn is a college student who is working on a group project for his class. He has put a lot of time and effort into the project and is very proud of his contribution. However, when the group presents the project to the class, the professor gives them a lower grade than John expected. John feels devastated and thinks that his entire college career is ruined because of this one grade. He catastrophizes the situation and thinks that he will never be able to recover from this setback.\nOn the other hand, the IKEA Effect can be seen in John's overvaluation of his contribution to the project. He invested a lot of time and effort into the project, and as a result, he thinks that his contribution is more valuable than it actually is. This bias can lead him to feel more upset about the grade than he would if he had not invested as much time and effort into the project."
+}

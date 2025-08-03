@@ -1,0 +1,11 @@
+In game theory, a symmetric game is a type of game where the payoffs for playing a particular strategy depend only on the strategies employed by other players, not on who is playing them. In other words, if the players switch strategies, the payoffs are also switched, maintaining consistency. This means that the identity of the players can be interchanged without affecting the strategic dynamics of the game.
+
+The essential characteristics of a symmetric game include:
+
+1. **Identical Strategy Sets**: Each player has the same set of available strategies.
+
+2. **Payoff Equivalence**: The payoff for choosing a particular strategy depends only on the other players' strategies, not on which player is choosing it. 
+
+3. **Interchangeability**: Players can be swapped, along with their strategies, without altering the payoff function.
+
+One of the key implications of symmetric games is that they often allow for more straightforward analysis, particularly regarding the concept of Nash equilibrium. In symmetric games, any Nash equilibrium where each player uses the same strategy is called a symmetric Nash equilibrium. This can simplify the search for equilibria, as it reduces the problem to finding a single strategy that, when used by all players, is still the best response to itself. Classic examples of symmetric games include the Prisoner's Dilemma, the Hawk-Dove game, and the Battle of the Sexes, when roles and payoffs are symmetrized.

@@ -1,0 +1,365 @@
+Task,Domain,Model,Concept,File,Correct
+Define,Literary techniques,Llama-3.3,Haiku,0.txt,yes
+Define,Literary techniques,GPT-4o,Haiku,0.txt,yes
+Define,Literary techniques,GPT-4.5,Haiku,0.txt,yes
+Define,Literary techniques,O3-Mini,Haiku,0.txt,yes
+Define,Literary techniques,O1-Mini,Haiku,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Haiku,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Haiku,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Haiku,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Haiku,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Haiku,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Haiku,0.txt,yes
+Define,Literary techniques,Llama-3.3,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,GPT-4o,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,GPT-4.5,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,O3-Mini,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,O1-Mini,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Shakespearean Sonnet,0.txt,no
+Define,Literary techniques,DeepSeek-V3,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Shakespearean Sonnet,0.txt,yes
+Define,Literary techniques,Llama-3.3,Analogy,0.txt,yes
+Define,Literary techniques,GPT-4o,Analogy,0.txt,yes
+Define,Literary techniques,GPT-4.5,Analogy,0.txt,yes
+Define,Literary techniques,O3-Mini,Analogy,0.txt,yes
+Define,Literary techniques,O1-Mini,Analogy,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Analogy,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Analogy,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Analogy,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Analogy,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Analogy,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Analogy,0.txt,yes
+Define,Literary techniques,Llama-3.3,Paradox,0.txt,yes
+Define,Literary techniques,GPT-4o,Paradox,0.txt,yes
+Define,Literary techniques,GPT-4.5,Paradox,0.txt,yes
+Define,Literary techniques,O3-Mini,Paradox,0.txt,yes
+Define,Literary techniques,O1-Mini,Paradox,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Paradox,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Paradox,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Paradox,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Paradox,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Paradox,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Paradox,0.txt,yes
+Define,Literary techniques,Llama-3.3,Anacoluthon,0.txt,yes
+Define,Literary techniques,GPT-4o,Anacoluthon,0.txt,yes
+Define,Literary techniques,GPT-4.5,Anacoluthon,0.txt,yes
+Define,Literary techniques,O3-Mini,Anacoluthon,0.txt,yes
+Define,Literary techniques,O1-Mini,Anacoluthon,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Anacoluthon,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Anacoluthon,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Anacoluthon,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Anacoluthon,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Anacoluthon,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Anacoluthon,0.txt,yes
+Define,Literary techniques,Llama-3.3,Asyndeton,0.txt,yes
+Define,Literary techniques,GPT-4o,Asyndeton,0.txt,yes
+Define,Literary techniques,GPT-4.5,Asyndeton,0.txt,yes
+Define,Literary techniques,O3-Mini,Asyndeton,0.txt,yes
+Define,Literary techniques,O1-Mini,Asyndeton,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Asyndeton,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Asyndeton,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Asyndeton,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Asyndeton,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Asyndeton,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Asyndeton,0.txt,yes
+Define,Literary techniques,Llama-3.3,Hyperbaton,0.txt,yes
+Define,Literary techniques,GPT-4o,Hyperbaton,0.txt,yes
+Define,Literary techniques,GPT-4.5,Hyperbaton,0.txt,yes
+Define,Literary techniques,O3-Mini,Hyperbaton,0.txt,yes
+Define,Literary techniques,O1-Mini,Hyperbaton,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Hyperbaton,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Hyperbaton,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Hyperbaton,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Hyperbaton,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Hyperbaton,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Hyperbaton,0.txt,yes
+Define,Literary techniques,Llama-3.3,Synesis,0.txt,no
+Define,Literary techniques,GPT-4o,Synesis,0.txt,yes
+Define,Literary techniques,GPT-4.5,Synesis,0.txt,yes
+Define,Literary techniques,O3-Mini,Synesis,0.txt,yes
+Define,Literary techniques,O1-Mini,Synesis,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Synesis,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Synesis,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Synesis,0.txt,no
+Define,Literary techniques,DeepSeek-V3,Synesis,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Synesis,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Synesis,0.txt,no
+Define,Literary techniques,Llama-3.3,Accismus,0.txt,yes
+Define,Literary techniques,GPT-4o,Accismus,0.txt,yes
+Define,Literary techniques,GPT-4.5,Accismus,0.txt,yes
+Define,Literary techniques,O3-Mini,Accismus,0.txt,yes
+Define,Literary techniques,O1-Mini,Accismus,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Accismus,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Accismus,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Accismus,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Accismus,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Accismus,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Accismus,0.txt,no
+Define,Literary techniques,Llama-3.3,Slant Rhyme,0.txt,yes
+Define,Literary techniques,GPT-4o,Slant Rhyme,0.txt,yes
+Define,Literary techniques,GPT-4.5,Slant Rhyme,0.txt,yes
+Define,Literary techniques,O3-Mini,Slant Rhyme,0.txt,yes
+Define,Literary techniques,O1-Mini,Slant Rhyme,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Slant Rhyme,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Slant Rhyme,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Slant Rhyme,0.txt,no
+Define,Literary techniques,DeepSeek-V3,Slant Rhyme,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Slant Rhyme,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Slant Rhyme,0.txt,yes
+Define,Literary techniques,Llama-3.3,Enthymeme,0.txt,yes
+Define,Literary techniques,GPT-4o,Enthymeme,0.txt,yes
+Define,Literary techniques,GPT-4.5,Enthymeme,0.txt,yes
+Define,Literary techniques,O3-Mini,Enthymeme,0.txt,yes
+Define,Literary techniques,O1-Mini,Enthymeme,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Enthymeme,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Enthymeme,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Enthymeme,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Enthymeme,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Enthymeme,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Enthymeme,0.txt,yes
+Define,Literary techniques,Llama-3.3,Anapest,0.txt,yes
+Define,Literary techniques,GPT-4o,Anapest,0.txt,yes
+Define,Literary techniques,GPT-4.5,Anapest,0.txt,yes
+Define,Literary techniques,O3-Mini,Anapest,0.txt,yes
+Define,Literary techniques,O1-Mini,Anapest,0.txt,yes
+Define,Literary techniques,Gemini-2.0,Anapest,0.txt,yes
+Define,Literary techniques,Claude-Sonnet,Anapest,0.txt,yes
+Define,Literary techniques,Mistral-Instruct,Anapest,0.txt,yes
+Define,Literary techniques,DeepSeek-V3,Anapest,0.txt,yes
+Define,Literary techniques,DeepSeek-R1,Anapest,0.txt,yes
+Define,Literary techniques,Qwen2-VL,Anapest,0.txt,no
+Define,Psychological biases,Llama-3.3,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,GPT-4o,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,GPT-4.5,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,O3-Mini,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,O1-Mini,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Fundamental Attribution Error,0.txt,yes
+Define,Psychological biases,Llama-3.3,Demanding Bias,0.txt,no
+Define,Psychological biases,GPT-4o,Demanding Bias,0.txt,no
+Define,Psychological biases,GPT-4.5,Demanding Bias,0.txt,no
+Define,Psychological biases,O3-Mini,Demanding Bias,0.txt,no
+Define,Psychological biases,O1-Mini,Demanding Bias,0.txt,no
+Define,Psychological biases,Gemini-2.0,Demanding Bias,0.txt,no
+Define,Psychological biases,Claude-Sonnet,Demanding Bias,0.txt,no
+Define,Psychological biases,Mistral-Instruct,Demanding Bias,0.txt,no
+Define,Psychological biases,DeepSeek-V3,Demanding Bias,0.txt,no
+Define,Psychological biases,DeepSeek-R1,Demanding Bias,0.txt,no
+Define,Psychological biases,Qwen2-VL,Demanding Bias,0.txt,no
+Define,Psychological biases,Llama-3.3,Black and White Thinking,0.txt,yes
+Define,Psychological biases,GPT-4o,Black and White Thinking,0.txt,yes
+Define,Psychological biases,GPT-4.5,Black and White Thinking,0.txt,yes
+Define,Psychological biases,O3-Mini,Black and White Thinking,0.txt,yes
+Define,Psychological biases,O1-Mini,Black and White Thinking,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Black and White Thinking,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Black and White Thinking,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Black and White Thinking,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Black and White Thinking,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Black and White Thinking,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Black and White Thinking,0.txt,yes
+Define,Psychological biases,Llama-3.3,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,GPT-4o,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,GPT-4.5,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,O3-Mini,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,O1-Mini,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Sunk Cost Fallacy,0.txt,yes
+Define,Psychological biases,Llama-3.3,IKEA Effect,0.txt,yes
+Define,Psychological biases,GPT-4o,IKEA Effect,0.txt,yes
+Define,Psychological biases,GPT-4.5,IKEA Effect,0.txt,yes
+Define,Psychological biases,O3-Mini,IKEA Effect,0.txt,yes
+Define,Psychological biases,O1-Mini,IKEA Effect,0.txt,yes
+Define,Psychological biases,Gemini-2.0,IKEA Effect,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,IKEA Effect,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,IKEA Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,IKEA Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,IKEA Effect,0.txt,yes
+Define,Psychological biases,Qwen2-VL,IKEA Effect,0.txt,yes
+Define,Psychological biases,Llama-3.3,Pseudocertainty Effect,0.txt,no
+Define,Psychological biases,GPT-4o,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,GPT-4.5,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,O3-Mini,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,O1-Mini,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Pseudocertainty Effect,0.txt,no
+Define,Psychological biases,Mistral-Instruct,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Pseudocertainty Effect,0.txt,yes
+Define,Psychological biases,Llama-3.3,Endowment Effect,0.txt,yes
+Define,Psychological biases,GPT-4o,Endowment Effect,0.txt,yes
+Define,Psychological biases,GPT-4.5,Endowment Effect,0.txt,yes
+Define,Psychological biases,O3-Mini,Endowment Effect,0.txt,yes
+Define,Psychological biases,O1-Mini,Endowment Effect,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Endowment Effect,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Endowment Effect,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Endowment Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Endowment Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Endowment Effect,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Endowment Effect,0.txt,yes
+Define,Psychological biases,Llama-3.3,Naive Cynicism,0.txt,yes
+Define,Psychological biases,GPT-4o,Naive Cynicism,0.txt,yes
+Define,Psychological biases,GPT-4.5,Naive Cynicism,0.txt,yes
+Define,Psychological biases,O3-Mini,Naive Cynicism,0.txt,yes
+Define,Psychological biases,O1-Mini,Naive Cynicism,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Naive Cynicism,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Naive Cynicism,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Naive Cynicism,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Naive Cynicism,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Naive Cynicism,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Naive Cynicism,0.txt,yes
+Define,Psychological biases,Llama-3.3,Normalcy Bias,0.txt,yes
+Define,Psychological biases,GPT-4o,Normalcy Bias,0.txt,yes
+Define,Psychological biases,GPT-4.5,Normalcy Bias,0.txt,yes
+Define,Psychological biases,O3-Mini,Normalcy Bias,0.txt,yes
+Define,Psychological biases,O1-Mini,Normalcy Bias,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Normalcy Bias,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Normalcy Bias,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Normalcy Bias,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Normalcy Bias,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Normalcy Bias,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Normalcy Bias,0.txt,yes
+Define,Psychological biases,Llama-3.3,Spotlight Effect,0.txt,yes
+Define,Psychological biases,GPT-4o,Spotlight Effect,0.txt,yes
+Define,Psychological biases,GPT-4.5,Spotlight Effect,0.txt,yes
+Define,Psychological biases,O3-Mini,Spotlight Effect,0.txt,yes
+Define,Psychological biases,O1-Mini,Spotlight Effect,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Spotlight Effect,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Spotlight Effect,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Spotlight Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Spotlight Effect,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Spotlight Effect,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Spotlight Effect,0.txt,yes
+Define,Psychological biases,Llama-3.3,Illusory Superiority,0.txt,yes
+Define,Psychological biases,GPT-4o,Illusory Superiority,0.txt,yes
+Define,Psychological biases,GPT-4.5,Illusory Superiority,0.txt,yes
+Define,Psychological biases,O3-Mini,Illusory Superiority,0.txt,yes
+Define,Psychological biases,O1-Mini,Illusory Superiority,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Illusory Superiority,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Illusory Superiority,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Illusory Superiority,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Illusory Superiority,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Illusory Superiority,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Illusory Superiority,0.txt,yes
+Define,Psychological biases,Llama-3.3,Catastrophizing,0.txt,yes
+Define,Psychological biases,GPT-4o,Catastrophizing,0.txt,yes
+Define,Psychological biases,GPT-4.5,Catastrophizing,0.txt,yes
+Define,Psychological biases,O3-Mini,Catastrophizing,0.txt,yes
+Define,Psychological biases,O1-Mini,Catastrophizing,0.txt,yes
+Define,Psychological biases,Gemini-2.0,Catastrophizing,0.txt,yes
+Define,Psychological biases,Claude-Sonnet,Catastrophizing,0.txt,yes
+Define,Psychological biases,Mistral-Instruct,Catastrophizing,0.txt,yes
+Define,Psychological biases,DeepSeek-V3,Catastrophizing,0.txt,yes
+Define,Psychological biases,DeepSeek-R1,Catastrophizing,0.txt,yes
+Define,Psychological biases,Qwen2-VL,Catastrophizing,0.txt,yes
+Define,Game theory,Llama-3.3,Strict Dominance,0.txt,yes
+Define,Game theory,GPT-4o,Strict Dominance,0.txt,yes
+Define,Game theory,GPT-4.5,Strict Dominance,0.txt,yes
+Define,Game theory,O3-Mini,Strict Dominance,0.txt,yes
+Define,Game theory,O1-Mini,Strict Dominance,0.txt,yes
+Define,Game theory,Gemini-2.0,Strict Dominance,0.txt,yes
+Define,Game theory,Claude-Sonnet,Strict Dominance,0.txt,yes
+Define,Game theory,Mistral-Instruct,Strict Dominance,0.txt,yes
+Define,Game theory,DeepSeek-V3,Strict Dominance,0.txt,yes
+Define,Game theory,DeepSeek-R1,Strict Dominance,0.txt,yes
+Define,Game theory,Qwen2-VL,Strict Dominance,0.txt,yes
+Define,Game theory,Llama-3.3,Iterated Dominance,0.txt,yes
+Define,Game theory,GPT-4o,Iterated Dominance,0.txt,yes
+Define,Game theory,GPT-4.5,Iterated Dominance,0.txt,yes
+Define,Game theory,O3-Mini,Iterated Dominance,0.txt,yes
+Define,Game theory,O1-Mini,Iterated Dominance,0.txt,yes
+Define,Game theory,Gemini-2.0,Iterated Dominance,0.txt,yes
+Define,Game theory,Claude-Sonnet,Iterated Dominance,0.txt,yes
+Define,Game theory,Mistral-Instruct,Iterated Dominance,0.txt,yes
+Define,Game theory,DeepSeek-V3,Iterated Dominance,0.txt,yes
+Define,Game theory,DeepSeek-R1,Iterated Dominance,0.txt,yes
+Define,Game theory,Qwen2-VL,Iterated Dominance,0.txt,yes
+Define,Game theory,Llama-3.3,Weak Dominance,0.txt,yes
+Define,Game theory,GPT-4o,Weak Dominance,0.txt,yes
+Define,Game theory,GPT-4.5,Weak Dominance,0.txt,yes
+Define,Game theory,O3-Mini,Weak Dominance,0.txt,yes
+Define,Game theory,O1-Mini,Weak Dominance,0.txt,yes
+Define,Game theory,Gemini-2.0,Weak Dominance,0.txt,yes
+Define,Game theory,Claude-Sonnet,Weak Dominance,0.txt,yes
+Define,Game theory,Mistral-Instruct,Weak Dominance,0.txt,yes
+Define,Game theory,DeepSeek-V3,Weak Dominance,0.txt,yes
+Define,Game theory,DeepSeek-R1,Weak Dominance,0.txt,yes
+Define,Game theory,Qwen2-VL,Weak Dominance,0.txt,yes
+Define,Game theory,Llama-3.3,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,GPT-4o,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,GPT-4.5,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,O3-Mini,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,O1-Mini,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,Gemini-2.0,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,Claude-Sonnet,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,Mistral-Instruct,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,DeepSeek-V3,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,DeepSeek-R1,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,Qwen2-VL,Pure Nash Equilibrium,0.txt,yes
+Define,Game theory,Llama-3.3,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,GPT-4o,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,GPT-4.5,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,O3-Mini,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,O1-Mini,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,Gemini-2.0,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,Claude-Sonnet,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,Mistral-Instruct,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,DeepSeek-V3,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,DeepSeek-R1,Mixed Strategy Nash Equilibrium,0.txt,no
+Define,Game theory,Qwen2-VL,Mixed Strategy Nash Equilibrium,0.txt,yes
+Define,Game theory,Llama-3.3,Pareto Optimality,0.txt,yes
+Define,Game theory,GPT-4o,Pareto Optimality,0.txt,yes
+Define,Game theory,GPT-4.5,Pareto Optimality,0.txt,yes
+Define,Game theory,O3-Mini,Pareto Optimality,0.txt,yes
+Define,Game theory,O1-Mini,Pareto Optimality,0.txt,yes
+Define,Game theory,Gemini-2.0,Pareto Optimality,0.txt,yes
+Define,Game theory,Claude-Sonnet,Pareto Optimality,0.txt,yes
+Define,Game theory,Mistral-Instruct,Pareto Optimality,0.txt,yes
+Define,Game theory,DeepSeek-V3,Pareto Optimality,0.txt,yes
+Define,Game theory,DeepSeek-R1,Pareto Optimality,0.txt,yes
+Define,Game theory,Qwen2-VL,Pareto Optimality,0.txt,yes
+Define,Game theory,Llama-3.3,Best Response,0.txt,yes
+Define,Game theory,GPT-4o,Best Response,0.txt,yes
+Define,Game theory,GPT-4.5,Best Response,0.txt,yes
+Define,Game theory,O3-Mini,Best Response,0.txt,yes
+Define,Game theory,O1-Mini,Best Response,0.txt,yes
+Define,Game theory,Gemini-2.0,Best Response,0.txt,yes
+Define,Game theory,Claude-Sonnet,Best Response,0.txt,yes
+Define,Game theory,Mistral-Instruct,Best Response,0.txt,yes
+Define,Game theory,DeepSeek-V3,Best Response,0.txt,yes
+Define,Game theory,DeepSeek-R1,Best Response,0.txt,yes
+Define,Game theory,Qwen2-VL,Best Response,0.txt,yes
+Define,Game theory,Llama-3.3,Zero-Sum Game,0.txt,yes
+Define,Game theory,GPT-4o,Zero-Sum Game,0.txt,yes
+Define,Game theory,GPT-4.5,Zero-Sum Game,0.txt,yes
+Define,Game theory,O3-Mini,Zero-Sum Game,0.txt,yes
+Define,Game theory,O1-Mini,Zero-Sum Game,0.txt,yes
+Define,Game theory,Gemini-2.0,Zero-Sum Game,0.txt,yes
+Define,Game theory,Claude-Sonnet,Zero-Sum Game,0.txt,yes
+Define,Game theory,Mistral-Instruct,Zero-Sum Game,0.txt,yes
+Define,Game theory,DeepSeek-V3,Zero-Sum Game,0.txt,yes
+Define,Game theory,DeepSeek-R1,Zero-Sum Game,0.txt,yes
+Define,Game theory,Qwen2-VL,Zero-Sum Game,0.txt,yes
+Define,Game theory,Llama-3.3,Symmetric Game,0.txt,yes
+Define,Game theory,GPT-4o,Symmetric Game,0.txt,yes
+Define,Game theory,GPT-4.5,Symmetric Game,0.txt,yes
+Define,Game theory,O3-Mini,Symmetric Game,0.txt,yes
+Define,Game theory,O1-Mini,Symmetric Game,0.txt,yes
+Define,Game theory,Gemini-2.0,Symmetric Game,0.txt,yes
+Define,Game theory,Claude-Sonnet,Symmetric Game,0.txt,yes
+Define,Game theory,Mistral-Instruct,Symmetric Game,0.txt,yes
+Define,Game theory,DeepSeek-V3,Symmetric Game,0.txt,yes
+Define,Game theory,DeepSeek-R1,Symmetric Game,0.txt,yes
+Define,Game theory,Qwen2-VL,Symmetric Game,0.txt,yes
+,,,,,

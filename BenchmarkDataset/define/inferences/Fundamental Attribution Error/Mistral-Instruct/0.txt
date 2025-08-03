@@ -1,0 +1,5 @@
+ The Fundamental Attribution Error (FAE) is a cognitive bias that occurs when individuals attribute the actions of others to internal, personal traits, rather than external, situational factors. In other words, when we observe someone's behavior, we tend to overestimate the role of their personality and underestimate the impact of the situation they are in.
+
+For example, if a person cuts you off in traffic, the FAE would lead you to attribute their behavior to being a rude or aggressive driver, rather than considering that they might be running late for an important appointment. This bias is particularly common in situations where we do not have a personal relationship with the other person, as we lack the context to understand their motivations and circumstances.
+
+The FAE is important to understand because it can lead to misunderstandings, stereotypes, and negative judgments about others. Recognizing and correcting for this bias can help us to be more empathetic and fair in our interactions with others.

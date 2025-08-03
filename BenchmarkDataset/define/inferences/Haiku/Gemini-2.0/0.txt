@@ -1,0 +1,21 @@
+A haiku is a traditional form of Japanese poetry. It's characterized by its three-line structure and a specific syllable count per line. Here's the breakdown:
+
+*   **Line 1:** 5 syllables
+*   **Line 2:** 7 syllables
+*   **Line 3:** 5 syllables
+
+**Key characteristics of haiku:**
+
+*   **Kigo (Seasonal Word):** Traditionally, haiku include a *kigo*, a word or phrase that indicates the season being described.
+*   **Juxtaposition (Kireji):** Often, a haiku features a "cutting word" (*kireji*), a word that creates a pause or break, often implying a comparison or contrast between two images or ideas. While modern haiku sometimes omit the kireji, the element of juxtaposition remains important.
+*   **Nature and Simplicity:** Haiku often focus on nature, everyday life, and moments of observation. They aim to capture a fleeting feeling or experience in a simple and concise way.
+*   **Imagery:** Strong imagery is crucial. Haiku paint a picture with few words, leaving room for the reader's imagination.
+*   **Emotional Resonance:** The best haiku evoke a feeling or thought in the reader beyond the literal description.
+
+**Example:**
+
+Old silent pond…
+A frog jumps into the pond—
+Splash! Silence again.
+
+*(This is a classic haiku by Matsuo Bashō. Notice the season isn't explicitly stated, but the frog implies spring.)*

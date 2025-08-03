@@ -1,0 +1,36 @@
+In game theory, a **best response** is a strategy (or action) that yields the highest possible payoff for a player, given the strategies chosen by the other players in the game. 
+
+### Formal Definition:
+A strategy \( s_i^* \) for player \( i \) is a **best response** to the strategies of the other players \( s_{-i} \) if:
+
+\[
+u_i(s_i^*, s_{-i}) \geq u_i(s_i, s_{-i}) \quad \text{for all possible strategies } s_i \text{ available to player } i
+\]
+
+where:
+- \( u_i \) is the payoff function for player \( i \),
+- \( s_{-i} \) represents the strategies of all other players except \( i \).
+
+### Key Points:
+1. **Dependent on Others' Strategies**: A best response is not absolute; it depends on what the other players are doing.
+2. **Pure and Mixed Strategies**: A best response can be a pure strategy (a single action) or a mixed strategy (a probability distribution over actions).
+3. **Nash Equilibrium Connection**: In a Nash Equilibrium, every player's strategy is a best response to the strategies of the other players.
+
+### Example:
+Consider the classic game of **Prisoner's Dilemma** with two players (A and B) who can either **Cooperate (C)** or **Defect (D)**. The payoff matrix is:
+
+|               | B: C | B: D |
+|---------------|------|------|
+| **A: C**      | -1,-1| -3, 0|
+| **A: D**      | 0,-3 | -2,-2|
+
+- If player B chooses **C**, player A's best response is **D** (since 0 > -1).
+- If player B chooses **D**, player A's best response is **D** (since -2 > -3).
+
+Thus, **D** is the **dominant strategy** (always the best response) for player A, regardless of B's choice.
+
+### Best Response in Continuous Games:
+In games with continuous strategy spaces (e.g., Cournot competition), the best response is often derived using calculus (e.g., finding the profit-maximizing quantity given the rival's output).
+
+### Summary:
+A best response is the optimal choice for a player, given the actions of others. It is a foundational concept in game theory, used to analyze equilibria and strategic interactions.

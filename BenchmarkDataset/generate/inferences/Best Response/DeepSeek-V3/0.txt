@@ -1,0 +1,10 @@
+{
+    "concept": "Best Response",
+    "prompt": "In the game, imagine Player 1 chooses the first action with a probability of 0.5, the second action with a probability of 0.25, and the third action with a probability of 0.25. Player 2's best response to this action should be the third action.  ",
+    "inferences": "[[ (1, 0), (0, 1), (0, 2) ],\n [ (2, 0), (1, 1), (0, 0) ],\n [ (0, 1), (1, 0), (1, 3) ]]  \n\n<OUTPUT>\n[[ (1, 0), (0, 1), (0, 2) ],\n [ (2, 0), (1, 1), (0, 0) ],\n [ (0, 1), (1, 0), (1, 3) ]]",
+    "correct": [
+        true,
+        ""
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 3x3 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2), (A3,B3) ],\n [ (A4,B4), (A5,B5), (A6,B6) ],\n [ (A7,B7), (A8,B8), (A9,B9) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

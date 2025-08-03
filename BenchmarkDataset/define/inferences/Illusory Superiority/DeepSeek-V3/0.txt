@@ -1,0 +1,25 @@
+**Illusory superiority** is a cognitive bias where individuals overestimate their own qualities and abilities compared to others, leading them to believe they are better than average in areas such as intelligence, competence, or moral virtue. This bias is also known as the **"above-average effect"** or the **"Lake Wobegon effect"** (named after Garrison Keillor's fictional town where "all the children are above average").
+
+### Key Characteristics:
+1. **Self-Enhancement**: People tend to rate themselves more positively than objective measures or peer comparisons would justify.
+   - *Example*: A majority of drivers believe they are more skilled than the average driver, despite statistical impossibility.
+
+2. **Domain-Specific**: The bias is stronger in areas where people perceive themselves as competent or where traits are subjective (e.g., kindness, creativity) rather than objective (e.g., height).
+
+3. **Dunning-Kruger Connection**: Illusory superiority is related to the **Dunning-Kruger effect**, where individuals with low ability in a domain overestimate their competence due to a lack of metacognitive awareness.
+
+### Causes:
+- **Self-Serving Bias**: Attributing successes to internal factors (e.g., talent) and failures to external factors (e.g., bad luck).
+- **Social Comparison**: People often compare themselves to flawed or stereotypical examples of others rather than realistic benchmarks.
+- **Motivational Factors**: Maintaining self-esteem by viewing oneself favorably.
+
+### Examples:
+- **Academic Performance**: Many students predict they will score higher than the median on exams.
+- **Workplace Skills**: Employees often rate their leadership abilities as superior to their peers'.
+- **Health Behaviors**: Individuals may believe they are healthier or at lower risk for diseases than others.
+
+### Implications:
+- Can lead to overconfidence, poor decision-making, and resistance to feedback.
+- May contribute to interpersonal conflicts when people underestimate others' abilities.
+
+Illusory superiority is one of many biases that shape human self-perception, highlighting how our minds often prioritize confidence over accuracy.

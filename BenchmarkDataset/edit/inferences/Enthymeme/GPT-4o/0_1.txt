@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4o",
+    "concept": "Enthymeme",
+    "example": "Keyon is a student at Harvard. Therefore, he is worse than Sendhil (a student at the University of Chicago). It must not be true that _. It must be true that _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Enthymeme? Include only the text that should replace the blank.\n\n Keyon is a student at Harvard. Therefore, he is worse than Sendhil (a student at the University of Chicago). It must not be true that _. It must be true that _.",
+    "label": "yes",
+    "inferences": "University of Chicago students are superior to Harvard students"
+}

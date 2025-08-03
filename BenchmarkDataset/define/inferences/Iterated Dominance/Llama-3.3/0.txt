@@ -1,0 +1,18 @@
+In game theory, iterated dominance (also known as iterated elimination of dominated strategies) is a method used to narrow down the possible rational choices in a game by successively eliminating dominated strategies. 
+
+Here's how it works:
+
+1. **Initial step**: Identify all dominated strategies for each player. A dominated strategy is one that is never the best choice for a player, regardless of what the other players do.
+2. **Elimination**: Remove the dominated strategies from the game.
+3. **Repeat**: Go back to step 1 and re-evaluate the remaining strategies to see if any new strategies have become dominated.
+4. **Continue**: Repeat steps 2 and 3 until no more dominated strategies can be eliminated.
+
+The process of iterated dominance helps to refine the set of possible rational choices by eliminating strategies that are clearly inferior. The resulting set of strategies is called the "iterated dominance equilibrium" or "rationalizable equilibrium."
+
+Iterated dominance is a useful tool for analyzing games, as it can help to:
+
+* Reduce the complexity of the game
+* Identify the most plausible outcomes
+* Provide a more realistic prediction of player behavior
+
+However, it's worth noting that iterated dominance does not always lead to a unique equilibrium, and the outcome may depend on the specific sequence of eliminations.

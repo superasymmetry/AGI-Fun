@@ -1,0 +1,18 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Mixed Strategy Nash Equilibrium",
+    "example": "Game Context:\nPlayers: Two roommates deciding how to decorate their dorm room.\nStrategies:\nRoommate 1 (Player 1): Choose between two decorating themes: Urban (U) or Dreamy (D).\nRoommate 2 (Player 2): Choose between two color palettes: Lush (L) or Rustic (R).\n\nNeither roommate really cares either way how the room is decorated. No choices yields any utility (neither positive nor negative) to either roommate. Is the following a Mixed Strategy Nash Equilibrium: there's a 1/2 chance that the room is urban vs. dreamy and there is a 1/2 chance that the room is lush vs. rustic?",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Mixed Strategy Nash Equilibrium.\n\n Game Context:\nPlayers: Two roommates deciding how to decorate their dorm room.\nStrategies:\nRoommate 1 (Player 1): Choose between two decorating themes: Urban (U) or Dreamy (D).\nRoommate 2 (Player 2): Choose between two color palettes: Lush (L) or Rustic (R).\n\nNeither roommate really cares either way how the room is decorated. No choices yields any utility (neither positive nor negative) to either roommate. Is the following a Mixed Strategy Nash Equilibrium: there's a 1/2 chance that the room is urban vs. dreamy and there is a 1/2 chance that the room is lush vs. rustic?",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Mixed Strategy Nash Equilibrium.\n\n Game Context:\nPlayers: Two roommates deciding how to decorate their dorm room.\nStrategies:\nRoommate 1 (Player 1): Choose between two decorating themes: Urban (U) or Dreamy (D).\nRoommate 2 (Player 2): Choose between two color palettes: Lush (L) or Rustic (R).\n\nNeither roommate really cares either way how the room is decorated. No choices yields any utility (neither positive nor negative) to either roommate. Is the following a Mixed Strategy Nash Equilibrium: there's a 1/2 chance that the room is urban vs. dreamy and there is a 1/2 chance that the room is lush vs. rustic?",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "[[ (0,0), (0,0) ],\n [ (0,0), (0,0) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": true
+}

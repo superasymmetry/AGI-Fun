@@ -1,0 +1,7 @@
+{
+    "concept": "Shakespearean Sonnet",
+    "semantic_condition": "nature",
+    "form_condition": "Use the first-person perspective.",
+    "lexical_condition": "just",
+    "inferences": "**Sonnet of the Verdant Glade**  \n\nUpon the earth where golden sunbeams play,  \nI wander soft through fields of dew-kissed green.  \nThe whispering winds in tender dance convey  \nA song as sweet as any ever seen.  \n\nThe flowers bow, their petals touched with light,  \nAnd trees stand tall in robes of emerald hue.  \nThe brook, with laughter, sparkles clear and bright\u2014  \nA mirror *just* to frame the sky\u2019s pure blue.  \n\nYet time, unkind, will steal this fleeting grace,  \nAs autumn comes to gild the leaves with fire.  \nBut lo! The earth, in cycles, keeps its pace,  \nAnd spring returns with warmth and new desire.  \n\nSo let me linger here, where beauty thrives,  \nAnd drink the peace that nature\u2019s heart derives."
+}

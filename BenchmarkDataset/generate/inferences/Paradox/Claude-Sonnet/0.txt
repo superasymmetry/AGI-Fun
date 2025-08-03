@@ -1,0 +1,7 @@
+{
+    "concept": "Paradox",
+    "semantic_condition": "loss",
+    "form_condition": "Use the third-person perspective.",
+    "lexical_condition": "wonder",
+    "inferences": "She stands at her mother's grave, reading the inscription through tears, and wonders at the peculiar paradox before her: only in losing the woman who gave her life does she finally understand how to live it. The decades of wisdom her mother tried to impart now bloom in her mind, each lesson crystallizing precisely because she can no longer ask for more."
+}

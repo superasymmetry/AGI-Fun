@@ -1,0 +1,7 @@
+{
+    "concept": "Asyndeton",
+    "semantic_condition": "gratitude",
+    "form_condition": "Use a comma in the first sentence or line.",
+    "lexical_condition": "father",
+    "inferences": "I am grateful for my family, friends, and loved ones who have supported me throughout the years. My father gave me guidance, wisdom, patience and kindness, he was always there to lend a helping hand. \n\nIn this instance, asyndeton is used in the second sentence, where the words \"patience\" and \"kindness\" are not connected by a conjunction, creating a sense of urgency and emphasis on the qualities of the father."
+}

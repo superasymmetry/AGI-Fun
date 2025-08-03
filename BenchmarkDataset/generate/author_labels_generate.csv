@@ -1,0 +1,169 @@
+Task,Domain,Model,Concept,File,Correct
+Generate,Literary techniques,Llama-3.3,Haiku,0.txt,no
+Generate,Literary techniques,GPT-4o,Haiku,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Haiku,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Haiku,0.txt,no
+Generate,Literary techniques,DeepSeek-V3,Haiku,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Haiku,0.txt,no
+Generate,Literary techniques,Qwen2-VL,Haiku,0.txt,no
+Generate,Literary techniques,Llama-3.3,Shakespearean Sonnet,0.txt,no
+Generate,Literary techniques,GPT-4o,Shakespearean Sonnet,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Shakespearean Sonnet,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Shakespearean Sonnet,0.txt,no
+Generate,Literary techniques,DeepSeek-V3,Shakespearean Sonnet,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Shakespearean Sonnet,0.txt,no
+Generate,Literary techniques,Qwen2-VL,Shakespearean Sonnet,0.txt,no
+Generate,Literary techniques,Llama-3.3,Analogy,0.txt,yes
+Generate,Literary techniques,GPT-4o,Analogy,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Analogy,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Analogy,0.txt,yes
+Generate,Literary techniques,DeepSeek-V3,Analogy,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Analogy,0.txt,yes
+Generate,Literary techniques,Qwen2-VL,Analogy,0.txt,yes
+Generate,Literary techniques,Llama-3.3,Paradox,0.txt,yes
+Generate,Literary techniques,GPT-4o,Paradox,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Paradox,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Paradox,0.txt,yes
+Generate,Literary techniques,DeepSeek-V3,Paradox,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Paradox,0.txt,yes
+Generate,Literary techniques,Qwen2-VL,Paradox,0.txt,yes
+Generate,Literary techniques,Llama-3.3,Anacoluthon,0.txt,no
+Generate,Literary techniques,GPT-4o,Anacoluthon,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Anacoluthon,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Anacoluthon,0.txt,no
+Generate,Literary techniques,DeepSeek-V3,Anacoluthon,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Anacoluthon,0.txt,yes
+Generate,Literary techniques,Qwen2-VL,Anacoluthon,0.txt,no
+Generate,Literary techniques,Llama-3.3,Asyndeton,0.txt,no
+Generate,Literary techniques,GPT-4o,Asyndeton,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Asyndeton,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Asyndeton,0.txt,yes
+Generate,Literary techniques,DeepSeek-V3,Asyndeton,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Asyndeton,0.txt,yes
+Generate,Literary techniques,Qwen2-VL,Asyndeton,0.txt,yes
+Generate,Literary techniques,Llama-3.3,Hyperbaton,0.txt,no
+Generate,Literary techniques,GPT-4o,Hyperbaton,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Hyperbaton,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Hyperbaton,0.txt,yes
+Generate,Literary techniques,DeepSeek-V3,Hyperbaton,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Hyperbaton,0.txt,yes
+Generate,Literary techniques,Qwen2-VL,Hyperbaton,0.txt,no
+Generate,Literary techniques,Llama-3.3,Synesis,0.txt,no
+Generate,Literary techniques,GPT-4o,Synesis,0.txt,no
+Generate,Literary techniques,Gemini-2.0,Synesis,0.txt,no
+Generate,Literary techniques,Claude-Sonnet,Synesis,0.txt,no
+Generate,Literary techniques,DeepSeek-V3,Synesis,0.txt,no
+Generate,Literary techniques,DeepSeek-R1,Synesis,0.txt,no
+Generate,Literary techniques,Qwen2-VL,Synesis,0.txt,no
+Generate,Literary techniques,Llama-3.3,Accismus,0.txt,yes
+Generate,Literary techniques,GPT-4o,Accismus,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Accismus,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Accismus,0.txt,yes
+Generate,Literary techniques,DeepSeek-V3,Accismus,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Accismus,0.txt,no
+Generate,Literary techniques,Qwen2-VL,Accismus,0.txt,no
+Generate,Literary techniques,Llama-3.3,Slant Rhyme,0.txt,no
+Generate,Literary techniques,GPT-4o,Slant Rhyme,0.txt,no
+Generate,Literary techniques,Gemini-2.0,Slant Rhyme,0.txt,no
+Generate,Literary techniques,Claude-Sonnet,Slant Rhyme,0.txt,no
+Generate,Literary techniques,DeepSeek-V3,Slant Rhyme,0.txt,yes
+Generate,Literary techniques,DeepSeek-R1,Slant Rhyme,0.txt,yes
+Generate,Literary techniques,Qwen2-VL,Slant Rhyme,0.txt,no
+Generate,Literary techniques,Llama-3.3,Enthymeme,0.txt,no
+Generate,Literary techniques,GPT-4o,Enthymeme,0.txt,no
+Generate,Literary techniques,Gemini-2.0,Enthymeme,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Enthymeme,0.txt,yes
+Generate,Literary techniques,DeepSeek-V3,Enthymeme,0.txt,no
+Generate,Literary techniques,DeepSeek-R1,Enthymeme,0.txt,no
+Generate,Literary techniques,Qwen2-VL,Enthymeme,0.txt,no
+Generate,Literary techniques,Llama-3.3,Anapest,0.txt,yes
+Generate,Literary techniques,GPT-4o,Anapest,0.txt,yes
+Generate,Literary techniques,Gemini-2.0,Anapest,0.txt,yes
+Generate,Literary techniques,Claude-Sonnet,Anapest,0.txt,yes
+Generate,Literary techniques,DeepSeek-V3,Anapest,0.txt,no
+Generate,Literary techniques,DeepSeek-R1,Anapest,0.txt,yes
+Generate,Literary techniques,Qwen2-VL,Anapest,0.txt,yes
+Generate,Psychological biases,Llama-3.3,Fundamental Attribution Error,0.txt,yes
+Generate,Psychological biases,GPT-4o,Fundamental Attribution Error,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Fundamental Attribution Error,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Fundamental Attribution Error,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Fundamental Attribution Error,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Fundamental Attribution Error,0.txt,no
+Generate,Psychological biases,Qwen2-VL,Fundamental Attribution Error,0.txt,yes
+Generate,Psychological biases,Llama-3.3,Demanding Bias,0.txt,yes
+Generate,Psychological biases,GPT-4o,Demanding Bias,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Demanding Bias,0.txt,no
+Generate,Psychological biases,Claude-Sonnet,Demanding Bias,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Demanding Bias,0.txt,no
+Generate,Psychological biases,DeepSeek-R1,Demanding Bias,0.txt,no
+Generate,Psychological biases,Qwen2-VL,Demanding Bias,0.txt,no
+Generate,Psychological biases,Llama-3.3,Black and White Thinking,0.txt,yes
+Generate,Psychological biases,GPT-4o,Black and White Thinking,0.txt,no
+Generate,Psychological biases,Gemini-2.0,Black and White Thinking,0.txt,no
+Generate,Psychological biases,Claude-Sonnet,Black and White Thinking,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Black and White Thinking,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Black and White Thinking,0.txt,no
+Generate,Psychological biases,Qwen2-VL,Black and White Thinking,0.txt,yes
+Generate,Psychological biases,Llama-3.3,Sunk Cost Fallacy,0.txt,yes
+Generate,Psychological biases,GPT-4o,Sunk Cost Fallacy,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Sunk Cost Fallacy,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Sunk Cost Fallacy,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Sunk Cost Fallacy,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Sunk Cost Fallacy,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Sunk Cost Fallacy,0.txt,yes
+Generate,Psychological biases,Llama-3.3,IKEA Effect,0.txt,yes
+Generate,Psychological biases,GPT-4o,IKEA Effect,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,IKEA Effect,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,IKEA Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,IKEA Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,IKEA Effect,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,IKEA Effect,0.txt,yes
+Generate,Psychological biases,Llama-3.3,Pseudocertainty Effect,0.txt,yes
+Generate,Psychological biases,GPT-4o,Pseudocertainty Effect,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Pseudocertainty Effect,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Pseudocertainty Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Pseudocertainty Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Pseudocertainty Effect,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Pseudocertainty Effect,0.txt,yes
+Generate,Psychological biases,Llama-3.3,Endowment Effect,0.txt,yes
+Generate,Psychological biases,GPT-4o,Endowment Effect,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Endowment Effect,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Endowment Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Endowment Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Endowment Effect,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Endowment Effect,0.txt,no
+Generate,Psychological biases,Llama-3.3,Naive Cynicism,0.txt,no
+Generate,Psychological biases,GPT-4o,Naive Cynicism,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Naive Cynicism,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Naive Cynicism,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Naive Cynicism,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Naive Cynicism,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Naive Cynicism,0.txt,no
+Generate,Psychological biases,Llama-3.3,Normalcy Bias,0.txt,yes
+Generate,Psychological biases,GPT-4o,Normalcy Bias,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Normalcy Bias,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Normalcy Bias,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Normalcy Bias,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Normalcy Bias,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Normalcy Bias,0.txt,yes
+Generate,Psychological biases,Llama-3.3,Spotlight Effect,0.txt,yes
+Generate,Psychological biases,GPT-4o,Spotlight Effect,0.txt,no
+Generate,Psychological biases,Gemini-2.0,Spotlight Effect,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Spotlight Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Spotlight Effect,0.txt,yes
+Generate,Psychological biases,DeepSeek-R1,Spotlight Effect,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Spotlight Effect,0.txt,yes
+Generate,Psychological biases,Llama-3.3,Illusory Superiority,0.txt,yes
+Generate,Psychological biases,GPT-4o,Illusory Superiority,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Illusory Superiority,0.txt,no
+Generate,Psychological biases,Claude-Sonnet,Illusory Superiority,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Illusory Superiority,0.txt,no
+Generate,Psychological biases,DeepSeek-R1,Illusory Superiority,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Illusory Superiority,0.txt,no
+Generate,Psychological biases,Llama-3.3,Catastrophizing,0.txt,yes
+Generate,Psychological biases,GPT-4o,Catastrophizing,0.txt,yes
+Generate,Psychological biases,Gemini-2.0,Catastrophizing,0.txt,yes
+Generate,Psychological biases,Claude-Sonnet,Catastrophizing,0.txt,yes
+Generate,Psychological biases,DeepSeek-V3,Catastrophizing,0.txt,no
+Generate,Psychological biases,DeepSeek-R1,Catastrophizing,0.txt,yes
+Generate,Psychological biases,Qwen2-VL,Catastrophizing,0.txt,yes

@@ -1,0 +1,17 @@
+In game theory, a symmetric game is a type of game where the payoffs (or rewards) for each player are the same for the same set of actions, regardless of the player's identity or role. In other words, the game is symmetric if the players are interchangeable, and the payoffs depend only on the actions taken, not on who takes them.
+
+More formally, a game is symmetric if:
+
+1. The set of possible actions (or strategies) is the same for all players.
+2. The payoffs for each player are the same for the same set of actions, regardless of the player's identity.
+
+For example, consider a game where two players, Alice and Bob, can choose to either cooperate or defect. If the payoffs for cooperation are (3, 3) and the payoffs for defection are (0, 5) regardless of who defects, then the game is symmetric. The payoffs are the same for both players, and the game does not depend on who is Alice and who is Bob.
+
+Symmetric games are often used to model situations where the players are identical or have the same goals, such as in duopolies or oligopolies. They are also useful for analyzing games where the players have the same capabilities and constraints, such as in some types of auctions or negotiations.
+
+Symmetric games can be further classified into different types, such as:
+
+* Symmetric zero-sum games, where the payoffs for one player are the negative of the payoffs for the other player.
+* Symmetric non-zero-sum games, where the payoffs for one player are not necessarily the negative of the payoffs for the other player.
+
+Overall, symmetric games provide a useful framework for analyzing strategic interactions between players, and are an important concept in game theory.

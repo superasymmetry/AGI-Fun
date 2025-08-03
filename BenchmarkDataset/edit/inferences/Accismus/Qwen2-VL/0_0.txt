@@ -1,0 +1,8 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Accismus",
+    "example": "I _ accept your favorite suede jacket\u2014 you wear it every day! It's a staple item for you!",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Accismus? Include only the text that should replace the blank.\n\n I _ accept your favorite suede jacket\u2014 you wear it every day! It's a staple item for you!",
+    "label": "yes",
+    "inferences": "cannot"
+}

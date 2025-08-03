@@ -1,0 +1,8 @@
+{
+    "model": "o3-mini",
+    "concept": "Hyperbaton",
+    "example": "Ever _, I trust myself into a brand new life.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Hyperbaton? Include only the text that should replace the blank.\n\n Ever _, I trust myself into a brand new life.",
+    "label": "no",
+    "inferences": "since"
+}

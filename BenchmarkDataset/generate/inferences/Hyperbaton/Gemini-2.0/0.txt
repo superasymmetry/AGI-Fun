@@ -1,0 +1,7 @@
+{
+    "concept": "Hyperbaton",
+    "semantic_condition": "happiness",
+    "form_condition": "Start with a monosyllabic word.",
+    "lexical_condition": "jump",
+    "inferences": "Joy, I felt, a joyous feeling, when I did, over the moon, **jump** I would.\n"
+}

@@ -1,0 +1,16 @@
+In game theory, iterated dominance is a solution concept used to analyze strategic interactions between rational players. It is a method for eliminating strategies that are strictly dominated by other strategies, and then repeating the process until no further eliminations can be made.
+A strategy is said to be strictly dominated if there exists another strategy that always yields a higher payoff, regardless of the strategies chosen by the other players. In other words, a strictly dominated strategy is always worse than some other strategy, and therefore rational players would never choose to play it.
+Iterated dominance involves repeatedly eliminating strictly dominated strategies from the set of available strategies until no further eliminations can be made. This process can help to simplify the analysis of a game by reducing the number of strategies that need to be considered.
+For example, consider a simple game with two players, A and B, each of whom can choose between two strategies, X and Y. The payoff matrix for the game is as follows:
+| | X | Y |
+|---|---|---|
+| X | 1,1 | 0,2 |
+| Y | 2,0 | 1,1 |
+In this game, strategy Y is strictly dominated by strategy X for player A, since choosing X always yields a higher payoff than choosing Y, regardless of what player B does. Therefore, we can eliminate strategy Y for player A from consideration.
+After eliminating strategy Y for player A, we are left with the following simplified game:
+| | X |
+|---|---|
+| X | 1,1 |
+| Y | 2,0 |
+In this simplified game, strategy Y is still strictly dominated by strategy X for player B, since choosing X always yields a higher payoff than choosing Y, regardless of what player A does. Therefore, we can eliminate strategy Y for player B from consideration as well.
+After eliminating strategy Y for both players, we are left with a single strategy profile (X,X), which is the unique Nash equilibrium of the game.

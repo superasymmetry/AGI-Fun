@@ -1,0 +1,7 @@
+{
+    "concept": "Slant Rhyme",
+    "semantic_condition": "moments in time",
+    "form_condition": "Start with a word that is not monosyllabic.",
+    "lexical_condition": "just",
+    "inferences": "An instance of Slant Rhyme in the theme of moments in time, including the word \"just,\" could be:\n\n\"Memories of yesterday's sunset fading, \nas I stand here, frozen, just \na moment before the silence is shattered, \nand the stillness is lost in the evening's hush.\"\n\nIn this example, \"yesterday's\" and \"shattered\" exhibit a slant rhyme, also known as near rhyme or imperfect rhyme, as they don't perfectly rhyme but share a similar sound. This technique is often used in poetry to create a more subtle and nuanced effect."
+}

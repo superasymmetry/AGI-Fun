@@ -1,0 +1,7 @@
+{
+    "concept": "Shakespearean Sonnet",
+    "semantic_condition": "a hobby",
+    "form_condition": "Have at least two sentences or lines that start with the same word.",
+    "lexical_condition": "wonder",
+    "inferences": "My garden plot, a patch of humble earth,\nAwaits my hand, a haven green and small.\nWhere seeds of hope anticipate their birth,\nAnd tender shoots respond unto my call.\nThe spade I wield, a weapon in my hand,\nAgainst the weeds that seek to choke and blight.\nI nurture life across the fertile land,\nAnd watch the sun bestow its warming light.\nThe buzzing bees, a symphony of sound,\nAs flowers bloom in vibrant hues so bright.\nMy patient toil upon this hallowed ground,\nFills me with peace and washes clean the night.\nI wonder at the power to create,\nI wonder at the beauty of my fate.\n"
+}

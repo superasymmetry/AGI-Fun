@@ -1,0 +1,7 @@
+{
+    "concept": "Accismus",
+    "semantic_condition": "a meaningful object",
+    "form_condition": "Start with a word that is not monosyllabic.",
+    "lexical_condition": "mother",
+    "inferences": "\"Beautiful locket,\" she whispered, tracing its golden edges. \"Mother wore this on her wedding day, but I couldn't possibly accept such a precious heirloom...\" Her fingers lingered on the clasp even as she spoke, her eyes never leaving the delicate engravings."
+}

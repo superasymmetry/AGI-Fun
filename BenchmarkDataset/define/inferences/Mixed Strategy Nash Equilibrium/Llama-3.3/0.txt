@@ -1,0 +1,20 @@
+In game theory, a mixed strategy Nash equilibrium is a concept that extends the idea of a Nash equilibrium to situations where players can choose to play a mixture of different strategies, rather than a single pure strategy.
+
+In a Nash equilibrium, each player chooses a pure strategy that is the best response to the strategies chosen by the other players. However, in some games, there may not be a Nash equilibrium in pure strategies. This is where mixed strategies come in.
+
+A mixed strategy is a probability distribution over a set of pure strategies. Instead of choosing a single pure strategy, a player chooses a probability distribution that assigns a probability to each pure strategy. The player then plays each pure strategy with the corresponding probability.
+
+A mixed strategy Nash equilibrium is a situation where each player chooses a mixed strategy that is the best response to the mixed strategies chosen by the other players. In other words, no player can improve their payoff by unilaterally changing their mixed strategy, assuming that the other players keep their mixed strategies unchanged.
+
+Formally, a mixed strategy Nash equilibrium is defined as follows:
+
+Let G = (S, u) be a game, where S = (S1, ..., Sn) is the set of strategy profiles, and u = (u1, ..., un) is the payoff function. A mixed strategy for player i is a probability distribution σi over Si. A mixed strategy profile is a tuple σ = (σ1, ..., σn).
+
+A mixed strategy Nash equilibrium is a mixed strategy profile σ such that:
+
+1. For each player i, σi is a best response to the mixed strategies of the other players, i.e., ui(σi, σ-i) ≥ ui(σ'i, σ-i) for all σ'i in Si.
+2. No player can improve their payoff by unilaterally changing their mixed strategy, i.e., ui(σi, σ-i) ≥ ui(σ'i, σ-i) for all σ'i in Si.
+
+Mixed strategy Nash equilibria are important in game theory because they can exist even when there is no pure strategy Nash equilibrium. They are also useful for modeling situations where players are uncertain about the strategies of their opponents, or where they want to randomize their actions to avoid being predictable.
+
+For example, consider a game of rock-paper-scissors. In this game, there is no pure strategy Nash equilibrium, because no matter what strategy a player chooses, their opponent can choose a strategy that beats them. However, there is a mixed strategy Nash equilibrium, where each player chooses to play each of rock, paper, and scissors with probability 1/3. This mixed strategy is a best response to the mixed strategies of the other players, and no player can improve their payoff by unilaterally changing their mixed strategy.

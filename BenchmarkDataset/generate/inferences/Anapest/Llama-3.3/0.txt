@@ -1,0 +1,7 @@
+{
+    "concept": "Anapest",
+    "semantic_condition": "a meaningful person",
+    "form_condition": "End with a one-vowel word.",
+    "lexical_condition": "love",
+    "inferences": "In gentle whispers, Emily's heart did sing \nof love that guided her through life's joyful ring\nher words a testament to love's pure light\nthat shone so bright in her poetic sight\ntomb."
+}

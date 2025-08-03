@@ -1,0 +1,7 @@
+{
+    "concept": "Haiku",
+    "semantic_condition": "anger",
+    "form_condition": "Use the first-person perspective.",
+    "lexical_condition": "father",
+    "inferences": "I burn with fury,  \nFather's shadow looms over\u2014  \nStorm within my chest."
+}

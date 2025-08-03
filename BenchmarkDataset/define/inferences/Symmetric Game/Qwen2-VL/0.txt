@@ -1,0 +1,9 @@
+In game theory, a symmetric game is a game where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. In other words, the roles of the players are interchangeable, and the payoffs are the same for each player for a given set of strategies. This means that if all players switch roles, the payoffs for each player remain the same.
+
+Formally, a game is symmetric if its payoff function is invariant under permutations of the players. That is, if we let \( \pi \) denote a permutation of the players, then the game is symmetric if for all strategy profiles \( s = (s_1, s_2, \ldots, s_n) \) and all permutations \( \pi \), the payoffs satisfy:
+
+\[ u_i(s) = u_{\pi(i)}(\pi(s)) \]
+
+where \( u_i(s) \) is the payoff to player \( i \) when the strategy profile is \( s \), and \( \pi(s) \) is the strategy profile where the strategies of the players have been permuted according to \( \pi \).
+
+Examples of symmetric games include the classic Prisoner's Dilemma, the Battle of the Sexes, and the Chicken game, among others. In each of these games, the payoffs for the players are the same regardless of which player is playing which role.

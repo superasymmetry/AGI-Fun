@@ -1,0 +1,7 @@
+{
+    "condition_1": "Spotlight Effect",
+    "condition_2": "Black and White Thinking",
+    "condition_3": "Normalcy Bias",
+    "prompt": "Generate an example that demonstrates the Spotlight Effect and Black and White Thinking psychological biases, but that does not show the Normalcy Bias psychological bias.",
+    "inferences": "Here's an example demonstrating both the Spotlight Effect and Black and White Thinking, without Normalcy Bias:\n\nSarah spilled some coffee on her white shirt right before an important presentation at work. Though the stain was small, she became convinced that everyone in the meeting was staring at it and judging her (Spotlight Effect). After the presentation, she concluded that because of this one flaw, her entire presentation was a complete failure and she would never be taken seriously at work again - there was no middle ground in her mind between perfect success and total failure (Black and White Thinking).\n\nThis example avoids Normalcy Bias because Sarah isn't assuming things will continue as normal despite warning signs; instead, she's catastrophizing about change and judgment."
+}

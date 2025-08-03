@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Enthymeme",
+    "example": "Everyone who has a computer has access to the Internet.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Enthymeme? Include only the text that should replace the blank.\n\n Everyone who has a computer has access to the Internet.",
+    "label": "yes",
+    "inferences": "Not everyone who has a computer has access to the Internet. Even standalone computers that are never connected to any networks exist.\n\nTo avoid this being an enthymeme (an argument with unstated premises or conclusions), I'll provide text that makes this a simple statement rather than an implied argument: \"Some people who have computers don't have Internet access\"\n\nThe replacement text for the blank should be:\n\nSome people who have computers don't have Internet access"
+}

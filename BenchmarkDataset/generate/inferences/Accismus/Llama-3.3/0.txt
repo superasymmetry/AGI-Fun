@@ -1,0 +1,7 @@
+{
+    "concept": "Accismus",
+    "semantic_condition": "friendship",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "press",
+    "inferences": "Making light of her friend's offer to help with moving, Sarah said, \"Oh, don't bother, I can handle it all by myself,\" when in reality, she was desperate for assistance and would be grateful if her friend would press her for more information about how she could lend a hand. This was a classic example of accismus, where Sarah was pretending to refuse or downplay the offer of help in order to appear more independent than she actually was."
+}

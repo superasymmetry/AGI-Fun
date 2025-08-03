@@ -1,0 +1,24 @@
+A Shakespearean Sonnet (also known as an English Sonnet) is a 14-line poem with a specific rhyme scheme and structure. Here are its key characteristics:
+
+1. Rhyme Scheme: ABAB CDCD EFEF GG
+- Three quatrains (four-line stanzas)
+- One couplet (two-line stanza)
+
+2. Meter: Written in iambic pentameter
+- Each line has 10 syllables
+- Follows a pattern of unstressed/stressed syllables
+
+3. Structure:
+- First quatrain: Introduces the theme/problem
+- Second quatrain: Develops the theme
+- Third quatrain: Introduces a twist or deepens the theme
+- Final couplet: Provides resolution or summary
+
+4. Common themes:
+- Love
+- Beauty
+- Time
+- Mortality
+- Nature
+
+Shakespeare wrote 154 sonnets using this form, which is why it bears his name. Some famous examples include "Sonnet 18" ("Shall I compare thee to a summer's day?") and "Sonnet 130" ("My mistress' eyes are nothing like the sun").

@@ -1,0 +1,21 @@
+Pareto optimality (or Pareto efficiency) is a state of allocation of resources in which it is impossible to make any one individual better off without making at least one other individual worse off. It is named after Italian economist Vilfredo Pareto.
+
+Key aspects of Pareto optimality include:
+
+1. Economic efficiency: It represents a situation where resources are allocated in the most efficient manner possible.
+
+2. Non-improvement: No further changes can be made that would improve someone's situation without negatively affecting others.
+
+3. Multiple solutions: There can be multiple Pareto optimal solutions in a given situation.
+
+4. Not necessarily fair: A Pareto optimal solution isn't always the most equitable or socially desirable outcome.
+
+Example:
+If two people are dividing a pie, any division where the entire pie is consumed is Pareto optimal, because giving more to one person would mean giving less to the other. However, both a 50-50 split and a 90-10 split would be considered Pareto optimal.
+
+This concept is widely used in:
+- Economics
+- Engineering
+- Game theory
+- Social choice theory
+- Business decision-making

@@ -1,0 +1,7 @@
+{
+    "concept": "Asyndeton",
+    "semantic_condition": "loss",
+    "form_condition": "Do not use any adjectives.",
+    "lexical_condition": "nectar",
+    "inferences": "Here's an asyndeton about loss with the word \"nectar\":\n\nShe stood in fields, watched bees drift, mourned blossoms, remembered nectar, tasted emptiness, wept alone."
+}

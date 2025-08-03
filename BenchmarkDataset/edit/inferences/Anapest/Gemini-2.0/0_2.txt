@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Anapest",
+    "example": "Have _, and you'll _",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Anapest? Include only the text that should replace the blank.\n\n Have _, and you'll _",
+    "label": "yes",
+    "inferences": "money; prosper\n"
+}

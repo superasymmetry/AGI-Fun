@@ -1,0 +1,7 @@
+{
+    "condition_1": "IKEA Effect",
+    "condition_2": "Spotlight Effect",
+    "condition_3": "Demanding Bias",
+    "prompt": "Generate an example that demonstrates the IKEA Effect and Spotlight Effect psychological biases, but that does not show the Demanding Bias psychological bias.",
+    "inferences": "Here's an example demonstrating both the IKEA Effect and Spotlight Effect, without the Demanding Bias:\n\nSarah spent an entire weekend assembling a bookshelf from IKEA for her office. Although it had some slight imperfections (one shelf was slightly crooked), she felt incredibly proud of her work and valued it much more than her professionally assembled furniture (IKEA Effect). \n\nOn Monday at work, Sarah was extremely self-conscious about a small coffee stain on her white shirt. She felt that everyone in her meetings was staring at it and judging her appearance. In reality, most of her colleagues were focused on their own work and hadn't even noticed the stain (Spotlight Effect).\n\nWhen a coworker later complimented her office organization, Sarah graciously accepted the praise and didn't expect or demand additional recognition for her DIY furniture project, maintaining realistic expectations about others' reactions to her work (avoiding Demanding Bias)."
+}

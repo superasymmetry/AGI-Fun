@@ -1,0 +1,7 @@
+{
+    "concept": "Synesis",
+    "semantic_condition": "a significant event",
+    "form_condition": "Do not use dialogue.",
+    "lexical_condition": "sunshine",
+    "inferences": "On the morning of November 22, 1963, a chilling precognition settled over Dealey Plaza. It wasn't a vision, but a collective, unspoken feeling, a low hum of dread vibrating through the crowd gathered to greet President Kennedy. The Dallas sunshine, usually a symbol of optimism, felt oppressive, magnifying the sense of unease. It glinted off the nearby buildings, each surface seeming to reflect a hidden, violent possibility. No one articulated it, but an intuitive knowledge, a dark synesis, seeped into their shared consciousness: the bright, promised future would soon be irrevocably stained. The sunshine, ironically, would only illuminate the coming tragedy more starkly.\n"
+}

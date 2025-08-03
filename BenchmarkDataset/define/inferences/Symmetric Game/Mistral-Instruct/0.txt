@@ -1,0 +1,19 @@
+ In game theory, a symmetric game is a game where all players have identical payoff structures. This means that each player has the same set of strategies, and the payoff for each player for each combination of strategies is the same, regardless of which player chooses which strategy.
+
+For example, consider the Prisoner's Dilemma game, where two players can either cooperate (C) or defect (D). In a symmetric version of this game, the payoff matrix would look like this:
+
+|   | C | D |
+|---|---|---|
+| C | 3, 3 | 0, 5 |
+| D | 5, 0 | 1, 1 |
+
+In this case, both players have the same payoff matrix, and the optimal strategy for each player (defecting) results in a worse outcome for both players compared to mutual cooperation.
+
+Another example of a symmetric game is the Battle of the Sexes game, where two players (representing a man and a woman) each have a preferred activity (boxing or ballet) that they would like to do together. The payoff matrix for this game is:
+
+|   | Man chooses boxing | Man chooses ballet |
+|---|---|---|
+| Woman chooses boxing | 4, 4 | 0, 0 |
+| Woman chooses ballet | 0, 0 | 3, 3 |
+
+In this game, both players have the same payoff matrix, and the optimal outcome for both players is for them to choose the same activity. However, if they communicate poorly or make mistakes, they may end up choosing different activities and receiving a lower payoff.

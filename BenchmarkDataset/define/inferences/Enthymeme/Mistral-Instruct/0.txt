@@ -1,0 +1,5 @@
+ An enthymeme is a rhetorical argument that is incomplete, but still effective because it relies on the audience's common knowledge or assumptions to fill in the missing parts. It is similar to a syllogism, which is a logical argument with a specific premise and conclusion, but an enthymeme omits one or more of the premises, assuming the audience will understand the unstated premises.
+
+For example, consider the following enthymeme: "You should vote for Candidate A because they have the best policies for our community." The unstated premise might be something like "The best candidate for our community is the one with the best policies." This enthymeme is effective because the audience is likely to agree with the unstated premise and draw the conclusion that voting for Candidate A is the best choice.
+
+Enthymemes are commonly used in persuasive speech and writing, as they can be more persuasive than a fully stated argument because they allow the audience to feel a sense of ownership in the conclusion. However, they can also be misleading if the unstated premises are not shared by the audience or if they are not clearly understood.

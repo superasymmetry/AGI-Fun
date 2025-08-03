@@ -1,0 +1,11 @@
+An enthymeme is a rhetorical device or form of argument that is essentially a syllogism with an implicit premise or conclusion. In a typical syllogism, you have two premises leading to a conclusion, for example:
+
+1. Major premise: All humans are mortal.
+2. Minor premise: Socrates is a human.
+3. Conclusion: Therefore, Socrates is mortal.
+
+An enthymeme simplifies this by leaving one of the premises or the conclusion unstated because it is assumed to be obvious or already accepted by the audience. For example:
+
+- "Socrates is mortal because he is human."
+
+Here, the major premise "All humans are mortal" is implied and not explicitly stated. Enthymemes are often used in persuasive speech and writing because they make the argument seem more direct and relatable, assuming some shared understanding with the audience.

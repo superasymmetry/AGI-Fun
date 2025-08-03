@@ -1,0 +1,8 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Analogy",
+    "example": "The baseball players _ troops _ extreme conditions",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Analogy? Include only the text that should replace the blank.\n\n The baseball players _ troops _ extreme conditions",
+    "label": "no",
+    "inferences": "The baseball players **are like** troops **in** extreme conditions  \n\nThis fills in the blanks to form a valid analogy, comparing baseball players to troops operating under extreme conditions. The structure \"X are like Y in Z\" is a common way to express analogies."
+}

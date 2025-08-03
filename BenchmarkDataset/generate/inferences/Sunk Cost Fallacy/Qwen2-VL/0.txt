@@ -1,0 +1,7 @@
+{
+    "condition_1": "Catastrophizing",
+    "condition_2": "Status Quo Bias",
+    "condition_3": "Confirmation Bias",
+    "prompt": "Generate an example that demonstrates the Catastrophizing and Status Quo Bias psychological biases, but that does not show the Confirmation Bias psychological bias.",
+    "inferences": "Catastrophizing is a type of cognitive distortion where a person exaggerates the severity of a situation or event, leading to feelings of hopelessness and despair. Status quo bias is a type of cognitive bias where a person prefers things to stay the same and resists change, even if the change would be beneficial.\nHere is an example that demonstrates both of these biases, but not the Confirmation bias:\nA person is considering whether to take a new job offer. They are catastrophizing by imagining all the worst-case scenarios that could happen if they take the job, such as hating the work, not getting along with their colleagues, and failing at their tasks. They are also exhibiting status quo bias by preferring to stay in their current job, even though it may not be the best fit for them, because it is familiar and comfortable.\nIn this example, the person is not exhibiting the Confirmation bias because they are not selectively seeking out information that confirms their existing beliefs or ignoring information that contradicts them. Instead, they are catastrophizing and exhibiting status quo bias."
+}

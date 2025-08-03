@@ -1,0 +1,7 @@
+{
+    "concept": "Slant Rhyme",
+    "semantic_condition": "change",
+    "form_condition": "Start with a monosyllabic word.",
+    "lexical_condition": "jump",
+    "inferences": "Here's a slant rhyme pair in the theme of change with \"jump\":\n\ndump \u2192 jump\n\n(These words share similar consonant sounds at the end /\u028cmp/ but have different vowel sounds /\u028c/ vs /\u028a/, making them slant rhymes while relating to change - \"dump\" suggesting discarding/transformation and \"jump\" indicating a sudden change or leap)"
+}

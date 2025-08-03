@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Symmetric Game",
+    "example": "Max and Anna are both deciding whether to attend Harvard or MIT for an economics PhD. Max is obsessed with rankings and will derive +100 utility from going to MIT and 0 utility from going to Harvard. Anna hates Max and his obsessions with rankings and just wants to be at a different university than Max; she\u2019ll get +100 utility from being at a different university than Max and -100 utility from being at the same university as him. ",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Symmetric Game.\n\n Max and Anna are both deciding whether to attend Harvard or MIT for an economics PhD. Max is obsessed with rankings and will derive +100 utility from going to MIT and 0 utility from going to Harvard. Anna hates Max and his obsessions with rankings and just wants to be at a different university than Max; she\u2019ll get +100 utility from being at a different university than Max and -100 utility from being at the same university as him. ",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Symmetric Game.\n\n Max and Anna are both deciding whether to attend Harvard or MIT for an economics PhD. Max is obsessed with rankings and will derive +100 utility from going to MIT and 0 utility from going to Harvard. Anna hates Max and his obsessions with rankings and just wants to be at a different university than Max; she\u2019ll get +100 utility from being at a different university than Max and -100 utility from being at the same university as him. ",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "[[ (0, 100), (100, -100) ],\n [ (100, -100), (0, 100) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": false
+}

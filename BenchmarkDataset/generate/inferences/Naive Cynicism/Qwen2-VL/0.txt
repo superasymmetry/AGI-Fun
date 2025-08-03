@@ -1,0 +1,7 @@
+{
+    "condition_1": "Black and White Thinking",
+    "condition_2": "Naive Cynicism",
+    "condition_3": "Pseudocertainty Effect",
+    "prompt": "Generate an example that demonstrates the Black and White Thinking and Naive Cynicism psychological biases, but that does not show the Pseudocertainty Effect psychological bias.",
+    "inferences": "Black and White Thinking: A person who is experiencing black and white thinking may believe that they are either a complete success or a complete failure, with no middle ground. For example, if they receive a B on a test, they may believe that they are a failure and that they will never be able to succeed in that subject.\nNaive Cynicism: A person who is experiencing naive cynicism may believe that others are always acting out of self-interest and that they cannot be trusted. For example, if they are offered a job, they may believe that the employer is only offering them the job because they want to exploit them, rather than because they believe the person is qualified for the position.\nPseudocertainty Effect: The pseudocertainty effect is a psychological bias that occurs when people overestimate the likelihood of a particular outcome, even when there is no evidence to support this belief. This bias is not present in the examples provided above."
+}

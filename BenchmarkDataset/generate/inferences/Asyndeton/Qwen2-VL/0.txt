@@ -1,0 +1,7 @@
+{
+    "concept": "Asyndeton",
+    "semantic_condition": "overcoming adversity",
+    "form_condition": "Use the second-person perspective.",
+    "lexical_condition": "just",
+    "inferences": "You just keep going, just keep fighting, just keep believing."
+}

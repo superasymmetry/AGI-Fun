@@ -1,0 +1,7 @@
+{
+    "concept": "Haiku",
+    "semantic_condition": "your fears",
+    "form_condition": "Start with a word that begins with the letter \"I\".",
+    "lexical_condition": "press",
+    "inferences": "In the dark, I press,\nHeart races, fear's cold grip,\nSilence speaks volumes."
+}

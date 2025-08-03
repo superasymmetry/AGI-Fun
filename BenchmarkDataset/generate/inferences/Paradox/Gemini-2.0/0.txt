@@ -1,0 +1,7 @@
+{
+    "concept": "Paradox",
+    "semantic_condition": "moments in time",
+    "form_condition": "Use a comma in the first sentence or line.",
+    "lexical_condition": "friend",
+    "inferences": "Seeing him there, I knew my past was about to rewrite my future. We'd been inseparable as kids, best friends, yet he was now a ghost, a shimmering echo of a boy who died ten years ago. And here he was, smiling, beckoning me to a moment that both was and wasn't real, a moment that threatened to erase all the moments that followed his tragic end. To be his friend again meant ceasing to be the person I'd become without him.\n"
+}

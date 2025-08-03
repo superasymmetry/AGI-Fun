@@ -1,0 +1,7 @@
+{
+    "concept": "Synesis",
+    "semantic_condition": "your dreams",
+    "form_condition": "Use the third-person perspective.",
+    "lexical_condition": "just",
+    "inferences": "He just wanted to sleep, but the dream-people that crowded his mind were making too much noise, shouting and laughing at their own jokes, each member of the peculiar crowd behaving as if they were at some strange cosmic party."
+}

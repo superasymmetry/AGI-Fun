@@ -1,0 +1,7 @@
+{
+    "condition_1": "Demanding Bias",
+    "condition_2": "Endowment Effect",
+    "condition_3": "Sunk Cost Fallacy",
+    "prompt": "Generate an example that demonstrates the Demanding Bias and Endowment Effect psychological biases, but that does not show the Sunk Cost Fallacy psychological bias.",
+    "inferences": "Here's an example demonstrating Demanding Bias and Endowment Effect without Sunk Cost Fallacy:\n\nSarah received a handmade ceramic mug as a birthday gift from her friend. While the mug is fairly simple and would typically sell for $15 at a craft fair, Sarah refuses offers from others to buy it for $30 because she feels emotionally attached to it now that it's hers (Endowment Effect). When describing her mug collection to others, she frequently points out that handmade items \"should\" be valued more highly than mass-produced ones and that \"everyone ought to\" appreciate artisanal crafts, judging those who prefer regular store-bought mugs (Demanding Bias).\n\nThis example avoids Sunk Cost Fallacy because Sarah's attachment to the mug isn't based on any previous investment of time, money, or effort - she simply values it more because she owns it (Endowment Effect) and believes others should share her values (Demanding Bias)."
+}

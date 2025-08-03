@@ -1,0 +1,18 @@
+The **endowment effect** is a cognitive bias in which people tend to ascribe more value to things merely because they own them. In other words, individuals demand a higher price to sell an item they possess than they would be willing to pay to acquire the same item if they didn't own it.
+
+### Key Characteristics of the Endowment Effect:
+1. **Ownership Increases Perceived Value** – People overvalue their possessions simply because they own them, regardless of objective market value.
+2. **Loss Aversion Connection** – The effect is closely tied to **loss aversion** (from prospect theory), where the pain of losing something is felt more strongly than the pleasure of gaining something equivalent.
+3. **Behavioral Economics Example** – Classic experiments (e.g., Kahneman, Knetsch, & Thaler, 1990) showed that participants given a mug were reluctant to trade it or demanded much more money to sell it than others were willing to pay.
+
+### Real-World Implications:
+- **Market Behavior** – Explains why people hold onto stocks, property, or collectibles longer than rationally justified.
+- **Negotiations** – Sellers often overprice their goods due to emotional attachment.
+- **Policy & Marketing** – Influences strategies like free trials (once people "own" a product temporarily, they value it more).
+
+### Why It Happens:
+- **Psychological Ownership** – Mere possession creates an emotional attachment.
+- **Status Quo Bias** – People prefer keeping what they have over making changes.
+- **Fear of Regret** – Worrying that selling might lead to future remorse.
+
+The endowment effect highlights how irrational human decision-making can be when ownership and emotions come into play.

@@ -1,0 +1,7 @@
+{
+    "concept": "Hyperbaton",
+    "semantic_condition": "your fears",
+    "form_condition": "Include a sentence that contains a question.",
+    "lexical_condition": "love",
+    "inferences": "Certainly! Here\u2019s an instance of **hyperbaton** (an inversion of normal word order) themed around fears, featuring the word *love*, and including a question:  \n\n---\n\n**\"Of shadows deep, love, I am afraid\u2014yet brighter still, does it not burn?\"**  \n\nIn this sentence, the typical order (\"I am afraid of deep shadows, love\u2014yet does it not burn brighter still?\") is rearranged for poetic emphasis, creating a sense of unease and longing. The question at the end invites reflection on the paradoxical nature of fear and love.  \n\nWould you like it refined further?"
+}

@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Haiku",
+    "example": "A weather witch wanes\nWhen _ weather\nWoah we part again",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Haiku? Include only the text that should replace the blank.\n\n A weather witch wanes\nWhen _ weather\nWoah we part again",
+    "label": "yes",
+    "inferences": " moonlight (or any other specific weather condition would not fit the 5-7-5 syllable structure and the theme of the haiku, which seems to be related to weather and the changing of the moon)"
+}

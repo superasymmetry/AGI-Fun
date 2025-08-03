@@ -1,0 +1,18 @@
+{
+    "model": "gpt-4o",
+    "concept": "Pareto Optimality",
+    "example": "A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. They decide on the allocation 2 bananas and 1 apple for A; 1 banana and 2 apples to B.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "To make this allocation not Pareto optimal, we need to find an alternative allocation where at least one person can be made better off without making the other worse off. Currently, A receives 2 bananas and 1 apple, and B receives 1 banana and 2 apples. Both prefer bananas.\n\nLet's adjust this allocation:\n\n- Allocate 2 bananas and 0 apples to A; 1 banana and 3 apples to B.\n\nIn this new allocation, B receives more of what they prefer (bananas) than in the original allocation and the same amount of apples, while A still receives their 2 bananas but now no apples. If they strictly prefer bananas, A should be at least as happy as before, and B is definitely better off since they now have more apples, assuming the preference for bananas over apples isn't absolute in a way that makes more apples worthless. However, if B strictly prefers bananas to the point where apples are not a substitute, then this may not yet resolve non-Pareto status; further adjustments could concentrate entirely on bananas if needed.\n\nLet's now consider a payoff matrix. We can represent the payoffs such that any change could result in a different scenario where the described situation/context aligns differently with Pareto optimality.\n\n<OUTPUT>\n[[ (3,0), (0,4) ],\n [ (2,1), (1,3) ]]\n",
+    "message": "Found 4 Pareto optimal outcomes.",
+    "correct": false
+}

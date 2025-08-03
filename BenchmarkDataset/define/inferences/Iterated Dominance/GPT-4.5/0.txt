@@ -1,0 +1,13 @@
+In game theory, iterated dominance refers to a process used to simplify games by successively eliminating strategies that are dominated. A strategy is said to be "dominated" if there is another strategy that results in a better payoff for the player, regardless of what the other players do.
+
+The process of iterated elimination of dominated strategies involves the following steps:
+
+1. **Identify Dominated Strategies**: Start by identifying strategies that are strictly dominated. A strategy is strictly dominated if there exists another strategy that always results in a higher payoff, regardless of the other players' strategies.
+
+2. **Eliminate Dominated Strategies**: Remove these dominated strategies from the game.
+
+3. **Repeat**: After eliminating dominated strategies, new strategies may become dominated that were not dominated before, due to the changes in the strategic landscape. Repeat the process of identifying and removing dominated strategies.
+
+4. **Convergence**: Continue this process iteratively until no more dominated strategies can be found. The game may converge to a simplified version where each player's remaining strategies are not dominated by any other strategy.
+
+Iterated dominance is useful because it reduces the complexity of analyzing strategic interactions in a game. The strategies that survive iterated elimination of dominated strategies are considered rationalizable, as they are strategies that rational players could choose, assuming everyone else is also playing rationally. This process is most effective in games with a finite number of strategies and players.

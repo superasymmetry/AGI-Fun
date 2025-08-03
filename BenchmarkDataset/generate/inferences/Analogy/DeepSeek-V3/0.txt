@@ -1,0 +1,7 @@
+{
+    "concept": "Analogy",
+    "semantic_condition": "nature",
+    "form_condition": "Use the second-person perspective.",
+    "lexical_condition": "press",
+    "inferences": "**Analogy:**  \n\n*\"Imagine you\u2019re a seed buried in the earth, and the soil presses down on you like a heavy blanket. At first, it feels suffocating\u2014like the weight will never lift. But that very pressure is what forces you to split open, to reach stubbornly toward the light. Without it, you\u2019d never break through. So when life presses you down, remember: even nature\u2019s toughest growth begins under resistance.\"*  \n\n(The analogy compares external pressure to the natural force that helps seeds sprout, using \"press\" and second-person \"you\" to create immediacy.)"
+}

@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Pareto Optimality",
+    "example": "C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n C likes fancy restaurants about the same as casual restaurants, but her partner D strongly prefers casual restaurants. C is in charge of making reservations and always defaults to choosing fancy restaurants.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "To modify this scenario to reflect Pareto Optimality, we need to ensure that no alternative choice exists where at least one player can be made better off without making the other worse off. \n\nIn the original scenario, C always chooses fancy restaurants, which is not Pareto optimal because switching to casual restaurants would make D better off (since D strongly prefers casual) without making C worse off (since C is indifferent). \n\nTo make it Pareto optimal, we can adjust the payoffs so that any unilateral change from the current strategy would harm at least one player. Here's a 2x2 payoff matrix representing this:\n\n[[ (2,1), (1,2) ],\n [ (1,0), (0,1) ]]\n\n<OUTPUT>\n[[ (2,1), (1,2) ],\n [ (1,0), (0,1) ]]\n</OUTPUT>",
+    "message": "Found 2 Pareto optimal outcomes.",
+    "correct": true
+}

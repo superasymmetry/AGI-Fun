@@ -1,0 +1,5 @@
+The pseudocertainty effect is a cognitive bias that occurs when individuals perceive an outcome as being certain, despite it being probabilistic, leading them to make decisions that seem irrational from a statistical standpoint. This effect is a byproduct of the way people handle uncertainty and risk in decision-making processes.
+
+It often arises in scenarios involving several stages, where people misinterpret the probability of an outcome by focusing on the apparent certainty of individual stages rather than the actual probabilities involved throughout the entire process. For example, when presented with a decision involving multiple stages of risk, individuals might fixate on the certainty of outcomes in the initial stage, neglecting the cumulative risk across all stages.
+
+This effect is closely related to prospect theory, which describes how people evaluate potential losses and gains. The pseudocertainty effect highlights how people tend to treat probabilistic outcomes as certain when it aligns with their desired outcome, thereby influencing their decision-making in ways that deviate from optimal risk assessment.

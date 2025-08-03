@@ -1,0 +1,18 @@
+{
+    "model": "gpt-4o",
+    "concept": "Pareto Optimality",
+    "example": "Two thirds of the country supports a policy to tax the rich. One third of the country supports a policy to tax the poor.  Everyone prefers some taxes to no taxes, because it\u2019s important to fund the government. Because the two groups cannot agree, no taxes are collected.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n Two thirds of the country supports a policy to tax the rich. One third of the country supports a policy to tax the poor.  Everyone prefers some taxes to no taxes, because it\u2019s important to fund the government. Because the two groups cannot agree, no taxes are collected.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n Two thirds of the country supports a policy to tax the rich. One third of the country supports a policy to tax the poor.  Everyone prefers some taxes to no taxes, because it\u2019s important to fund the government. Because the two groups cannot agree, no taxes are collected.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "To make the given example a demonstration of Pareto Optimality, both groups should arrive at an agreement that benefits at least one group without making the other worse off. \n\nFor instance, consider the two groups agree on a tax policy that both can support, such as a moderate progressive tax that both taxes the rich and provides leniency for the poorer sections. In doing so, the country manages to collect some taxes that contribute to government funding, which is preferable to collecting no taxes at all. This scenario ensures that at least one group is better off while the other is not worse off compared to the status quo where no taxes are collected.\n\nNow, to represent this concept with a payoff matrix, we need to illustrate this scenario in game-theoretical terms where each player (perhaps representing each group) has a strategy to choose from: tax the rich, tax the poor, or agree on a compromise. The resulting payoffs should then reflect that reaching an agreement benefits both groups compared to not collecting taxes at all.\n\n<OUTPUT>\n[[ (1,2), (0,0) ],\n [ (2,1), (1,1) ]]\n",
+    "message": "Found 2 Pareto optimal outcomes.",
+    "correct": true
+}

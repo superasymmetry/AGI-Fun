@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Anapest",
+    "example": "Further_",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Anapest? Include only the text that should replace the blank.\n\n Further_",
+    "label": "yes",
+    "inferences": " Further_ Trochaic, Iambic, or Dactylic could fill in the blank so that the resultant text is not an instance of the concept Anapest. Anapest is a metrical foot consisting of two short syllables followed by one long syllable, such as da-DUM. The options provided are metrical feet with a different syllable pattern:\n\n- Trochaic: one long syllable followed by one short syllable, such as DUM-da\n- Iambic: one short syllable followed by one long syllable, such as da-DUM\n- Dactylic: one long syllable followed by two short syllables, such as DUM-da-da\n\nTherefore, any of these options (Trochaic, Iambic, or Dactylic) could replace the blank \"Further_\" to avoid creating an Anapest."
+}

@@ -1,0 +1,7 @@
+{
+    "concept": "Anacoluthon",
+    "semantic_condition": "your dreams",
+    "form_condition": "Do not use any adjectives.",
+    "lexical_condition": "press",
+    "inferences": "In my dreams last night, I press through the mist and then\u2014 the stars below me swallowed whole cities.\n\n(This sentence begins with a subject \"I\" performing an action, but abruptly shifts structure mid-thought, abandoning the initial grammatical construction as \"the stars\" become the new subject.)"
+}

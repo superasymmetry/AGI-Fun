@@ -1,0 +1,54 @@
+<think>
+Okay, the user is asking, "What is a haiku?" Let me start by recalling what I know about haikus. They're a type of traditional Japanese poetry, right? I remember they have a specific structure, probably related to syllables. Let me think... isn't it three lines with a 5-7-5 syllable pattern?
+
+Wait, but I should make sure. Sometimes people might confuse haiku with other short poems. Also, haikus often focus on nature, right? They capture a moment in time, maybe with a seasonal reference. The term "kigo" comes to mind, which is the seasonal word or phrase. And there's something about a cutting word, "kireji," that adds a pause or shift in the poem.
+
+I should check if the syllable structure is strict in Japanese or if it's adapted differently in other languages. Because in English, syllables can be tricky. For example, the 5-7-5 rule is commonly taught, but some modern haiku poets might not stick strictly to that, focusing more on the essence than the syllable count. But traditionally, it's 5-7-5.
+
+Also, the structure is three lines: first line 5 syllables, second 7, third 5. Let me think of an example. Matsuo Basho's famous one about the frog jumping into an old pond—that's a classic. Translating that into English might not keep the syllables exact, but the essence remains.
+
+I should mention the key elements: structure, focus on nature, seasonal reference, and the juxtaposition of two images or ideas. Maybe also note that haikus are meant to evoke emotion or a vivid image with few words.
+
+Wait, the user might be looking for a simple definition first, then the structure, and some examples. Let me structure the answer accordingly. Start with a concise definition, then break down the components: structure, themes, examples. Make sure to clarify that while the syllable count is traditional, variations exist, especially in non-Japanese languages.
+
+Also, perhaps address common misconceptions. Some people think any three-line poem with 5-7-5 syllables is a haiku, but without the nature element or the seasonal reference, it might not be considered a traditional haiku. Although modern haikus can be more flexible.
+
+Let me verify the example. Basho's frog haiku in Japanese is "Furu ike ya / kawazu tobikomu / mizu no oto." The syllable count is 5-7-5 in Japanese, but translations vary. The example I have in mind for English should maintain the 5-7-5 structure. Maybe something like:
+
+An old silent pond...
+A frog jumps into the pond—
+Splash! Silence again.
+
+That's a common translation. Another example could be about autumn or winter, to show the seasonal element. For instance:
+
+Autumn moonlight—
+a worm digs silently
+into the chestnut.
+
+That's by Basho as well, I think. Or maybe a simpler one for clarity.
+
+I should also mention that haikus often have a juxtaposition or contrast, like between something still and something in motion, or two different images that create a deeper meaning when placed together.
+
+So putting it all together: definition, structure, key elements (nature, season, juxtaposition), examples, and a note on variations in different languages. That should cover the user's question comprehensively.
+</think>
+
+A **haiku** is a traditional form of Japanese poetry known for its brevity and focus on capturing a moment in nature. Here’s a concise breakdown:
+
+### **Structure**:
+- **Three lines** with a **5-7-5 syllable pattern** (in Japanese).  
+  *(Note: Syllable rules may adapt in other languages, but the 5-7-5 structure is widely taught.)*
+
+### **Key Elements**:
+1. **Nature Imagery**: Often depicts seasons, landscapes, or fleeting natural moments.  
+2. **Kigo**: A seasonal reference (e.g., "cherry blossoms" for spring, "snow" for winter).  
+3. **Kireji**: A "cutting word" (in Japanese) that creates a pause or emotional shift.  
+4. **Juxtaposition**: Contrasts two images or ideas to evoke deeper meaning.
+
+### **Example**:
+> *An old silent pond…*  
+> *A frog jumps into the pond—*  
+> *Splash! Silence again.*  
+> —Matsuo Bashō (translated)
+
+### **Modern Adaptations**:
+While traditional haiku emphasize nature and structure, contemporary versions may experiment with themes or loosen syllable constraints. However, the essence—simplicity, immediacy, and resonance—remains central.

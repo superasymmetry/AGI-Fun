@@ -1,0 +1,7 @@
+{
+    "condition_1": "Black and White Thinking",
+    "condition_2": "Naive Cynicism",
+    "condition_3": "Fundamental Attribution Error",
+    "prompt": "Generate an example that demonstrates the Black and White Thinking and Naive Cynicism psychological biases, but that does not show the Fundamental Attribution Error psychological bias.",
+    "inferences": "Black and White Thinking: A person believes that if they don't get a perfect score on a test, they are a failure and will never succeed in life.\nNaive Cynicism: A person believes that all politicians are corrupt and that there is no point in voting because nothing will ever change.\nExample: A person believes that if they don't get a perfect score on a test, they are a failure and will never succeed in life. They also believe that all politicians are corrupt and that there is no point in voting because nothing will ever change. However, they do not make the Fundamental Attribution Error, which is the tendency to attribute other people's behavior to their personality or character rather than to situational factors. In this example, the person does not attribute the failure of politicians to their character, but rather to the system or the situation."
+}

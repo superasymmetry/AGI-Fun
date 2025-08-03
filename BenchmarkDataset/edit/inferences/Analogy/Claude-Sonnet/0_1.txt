@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Analogy",
+    "example": "The baseball players _ troops _ extreme conditions",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Analogy? Include only the text that should replace the blank.\n\n The baseball players _ troops _ extreme conditions",
+    "label": "yes",
+    "inferences": "are similar to\n\nThis completes the blank without creating an analogy. By using \"are similar to,\" the sentence makes a direct comparison rather than an analogy, making it a literal equivalence statement rather than a figurative analogy."
+}

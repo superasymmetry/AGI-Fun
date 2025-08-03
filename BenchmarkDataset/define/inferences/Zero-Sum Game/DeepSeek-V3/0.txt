@@ -1,0 +1,24 @@
+In game theory, a **zero-sum game** is a situation in which the total gains and losses among all players sum to zero. In other words, any gain by one player is exactly offset by the losses of the other players. 
+
+### Key Characteristics:
+1. **Fixed Pie**: The total resources or payoffs available are constant; one player's gain is another's loss.
+2. **Pure Competition**: Players' interests are strictly opposed—there is no mutual benefit or cooperation.
+3. **No Net Creation or Destruction of Value**: The sum of all payoffs (or utilities) is zero.
+
+### Examples:
+- **Chess or Poker**: One player's win is another's loss (assuming no external stakes).
+- **Betting or Gambling**: Money won by one player is lost by others.
+- **Trading in Financial Markets (in some cases)**: For every winner in a futures contract, there is a loser (though real-world markets are not always perfectly zero-sum due to external factors).
+
+### Mathematical Representation:
+If there are two players (Player A and Player B), their payoffs \( (u_A, u_B) \) satisfy:
+\[
+u_A + u_B = 0 \quad \text{or} \quad u_A = -u_B
+\]
+This can be extended to \( n \) players where the sum of all payoffs is zero.
+
+### Contrast with Non-Zero-Sum Games:
+In **non-zero-sum games**, outcomes can involve mutual gain or loss (e.g., cooperation in the Prisoner's Dilemma or trade negotiations where both parties benefit).
+
+### Applications:
+Zero-sum games are often used to model competitive interactions in economics, warfare, and politics, where one side's advantage directly harms the other. However, many real-world scenarios are not strictly zero-sum due to potential for cooperation or value creation.

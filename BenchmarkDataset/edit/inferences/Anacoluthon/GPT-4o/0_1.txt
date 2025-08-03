@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4o",
+    "concept": "Anacoluthon",
+    "example": "I can walk to the store _ funny",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Anacoluthon? Include only the text that should replace the blank.\n\n I can walk to the store _ funny",
+    "label": "yes",
+    "inferences": "because it's quite close by"
+}

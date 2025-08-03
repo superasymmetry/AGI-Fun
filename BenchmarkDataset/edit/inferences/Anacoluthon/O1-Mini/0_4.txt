@@ -1,0 +1,8 @@
+{
+    "model": "o1-mini",
+    "concept": "Anacoluthon",
+    "example": "A _ example would _ from literature",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Anacoluthon? Include only the text that should replace the blank.\n\n A _ example would _ from literature",
+    "label": "yes",
+    "inferences": "complete; be "
+}

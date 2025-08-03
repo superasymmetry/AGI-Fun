@@ -1,0 +1,74 @@
+Iterated dominance is a method of simplifying a game by repeatedly eliminating strategies that are **dominated** by other strategies.  A strategy is dominated if there exists another strategy that yields a strictly better payoff, regardless of what the other players do.
+
+Here's a breakdown:
+
+**1. Dominated Strategy:**
+
+*   A strategy 'S' for a player is **strictly dominated** if there exists another strategy 'T' for that same player, such that the payoff from playing 'T' is always strictly higher than the payoff from playing 'S', *no matter what strategies the other players choose*.
+
+**2. Iterated Elimination of Dominated Strategies (IEDS):**
+
+*   The process works as follows:
+
+    *   **Step 1:** Identify any strictly dominated strategies for any player in the game.
+    *   **Step 2:** Remove (eliminate) those dominated strategies.
+    *   **Step 3:** After removing a strategy, the game effectively becomes smaller.  Check if there are any *new* strictly dominated strategies in the reduced game.
+    *   **Step 4:** Repeat steps 1-3 until no more strictly dominated strategies can be found.
+
+**Key Concepts and Considerations:**
+
+*   **Strict Dominance:** The payoff from the dominating strategy must *always* be strictly higher than the dominated strategy.  If the payoffs are ever equal for some opponent's strategy choices, it's not strict dominance.  (Weak dominance is a related concept, but iterated elimination of weakly dominated strategies can lead to paradoxes.)
+
+*   **Order of Elimination:**  Crucially, the order in which you eliminate dominated strategies **doesn't matter** when using *strict* dominance.  The final outcome will be the same regardless of the elimination order.  This is a nice property.  (The order *does* matter with weak dominance.)
+
+*   **Rationality Assumption:**  IEDS relies on the assumption that all players are rational and will never choose a strategy that is strictly dominated. It also assumes that each player believes that the other players are rational, and that everyone knows that everyone is rational, and so on (common knowledge of rationality).
+
+*   **Solution:**  If IEDS leads to a unique outcome (i.e., only one strategy remains for each player), that outcome is considered the solution to the game by the IEDS method.  However, many games don't reduce to a single outcome using IEDS.
+
+*   **Equilibrium:**  If IEDS leads to a unique outcome, that outcome is necessarily a Nash equilibrium.  (A Nash equilibrium is a set of strategies where no player can improve their payoff by unilaterally changing their strategy, given the strategies of the other players.)
+
+**Example:**
+
+Consider the following payoff matrix for a two-player game, where Player 1 chooses a row and Player 2 chooses a column:
+
+|         | Column 1 | Column 2 | Column 3 |
+|---------|----------|----------|----------|
+| Row 1   | (1, 1)   | (0, 0)   | (2, 0)   |
+| Row 2   | (0, 3)   | (1, 2)   | (1, 1)   |
+| Row 3   | (2, 2)   | (1, 3)   | (0, 1)   |
+
+*   **Step 1:** For Player 1, Row 1 is strictly dominated by Row 3. (2>1, 1>0, 0>0). Eliminate Row 1.
+
+    |         | Column 1 | Column 2 | Column 3 |
+    |---------|----------|----------|----------|
+    | Row 2   | (0, 3)   | (1, 2)   | (1, 1)   |
+    | Row 3   | (2, 2)   | (1, 3)   | (0, 1)   |
+
+*   **Step 2:** For Player 2, Column 3 is strictly dominated by Column 2.  (2>1, 3>1). Eliminate Column 3.
+
+    |         | Column 1 | Column 2 |
+    |---------|----------|----------|
+    | Row 2   | (0, 3)   | (1, 2)   |
+    | Row 3   | (2, 2)   | (1, 3)   |
+
+*   **Step 3:** For Player 1, Row 2 is strictly dominated by Row 3. (2>0, 1>1). Eliminate Row 2.
+
+    |         | Column 1 | Column 2 |
+    |---------|----------|----------|
+    | Row 3   | (2, 2)   | (1, 3)   |
+
+*   **Step 4:** For Player 2, Column 1 is strictly dominated by Column 2. (3>2, 1>2). Eliminate Column 1.
+
+    |         | Column 2 |
+    |---------|----------|
+    | Row 3   | (1, 3)   |
+
+We are left with a single strategy for each player: Player 1 chooses Row 3 and Player 2 chooses Column 2.  The solution to the game (according to IEDS) is (Row 3, Column 2), with payoffs (1, 3).
+
+**Limitations:**
+
+*   **Not Always Applicable:** Many games do not have strictly dominated strategies. In these cases, IEDS cannot be used to find a solution.
+*   **Strong Assumptions:**  The rationality assumptions are strong and not always realistic.  People may not always behave rationally in real-world situations.
+*   **Weak Dominance Issues:**  Using weak dominance (where payoffs can be equal) can lead to different outcomes depending on the order of elimination, which is problematic.
+
+In summary, iterated dominance is a useful tool for simplifying games and finding solutions based on rationality assumptions. However, it has limitations and is not applicable to all games.

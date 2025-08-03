@@ -1,0 +1,11 @@
+In game theory, a pure Nash equilibrium is a situation where each player's chosen strategy is their best response given the strategies chosen by the other players, and all players are playing with pure strategies (as opposed to mixed strategies, which involve randomness). In a pure Nash equilibrium, no player has an incentive to unilaterally deviate from their current strategy because doing so would not result in a better payoff.
+
+To elaborate, consider a strategic interaction involving two or more players, where each player has a set of possible strategies. A pure Nash equilibrium occurs when each player's strategy results in the highest possible payoff for them, given the strategies chosen by the other players. That means, for each player, any deviation from their current strategy would lead to a lower or equal payoff, assuming the other players' strategies remain unchanged.
+
+In formal terms, a strategy profile \((s_1, s_2, \ldots, s_n)\) is a pure Nash equilibrium if for every player \(i\), the strategy \(s_i\) satisfies:
+
+\[ u_i(s_1, s_2, \ldots, s_i, \ldots, s_n) \geq u_i(s_1, s_2, \ldots, s_i', \ldots, s_n) \]
+
+for all possible alternative strategies \(s_i'\) for player \(i\), where \(u_i\) is the payoff function for player \(i\).
+
+Pure Nash equilibria can exist in various types of games, such as games of coordination, games of competition, and many others. However, not all games have a pure Nash equilibrium, though every finite game is guaranteed to have at least one Nash equilibrium if mixed strategies are allowed.

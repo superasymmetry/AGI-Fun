@@ -1,0 +1,26 @@
+The **pseudocertainty effect** is a cognitive bias where people perceive an outcome as certain when it is actually uncertain, often due to the way choices are framed. This effect occurs when individuals treat a probable outcome as if it were guaranteed, especially in multi-stage decision-making scenarios.
+
+### Key Features of the Pseudocertainty Effect:
+1. **Framing Dependence**: It arises when options are presented in a way that makes a risky outcome seem inevitable or guaranteed, even when it isn't.
+2. **Risk Perception**: People may overestimate the certainty of a positive outcome if it is framed as the final stage of a sequence (e.g., after a prior "safe" step).
+3. **Contrast with True Certainty**: Unlike real certainty, the pseudocertainty effect involves an illusion of safety or assurance, leading to suboptimal risk-taking.
+
+### Example:
+A classic example comes from **Amos Tversky and Daniel Kahneman** (1986):
+- **Scenario 1**: A two-stage game where:  
+  - Stage 1: 75% chance to lose, 25% chance to advance to Stage 2.  
+  - Stage 2: Choice between a "certain" win (e.g., $30) or an 80% chance to win $45.  
+  - Many people choose the "certain" $30 in Stage 2, even though the actual probability of winning it is only 25% (due to Stage 1’s risk).  
+- **Scenario 2**: A direct choice between a 25% chance to win $30 vs. a 20% chance (25% × 80%) to win $45. Here, people often prefer the riskier $45 option.  
+
+In Scenario 1, the "certain" win in Stage 2 feels guaranteed (pseudocertainty), while in Scenario 2, the uncertainty is more transparent.
+
+### Relation to Other Biases:
+- Similar to the **certainty effect** (overweighting guaranteed outcomes), but pseudocertainty specifically involves false perceptions of certainty.  
+- Contrasts with **probability neglect**, where people ignore probabilities altogether.
+
+### Practical Implications:
+- Influences financial decisions, health behaviors, and policy-making when outcomes are framed as sequential or contingent.  
+- Explains why people may take undue risks (or avoid them) based on misleading representations of certainty.
+
+In summary, the pseudocertainty effect highlights how framing can distort our perception of risk, making uncertain outcomes appear more certain than they truly are.

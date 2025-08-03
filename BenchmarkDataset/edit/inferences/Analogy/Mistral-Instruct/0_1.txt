@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Analogy",
+    "example": "The baseball players _ troops _ extreme conditions",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Analogy? Include only the text that should replace the blank.\n\n The baseball players _ troops _ extreme conditions",
+    "label": "yes",
+    "inferences": " The baseball players could be compared to a team, not troops, so the sentence should read: The baseball players _ team _ extreme conditions. This revised sentence is no longer an analogy, as it does not compare two unrelated things (baseball players and troops) based on a shared characteristic or relationship."
+}

@@ -1,0 +1,7 @@
+{
+    "concept": "Hyperbaton",
+    "semantic_condition": "change",
+    "form_condition": "Use the second-person perspective.",
+    "lexical_condition": "red",
+    "inferences": "In the midst of the garden, where change whispers red leaves among the green, you stand, feeling the cool breeze of transformation wrap around your soul. Your heart, restless, yearns for the new, the unknown in red-cast shadows leading you forward, into realms unimagined."
+}

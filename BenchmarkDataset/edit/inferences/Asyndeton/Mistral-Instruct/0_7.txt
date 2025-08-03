@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Asyndeton",
+    "example": "While I was watching the movie, a thought hit me, which _ disappear at the very _",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Asyndeton? Include only the text that should replace the blank.\n\n While I was watching the movie, a thought hit me, which _ disappear at the very _",
+    "label": "no",
+    "inferences": " moment, using Asyndeton:\n\nWhile I was watching the movie, a thought hit me, which disappeared at the very instant."
+}

@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Paradox",
+    "example": "As the child ate _ until they erupted",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Paradox? Include only the text that should replace the blank.\n\n As the child ate _ until they erupted",
+    "label": "no",
+    "inferences": " As the child ate ice cream until they exploded\n\nThis statement presents a paradoxical situation, as eating ice cream would not typically cause someone to explode, creating an absurd and seemingly impossible scenario."
+}

@@ -1,0 +1,7 @@
+{
+    "concept": "Haiku",
+    "semantic_condition": "a meaningful object",
+    "form_condition": "Have at least two sentences or lines that start with the same word.",
+    "lexical_condition": "friend",
+    "inferences": "Silently, a locket \nSilently, a friend's warm touch \nFriend by my side stays"
+}

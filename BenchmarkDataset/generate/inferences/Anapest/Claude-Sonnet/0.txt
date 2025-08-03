@@ -1,0 +1,7 @@
+{
+    "concept": "Anapest",
+    "semantic_condition": "loss",
+    "form_condition": "Use dialogue.",
+    "lexical_condition": "nectar",
+    "inferences": "Here's an anapest (two unstressed syllables followed by a stressed syllable, often in a rhythmic pattern) themed around loss, with dialogue:\n\n\"But the nectar,\" she sighed, \"from the flowers we grew,\nWill be gone with the garden he tended with you.\"\n\"In the morning,\" I said, \"when the sun starts to shine,\nI remember his touch as he trained each new vine.\""
+}

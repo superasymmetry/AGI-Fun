@@ -1,0 +1,17 @@
+The **fundamental attribution error (FAE)**, also known as the **correspondence bias**, is a cognitive bias in social psychology where people tend to overemphasize **dispositional (internal) explanations** for others' behavior while underestimating **situational (external) factors**.  
+
+### **Key Aspects of the Fundamental Attribution Error:**  
+1. **Overestimating Personality Traits** – When observing someone else's actions, we often attribute their behavior to their character, personality, or intentions (e.g., "They're rude because they're a bad person").  
+2. **Underestimating Situational Influences** – We tend to ignore external factors that may have influenced their behavior (e.g., "They snapped at me because they're under stress, not because they're mean").  
+
+### **Example:**  
+- If a driver cuts you off in traffic, you might assume they’re a reckless or selfish person (dispositional attribution), rather than considering they might be rushing to an emergency (situational attribution).  
+
+### **Why Does It Happen?**  
+- **Cognitive Ease:** It’s mentally easier to blame personality than analyze complex situations.  
+- **Perspective Difference:** When judging ourselves, we see situational factors ("I was late because of traffic"), but when judging others, we focus on their traits ("They’re always late because they’re irresponsible").  
+
+### **Exceptions:**  
+- The FAE is more common in **Western individualistic cultures** than in **collectivist cultures**, where situational factors are often given more weight.  
+
+This bias can lead to misunderstandings, conflicts, and unfair judgments in social interactions. Recognizing it helps in developing more balanced and empathetic perspectives.

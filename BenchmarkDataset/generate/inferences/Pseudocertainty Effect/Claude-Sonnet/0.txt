@@ -1,0 +1,7 @@
+{
+    "condition_1": "Catastrophizing",
+    "condition_2": "Illusory Superiority",
+    "condition_3": "Demanding Bias",
+    "prompt": "Generate an example that demonstrates the Catastrophizing and Illusory Superiority psychological biases, but that does not show the Demanding Bias psychological bias.",
+    "inferences": "Here's an example demonstrating Catastrophizing and Illusory Superiority without Demanding Bias:\n\nSarah, a college student, made a small mistake during her class presentation. She immediately thinks, \"This is terrible! My whole academic career is ruined. Everyone will remember this forever, and I'll never get into graduate school\" (Catastrophizing). However, she also believes she's still generally a better public speaker than 80% of her classmates, despite having no real evidence to support this belief (Illusory Superiority).\n\nThis example shows catastrophizing through Sarah's extreme overreaction to a minor mistake, and illusory superiority through her unjustified belief in her superior speaking abilities. It avoids demanding bias because Sarah isn't insisting that things must or should be a certain way - she's just catastrophizing about consequences and maintaining an inflated self-view."
+}

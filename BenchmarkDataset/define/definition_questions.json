@@ -1,0 +1,212 @@
+[
+    {
+        "Concept":"Haiku",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is a haiku?"
+    },
+    {
+        "Concept":"Shakespearean Sonnet",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is a Shakespearean Sonnet?"
+    },
+    {
+        "Concept":"Analogy",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is an analogy?"
+    },
+    {
+        "Concept":"Paradox",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is a paradox?"
+    },
+    {
+        "Concept":"Anacoluthon",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is an anacoluthon?"
+    },
+    {
+        "Concept":"Asyndeton",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is an asyndeton?"
+    },
+    {
+        "Concept":"Hyperbaton",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is a hyperbaton?"
+    },
+    {
+        "Concept":"Synesis",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is a synesis?"
+    },
+    {
+        "Concept":"Accismus",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is accismus?"
+    },
+    {
+        "Concept":"Slant Rhyme",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is a slant rhyme?"
+    },
+    {
+        "Concept":"Enthymeme",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is an enthymeme?"
+    },
+    {
+        "Concept":"Anapest",
+        "Domain":"Literary Techniques",
+        "Articulate":"What is an anapest?"
+    },
+    {
+        "Concept":"Strict Dominance",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is strict dominance?"
+    },
+    {
+        "Concept":"Iterated Dominance",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is iterated dominance?"
+    },
+    {
+        "Concept":"Weak Dominance",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is weak dominance?"
+    },
+    {
+        "Concept":"Pure Nash Equilibrium",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is a pure Nash equilibrium?"
+    },
+    {
+        "Concept":"Mixed Strategy Nash Equilibrium",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is a mixed strategy Nash equilibrium?"
+    },
+    {
+        "Concept":"Pareto Optimality",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is Pareto optimality?"
+    },
+    {
+        "Concept":"Best Response",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is a best response?"
+    },
+    {
+        "Concept":"Zero-Sum Game",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is a zero-sum game?"
+    },
+    {
+        "Concept":"Symmetric Game",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is a symmetric game?"
+    },
+    {
+        "Concept":"Saddle Point",
+        "Domain":"Game Theory",
+        "Articulate":"In game theory, what is a saddle point?"
+    },
+    {
+        "Concept":"Catastrophizing",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is catastrophizing?"
+    },
+    {
+        "Concept":"Personalization",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is personalization?"
+    },
+    {
+        "Concept":"Labeling (Overgeneralization)",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is labeling (overgeneralization)?"
+    },
+    {
+        "Concept":"Status Quo Bias",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the status quo bias?"
+    },
+    {
+        "Concept":"Sunk Cost Fallacy",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the sunk cost fallacy?"
+    },
+    {
+        "Concept":"Overconfidence",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is overconfidence?"
+    },
+    {
+        "Concept":"Mental Filtering (Disqualifying the Positive)",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is mental filtering (disqualifying the positive)?"
+    },
+    {
+        "Concept":"Confirmation Bias",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the confirmation bias?"
+    },
+    {
+        "Concept":"Mind Reading",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is mind reading?"
+    },
+    {
+        "Concept":"Anchoring Bias",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the anchoring bias?"
+    },
+    {
+        "Concept":"Fundamental Attribution Error",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the fundamental attribution error?"
+    },
+    {
+        "Concept":"Demanding Bias",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is demanding bias?"
+    },
+    {
+        "Concept":"Black and White Thinking",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is black and white thinking?"
+    },
+    {
+        "Concept":"IKEA Effect",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the IKEA effect?"
+    },
+    {
+        "Concept":"Pseudocertainty Effect",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the pseudocertainty effect?"
+    },
+    {
+        "Concept":"Endowment Effect",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the endowment effect?"
+    },
+    {
+        "Concept":"Naive Cynicism",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is naive cynicism?"
+    },
+    {
+        "Concept":"Normalcy Bias",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is normalcy bias?"
+    },
+    {
+        "Concept":"Spotlight Effect",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is the spotlight effect?"
+    },
+    {
+        "Concept":"Illusory Superiority",
+        "Domain":"Psychological Biases",
+        "Articulate":"In the context of psychological biases, what is illusory superiority?"
+    }
+]

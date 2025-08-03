@@ -1,0 +1,23 @@
+In game theory, a **symmetric game** is a game where the payoffs for playing a particular strategy depend only on the strategies chosen by the players, not on who is playing them. In other words, the game is symmetric if the players' roles are interchangeable.
+
+### **Formal Definition:**
+A game is **symmetric** if:
+1. All players have the **same set of strategies** available to them.
+2. The payoff for a player depends only on the **combination of strategies** chosen, not on the **identity of the players** themselves.  
+
+Mathematically, if we permute the players' positions, their payoffs remain unchanged.
+
+### **Examples:**
+1. **Prisoner's Dilemma**: Both players have the same strategies (Cooperate or Defect) and identical payoff structures.
+2. **Rock-Paper-Scissors**: Each player has the same three strategies, and payoffs depend only on the combination (e.g., Rock beats Scissors, regardless of which player chose Rock).
+3. **Cournot Duopoly**: Two firms choose quantities to produce, and profits depend symmetrically on the chosen quantities.
+
+### **Contrast with Asymmetric Games:**
+- In **asymmetric games**, players may have different strategy sets or payoff structures (e.g., a market leader vs. a small competitor in an oligopoly).
+- Symmetric games are often easier to analyze because equilibrium concepts (like Nash Equilibrium) can be simplified by assuming identical behavior.
+
+### **Significance:**
+- Symmetric games are useful for modeling situations where players are in similar roles (e.g., competing firms, animals in evolutionary games).
+- Many classic game theory results (e.g., evolutionary stable strategies in biology) rely on symmetry.
+
+Would you like an example with a payoff matrix to illustrate symmetry further?

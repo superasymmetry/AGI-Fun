@@ -1,0 +1,7 @@
+{
+    "concept": "Accismus",
+    "semantic_condition": "your dreams",
+    "form_condition": "Make every sentence start with a verb.",
+    "lexical_condition": "friend",
+    "inferences": "Dreams often weave tales of friendship, where reality and fantasy blur seamlessly. Friends, in these dreams, can take on extraordinary forms, becoming companions in adventures that defy logic. A friend might appear as a wise, ancient tree, offering guidance through the mists of uncertainty. Together, you and your friend explore realms unseen, where the stars whisper secrets and rivers flow with the wisdom of the ages. Sometimes, the friend in your dreams is a reflection of your own desires and fears, guiding you through the labyrinth of your subconscious. In the end, these dreams remind us of the power of friendship, showing us that even in the most surreal of circumstances, a friend's presence can bring comfort and courage."
+}

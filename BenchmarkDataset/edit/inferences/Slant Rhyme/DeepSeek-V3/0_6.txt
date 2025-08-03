@@ -1,0 +1,8 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Slant Rhyme",
+    "example": "\"Diamond\" and \"_\"",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Slant Rhyme? Include only the text that should replace the blank.\n\n \"Diamond\" and \"_\"",
+    "label": "no",
+    "inferences": "Here are some possible words that could fill in the blank to create a slant rhyme with \"diamond\":\n\n- \"crimson\"  \n- \"hidden\"  \n- \"linen\"  \n- \"woman\"  \n- \"mountain\"  \n\nSlant rhyme (or near rhyme) involves words with similar but not identical sounds, often matching consonant sounds or vowel sounds imperfectly. For example, \"diamond\" and \"linen\" share the \"-mond\" and \"-nen\" endings, which are close but not exact. \n\nChoose the one you think fits best!"
+}

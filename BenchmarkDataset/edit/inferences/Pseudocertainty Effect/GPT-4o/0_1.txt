@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4o",
+    "concept": "Pseudocertainty Effect",
+    "example": "\"Unfortunately, your order couldn\u2019t be delivered.\u201d \nAIO for reporting a lazy delivery person?\nI was absolutely furious! I just had to report this person because there was zero effort made on their part. In a fit of anger, I quickly contacted Amazon and shared a screenshot along with a photo of them biking away. For the record, you can\u2019t see their face in the shot. Do you think I overreacted by taking this seriously? It all went down in just a few minutes, and I\u2019m still seething! What would you have done?",
+    "prompt": "What is one line of dialogue that the writer could have included in their original blog post to make it obvious that the concept Pseudocertainty Effect is not present in the following text? Include only the dialogue. \n\n \"Unfortunately, your order couldn\u2019t be delivered.\u201d \nAIO for reporting a lazy delivery person?\nI was absolutely furious! I just had to report this person because there was zero effort made on their part. In a fit of anger, I quickly contacted Amazon and shared a screenshot along with a photo of them biking away. For the record, you can\u2019t see their face in the shot. Do you think I overreacted by taking this seriously? It all went down in just a few minutes, and I\u2019m still seething! What would you have done?",
+    "label": "yes",
+    "inferences": "\"After a moment of reflection, I realized the delivery person might have had legitimate reasons beyond their control.\""
+}

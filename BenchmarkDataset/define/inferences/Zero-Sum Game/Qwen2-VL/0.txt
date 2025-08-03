@@ -1,0 +1,5 @@
+A zero-sum game is a type of game in which the total gains and losses of all players add up to zero. In other words, one player's gain is exactly offset by the losses of the other players. This means that in a zero-sum game, there is a fixed amount of resources or wealth that is being redistributed among the players, and the only way for one player to increase their share is for another player to lose an equivalent amount.
+
+Zero-sum games are often used to model situations in which there is a limited resource or a fixed amount of wealth that cannot be increased, such as in a poker game or a political election. In these situations, the players are essentially competing for a fixed amount of resources, and the only way for one player to come out ahead is for another player to lose.
+
+It's important to note that not all games are zero-sum. In some games, it is possible for all players to come out ahead, or for all players to lose. These types of games are known as non-zero-sum games.

@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Analogy",
+    "example": "_ gymnasts _ the ninth element of the periodic table",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Analogy? Include only the text that should replace the blank.\n\n _ gymnasts _ the ninth element of the periodic table",
+    "label": "no",
+    "inferences": "are to flexibility as fluorine is to \n"
+}

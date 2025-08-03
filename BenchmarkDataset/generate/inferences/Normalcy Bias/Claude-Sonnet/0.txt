@@ -1,0 +1,7 @@
+{
+    "condition_1": "Spotlight Effect",
+    "condition_2": "Naive Cynicism",
+    "condition_3": "IKEA Effect",
+    "prompt": "Generate an example that demonstrates the Spotlight Effect and Naive Cynicism psychological biases, but that does not show the IKEA Effect psychological bias.",
+    "inferences": "Here's an example demonstrating both the Spotlight Effect and Naive Cynicism, but not the IKEA Effect:\n\nSarah gave a presentation at work and stumbled over a few words during her introduction. For the rest of the day, she felt extremely self-conscious, convinced that everyone was judging her for those minor verbal slips. In reality, most of her colleagues barely noticed or had already forgotten about it (Spotlight Effect). When her coworker Dave later offered some positive feedback about her presentation, Sarah assumed he was being insincere and only trying to make himself look good to others by appearing supportive (Naive Cynicism).\n\nThis example shows:\n- Spotlight Effect: Sarah overestimating how much others notice and remember her mistakes\n- Naive Cynicism: Sarah attributing ulterior motives to Dave's genuine compliment\n- No IKEA Effect: The scenario doesn't involve Sarah valuing something more because she made/assembled it herself"
+}

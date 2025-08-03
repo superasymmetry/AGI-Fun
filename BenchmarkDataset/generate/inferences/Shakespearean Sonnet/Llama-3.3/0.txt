@@ -1,0 +1,7 @@
+{
+    "concept": "Shakespearean Sonnet",
+    "semantic_condition": "change",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "press",
+    "inferences": "Majestically, the seasons turn and fade,\nAs summer's warmth gives way to autumn's chill,\nAnd with each passing year, our hearts are made\nTo face the changes that our lives fulfill.\n\nThe world, a stage, where players come and go,\nAnd we, the actors, must adapt and press\nOur wills to navigate life's ebb and flow,\nLest we be left behind, and our dreams repress.\n\nBut even as we strive to hold on tight,\nTo what we know and love, we must confess\nThat change is inevitable, and in its light,\nWe find the chance to grow, to learn, to bless.\n\nAnd so, we'll press on, through the ups and downs,\nAnd find the beauty in life's changing crowns."
+}

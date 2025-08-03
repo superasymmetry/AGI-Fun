@@ -1,0 +1,8 @@
+{
+    "model": "o3-mini",
+    "concept": "Haiku",
+    "example": "Haikus are so fun\nI _ winter\nBrrr, it's so cold out",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Haiku? Include only the text that should replace the blank.\n\n Haikus are so fun\nI _ winter\nBrrr, it's so cold out",
+    "label": "yes",
+    "inferences": "really dislike"
+}

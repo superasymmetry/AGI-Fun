@@ -1,0 +1,56 @@
+<think>
+Okay, so I need to understand what strict dominance is in game theory. Let me start by recalling what I know about game theory. It's a field of study that looks at strategic interactions between rational decision-makers. The basic elements are players, strategies, and payoffs. 
+
+Now, strict dominance. I remember hearing about dominant strategies. A dominant strategy is one that gives a player a better payoff regardless of what the other players do. So maybe strict dominance is related to that. But wait, there's also something called "strictly dominant" versus "weakly dominant." The term "strict" probably means it's a stronger condition.
+
+Let me think. If a strategy is strictly dominant, that means choosing it always gives a higher payoff than any other strategy, no matter what the opponents do. So, for every possible combination of strategies that the other players could choose, the strictly dominant strategy yields a better outcome. 
+
+For example, in the Prisoner's Dilemma, each player has a dominant strategy to confess. If I recall, confessing gives a better payoff than staying silent, regardless of what the other prisoner does. So in that case, confessing is a strictly dominant strategy because it strictly dominates the other strategy (silent) in all scenarios.
+
+Wait, but how is this different from just a dominant strategy? Maybe "strict" dominance is when the payoff is strictly greater, not just greater or equal. So a strictly dominant strategy is better in every scenario, while a weakly dominant strategy might be at least as good, and sometimes better. So strict dominance requires that the strategy is always better, not just sometimes.
+
+Let me check an example. Suppose in a game, Player A has two strategies: Strategy X and Strategy Y. If Strategy X gives Player A a higher payoff than Strategy Y no matter what Player B does, then X strictly dominates Y. So Player A should never play Y because X is always better. 
+
+Therefore, strict dominance is a situation where one strategy is unambiguously better than another, regardless of others' actions. This leads to the concept of a strictly dominant strategy, which is the best choice no matter what others do. 
+
+But I should make sure I'm not confusing it with Nash equilibrium. A Nash equilibrium is where each player's strategy is optimal given the others' strategies. But strict dominance can lead to a Nash equilibrium if all players have strictly dominant strategies. For example, in the Prisoner's Dilemma, the dominant strategies lead to the Nash equilibrium where both confess.
+
+Another point: if a strategy is strictly dominated, it can be eliminated from consideration because a rational player would never choose it. This is used in the iterated elimination of strictly dominated strategies as a solution concept. So, by iteratively removing strategies that are strictly dominated, we can sometimes reduce the game to a single outcome.
+
+Wait, but what's the exact definition? Let me try to formalize it. In a game, for player i, strategy s_i is strictly dominated by strategy s'_i if for every possible combination of the other players' strategies (let's denote that as s_{-i}), the payoff for player i from choosing s'_i is strictly greater than from choosing s_i. Mathematically, u_i(s'_i, s_{-i}) > u_i(s_i, s_{-i}) for all s_{-i}.
+
+Yes, that makes sense. So strict dominance requires that the dominating strategy is better in every possible scenario. If even in one scenario the payoffs are equal or worse, then it's not strictly dominant.
+
+Therefore, strict dominance is a key concept because it allows players to eliminate inferior strategies, simplifying the analysis of the game. If a player has a strictly dominant strategy, they will always choose it, which can help predict the outcome of the game.
+
+But I should also consider if there are cases where multiple strategies are strictly dominant. Wait, no. If a strategy is strictly dominant, it must be strictly better than all others. So a player can have at most one strictly dominant strategy. Otherwise, if two strategies were both strictly dominant, each would have to be strictly better than the other, which is impossible. So there can be only one strictly dominant strategy per player, if any.
+
+Also, strict dominance is different from weak dominance. Weak dominance would be when a strategy is at least as good as another in all scenarios and strictly better in at least one. Strict dominance is strictly better in all.
+
+To summarize, strict dominance in game theory refers to a situation where one strategy is always better than another, no matter what the other players do. This allows players to eliminate strictly dominated strategies from consideration, leading to more straightforward solutions of games, especially when using iterated elimination.
+</think>
+
+In game theory, **strict dominance** refers to a situation where one strategy for a player is **unconditionally superior** to another, regardless of the strategies chosen by other players. Here's a concise breakdown:
+
+### Key Definition:
+- A strategy **\(s_i\)** is **strictly dominated** by another strategy **\(s_i'\)** if the payoff from choosing **\(s_i'\)** is **always strictly greater** than the payoff from **\(s_i\)**, no matter what the other players do. Formally:
+  \[
+  u_i(s_i', s_{-i}) > u_i(s_i, s_{-i}) \quad \text{for all possible combinations of opponents' strategies } s_{-i}.
+  \]
+
+### Implications:
+1. **Rational Elimination**: A rational player will never use a strictly dominated strategy, as there is always a better alternative.
+2. **Dominant Strategy**: If a player has a strategy that strictly dominates **all** other strategies, it is called a **strictly dominant strategy**. This strategy is the optimal choice irrespective of others' actions.
+3. **Solution Concepts**: 
+   - **Iterated Elimination of Strictly Dominated Strategies (IESDS)**: A method to solve games by repeatedly removing strictly dominated strategies until a solution (or equilibrium) is reached.
+   - **Nash Equilibrium**: If all players have strictly dominant strategies, these strategies form a Nash equilibrium (e.g., both players confessing in the Prisoner's Dilemma).
+
+### Example:
+In the **Prisoner's Dilemma**, "confess" is a strictly dominant strategy for each player because it yields a better payoff than "silent" regardless of the other player's choice.
+
+### Contrast with Weak Dominance:
+- **Strict dominance**: Always better (\(>\)).
+- **Weak dominance**: At least as good (\(\geq\)) in all scenarios and strictly better (\(>\)) in at least one.
+
+### Key Takeaway:
+Strict dominance simplifies strategic analysis by allowing players to discard inferior options, often leading to clear predictions about rational behavior in games.

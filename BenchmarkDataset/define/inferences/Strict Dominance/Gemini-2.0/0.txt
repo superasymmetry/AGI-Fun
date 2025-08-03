@@ -1,0 +1,47 @@
+In game theory, **strict dominance** is a strong concept that describes a situation where one strategy is always better than another for a player, *no matter what the other players do*.  More formally:
+
+**Definition:**
+
+Strategy *s<sub>i</sub>* strictly dominates strategy *t<sub>i</sub>* for player *i* if, for every possible combination of strategies chosen by the other players, player *i*'s payoff from playing *s<sub>i</sub>* is strictly higher than their payoff from playing *t<sub>i</sub>*.
+
+Let:
+
+*   *i* be the player.
+*   *S<sub>i</sub>* be the set of strategies available to player *i*.
+*   *s<sub>i</sub>* and *t<sub>i</sub>* be two strategies in *S<sub>i</sub>*.
+*   *s<sub>-i</sub>* be a combination of strategies chosen by all players *except* player *i*.
+*   *π<sub>i</sub>(s<sub>i</sub>, s<sub>-i</sub>)* be the payoff to player *i* when they play *s<sub>i</sub>* and the other players play *s<sub>-i</sub>*.
+
+Then *s<sub>i</sub>* strictly dominates *t<sub>i</sub>* if:
+
+**π<sub>i</sub>(s<sub>i</sub>, s<sub>-i</sub>) > π<sub>i</sub>(t<sub>i</sub>, s<sub>-i</sub>)  for all possible s<sub>-i</sub>**
+
+**Key Characteristics:**
+
+*   **Strictly Higher Payoff:**  The payoff from the dominating strategy *must* be strictly greater.  It cannot be equal in any scenario.
+*   **Universal Superiority:** The dominating strategy is better regardless of what other players choose.  It holds true for *every* possible combination of other players' strategies.
+*   **Rationality Implies Elimination:** A rational player will *never* play a strictly dominated strategy because there's always a better alternative, no matter what others do.
+
+**Example (Prisoner's Dilemma):**
+
+Consider the classic Prisoner's Dilemma:
+
+|          | Prisoner B Cooperates | Prisoner B Defects |
+|----------|-----------------------|---------------------|
+| Prisoner A Cooperates | -1, -1                | -10, 0              |
+| Prisoner A Defects    | 0, -10               | -5, -5              |
+
+For Prisoner A:
+
+*   If Prisoner B Cooperates, A gets -1 by Cooperating and 0 by Defecting.  Defecting is better.
+*   If Prisoner B Defects, A gets -10 by Cooperating and -5 by Defecting.  Defecting is better.
+
+Therefore, Defecting strictly dominates Cooperating for Prisoner A (and similarly for Prisoner B).  A rational Prisoner A will always choose to Defect, regardless of what Prisoner B does.
+
+**Significance:**
+
+*   **Simplifying Games:** Identifying and eliminating strictly dominated strategies can significantly simplify the analysis of a game. It reduces the number of possible strategies that need to be considered.
+*   **Predicting Outcomes:** In some games, iterated elimination of strictly dominated strategies can lead to a unique solution. This provides a strong prediction about how rational players will behave.
+*   **Foundation for Solution Concepts:** The concept of strict dominance is foundational to many solution concepts in game theory, such as the Nash Equilibrium (although a Nash Equilibrium doesn't *require* strict dominance, the iterative elimination of strictly dominated strategies can lead to a Nash Equilibrium).
+
+**Important Note:**  Strict dominance is a very strong condition.  Many games do not have strictly dominated strategies.  Weaker concepts like weak dominance (where the payoff must be greater or equal, and strictly greater in at least one case) are also used, but they have different implications and require more careful analysis.

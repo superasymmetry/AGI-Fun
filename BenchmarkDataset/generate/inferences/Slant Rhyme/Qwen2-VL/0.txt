@@ -1,0 +1,7 @@
+{
+    "concept": "Slant Rhyme",
+    "semantic_condition": "gratitude",
+    "form_condition": "Do not use dialogue.",
+    "lexical_condition": "light",
+    "inferences": "In the glow of the moonlight, I give thanks for your guidance and insight. Your wisdom shines like a beacon in the night, illuminating my path with your gentle light. Though our words may not always rhyme, our hearts beat as one, grateful for the love that shines within."
+}

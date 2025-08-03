@@ -1,0 +1,7 @@
+{
+    "condition_1": "Catastrophizing",
+    "condition_2": "Fundamental Attribution Error",
+    "condition_3": "Endowment Effect",
+    "prompt": "Generate an example that demonstrates the Catastrophizing and Fundamental Attribution Error psychological biases, but that does not show the Endowment Effect psychological bias.",
+    "inferences": "Here's an example demonstrating Catastrophizing and Fundamental Attribution Error, but not the Endowment Effect:\n\nSarah notices her coworker James arriving late to a team meeting. She immediately thinks, \"James is so irresponsible and lazy - he clearly doesn't care about his job or respecting other people's time\" (Fundamental Attribution Error - attributing his behavior to his character rather than considering situational factors). Sarah then spirals into thinking, \"This will ruin our whole project timeline, we'll miss our deadline, I'll probably get blamed, lose my job, and never be able to find work again\" (Catastrophizing - jumping to the worst possible outcome).\n\nIn reality, James was late due to a major traffic accident on his usual route to work, and the meeting delay only impacted 10 minutes of the schedule.\n\nNote: This example doesn't show the Endowment Effect because there's no situation where someone overvalues something simply because they own it."
+}

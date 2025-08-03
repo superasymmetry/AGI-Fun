@@ -1,0 +1,7 @@
+{
+    "concept": "Paradox",
+    "semantic_condition": "the earth",
+    "form_condition": "Include a repeated phrase.",
+    "lexical_condition": "nectar",
+    "inferences": "**The Nectar Paradox**  \n\n*\"The earth gives, the earth takes.\"*  \n\nIn a hidden valley, there blooms a flower whose nectar grants eternal youth to those who drink it. Yet, the moment the nectar touches one\u2019s lips, the earth beneath them withers, turning to dust. The more one drinks, the more the land dies\u2014until the drinker stands alone in a barren wasteland, forever young, forever cursed.  \n\n*\"The earth gives, the earth takes.\"*  \n\nThose who seek the nectar find life, but in taking it, they destroy the very world that sustains them. A paradox of greed and survival, where immortality comes at the cost of all that is alive.  \n\n*\"The earth gives, the earth takes.\"*"
+}

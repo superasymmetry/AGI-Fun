@@ -1,0 +1,9 @@
+A mixed strategy Nash equilibrium is a solution concept in game theory where players choose probability distributions over their available pure strategies, rather than choosing a single pure strategy with certainty. In this equilibrium, each player's mixed strategy is optimal given the mixed strategies of all other players, meaning no player can increase their expected payoff by unilaterally changing their strategy.
+
+Key characteristics:
+1. Players randomize between different strategies according to specific probabilities
+2. Each player is indifferent between all pure strategies that they use with positive probability
+3. The expected payoff from each strategy used is equal and optimal
+4. No player can benefit by deviating from their probability distribution
+
+A classic example is the game "matching pennies" where a mixed strategy Nash equilibrium occurs when both players choose heads or tails with 50% probability each.

@@ -1,0 +1,10 @@
+A zero-sum game is a situation in game theory where one participant's gain is exactly equal to another participant's loss, making the sum of all gains and losses equal to zero. In other words, whatever one player wins, the other player(s) must lose.
+
+For example:
+- A simple coin flip betting game where one person wins a dollar and the other loses a dollar
+- Chess, where one player's victory (+1) equals the other player's loss (-1)
+- Poker (when considering only the money exchanged between players)
+
+The term "zero-sum" comes from the fact that if you add up all the gains and losses in the game, they always sum to zero. This type of game represents pure competition with no opportunity for mutual benefit or cooperation between players.
+
+The opposite of a zero-sum game would be a non-zero-sum game, where multiple players can win or lose simultaneously, and the total gains and losses don't necessarily sum to zero (like trade relationships or team sports).

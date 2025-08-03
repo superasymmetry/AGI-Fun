@@ -1,0 +1,10 @@
+{
+    "concept": "Pareto Optimality",
+    "prompt": "Generate an example of Pareto Optimality. In the payoff matrix, all numbers must be unique. You must generate a 3x3 matrix where there are exactly 4 distinct Pareto optimal solutions.",
+    "inferences": "Let me help create a 3x3 payoff matrix with exactly 4 Pareto optimal solutions.\n\nFirst, let's understand what makes an outcome Pareto optimal: it's when there's no other outcome that makes at least one player better off without making the other player worse off.\n\nLet me design the matrix step by step:\n\n1) I'll first place 4 outcomes that will be Pareto optimal:\n   - Let's put (8,7) in the top left - this will be Pareto optimal\n   - (7,8) in the middle - also Pareto optimal\n   - (9,6) in the top middle - Pareto optimal\n   - (6,9) in the middle right - Pareto optimal\n\n2) For the remaining positions, we need to ensure that all numbers are unique and that these positions are NOT Pareto optimal. We can do this by making sure each remaining outcome is dominated by at least one of our Pareto optimal outcomes.\n\n3) The remaining positions will have lower numbers that are dominated by our Pareto optimal outcomes.\n\nLet's check the matrix:\n\n<OUTPUT>\n[[ (8,7), (9,6), (2,3) ],\n [ (4,2), (7,8), (6,9) ],\n [ (1,4), (3,1), (5,5) ]]",
+    "correct": [
+        true,
+        "Found 4 Pareto optimal outcomes."
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 3x3 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2), (A3,B3) ],\n [ (A4,B4), (A5,B5), (A6,B6) ],\n [ (A7,B7), (A8,B8), (A9,B9) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Weak Dominance",
+    "example": "I'm trying to meet up with my brother in Cambridge, but his phone just died and I cannot reach him. We always meet up in either building 45 or building 52 at MIT, and I know he'll go to one of those buildings right now. Right now I just want to find my brother; I don't care what location we end up at. Which building should I go to?",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Weak Dominance.\n\n I'm trying to meet up with my brother in Cambridge, but his phone just died and I cannot reach him. We always meet up in either building 45 or building 52 at MIT, and I know he'll go to one of those buildings right now. Right now I just want to find my brother; I don't care what location we end up at. Which building should I go to?",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Weak Dominance.\n\n I'm trying to meet up with my brother in Cambridge, but his phone just died and I cannot reach him. We always meet up in either building 45 or building 52 at MIT, and I know he'll go to one of those buildings right now. Right now I just want to find my brother; I don't care what location we end up at. Which building should I go to?",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "To model this scenario as a game with weak dominance, we can structure the payoffs such that one strategy weakly dominates another for at least one player. In this case, since both players (you and your brother) are indifferent between the two buildings as long as you meet, we can assign the same payoff for meeting and a lower payoff for not meeting. \n\nHere, the weakly dominant strategy would be for both players to choose the same building (either one), as it guarantees a meeting (higher payoff) regardless of the other's choice. Choosing the other building does not guarantee a meeting and is weakly dominated. \n\nHere\u2019s the payoff matrix representing this:\n\n<OUTPUT>\n[[ (1, 1), (0, 0) ],\n [ (0, 0), (1, 1) ]]\n</OUTPUT>",
+    "message": "There is no weakly dominant strategy for either player.",
+    "correct": false
+}

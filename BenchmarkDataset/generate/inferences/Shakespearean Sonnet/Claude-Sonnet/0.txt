@@ -1,0 +1,7 @@
+{
+    "concept": "Shakespearean Sonnet",
+    "semantic_condition": "gratitude",
+    "form_condition": "End with a one-vowel word.",
+    "lexical_condition": "father",
+    "inferences": "Here's a Shakespearean sonnet about gratitude, including the word \"father\" and ending with a one-vowel word:\n\n\"A Thankful Heart\"\n\nWhen counting blessings in the fading light,\nI think of all the gifts bestowed with care,\nLike father's wisdom guiding through the night,\nAnd simple joys that make life sweet and fair.\nEach morning brings renewed appreciation\nFor gentle rain that makes the gardens grow,\nFor every friend's sincere dedication,\nAnd warming sun that melts the winter's snow.\nHow fortunate to walk this blessed earth,\nTo taste its fruits and breathe its cooling air,\nTo know the sound of children's precious mirth,\nAnd feel love's presence always waiting there.\n    These countless gifts that shape my gratitude\n    Have filled my heart with perfect plenitude\u2014struck."
+}

@@ -1,0 +1,38 @@
+A **Shakespearean sonnet** (also called an **English sonnet**) is a 14-line poem written in **iambic pentameter** and following a specific **rhyme scheme**: **ABABCDCDEFEFGG**. It is named after **William Shakespeare**, who popularized this form in his famous sonnet sequence.
+
+### **Key Features of a Shakespearean Sonnet:**
+1. **Structure:**  
+   - **14 lines** divided into **three quatrains** (4-line stanzas) and a final **rhyming couplet** (2-line stanza).  
+   - **Rhyme Scheme:** **ABAB CDCD EFEF GG**  
+   
+2. **Meter:**  
+   - Written in **iambic pentameter** (10 syllables per line, with an unstressed-stressed rhythm: "da-DUM da-DUM da-DUM da-DUM da-DUM").  
+
+3. **Themes & Content:**  
+   - Often explores themes of **love, beauty, time, mortality, and human nature**.  
+   - The **first three quatrains** present a problem or idea, while the **final couplet** offers a resolution or twist.  
+
+### **Example: Shakespeare’s Sonnet 18**  
+*"Shall I compare thee to a summer’s day?"*  
+**(A)** Shall I compare thee to a summer’s day?  
+**(B)** Thou art more lovely and more temperate:  
+**(A)** Rough winds do shake the darling buds of May,  
+**(B)** And summer’s lease hath all too short a date:  
+
+**(C)** Sometime too hot the eye of heaven shines,  
+**(D)** And often is his gold complexion dimm'd;  
+**(C)** And every fair from fair sometime declines,  
+**(D)** By chance or nature’s changing course untrimm'd;  
+
+**(E)** But thy eternal summer shall not fade,  
+**(F)** Nor lose possession of that fair thou ow’st;  
+**(E)** Nor shall Death brag thou wander’st in his shade,  
+**(F)** When in eternal lines to time thou grow’st:  
+
+**(G)** So long as men can breathe or eyes can see,  
+**(G)** So long lives this, and this gives life to thee.  
+
+### **Why Is It Significant?**  
+Shakespeare’s sonnets (154 in total) are among the most celebrated in English literature, admired for their **emotional depth, linguistic beauty, and structural precision**. The **turn (volta)** often occurs in the final couplet, delivering a surprising or profound conclusion.  
+
+Would you like help analyzing a specific sonnet or writing one yourself?

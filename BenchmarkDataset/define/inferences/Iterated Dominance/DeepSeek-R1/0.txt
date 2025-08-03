@@ -1,0 +1,89 @@
+<think>
+Okay, so I need to understand what iterated dominance is in game theory. Let me start by recalling what I know about game theory. Game theory is the study of strategic decision-making where the outcome for each participant depends on the actions of others. There are different concepts like Nash equilibrium, dominant strategies, etc. 
+
+Dominant strategy is when a player has a strategy that is better than any other, regardless of what others do. But iterated dominance... the term "iterated" suggests something repeated. So maybe it's about eliminating strategies step by step? 
+
+I remember something about iterated elimination of dominated strategies. That might be related. Let me think. If a strategy is dominated, meaning there's another strategy that always gives a better payoff, then a rational player wouldn't use it. So iterated dominance could be the process of eliminating such strategies repeatedly. 
+
+Wait, so first you eliminate all dominated strategies for each player. Then, after those are removed, the remaining strategies might have new ones that become dominated in the reduced game. Then you eliminate those, and repeat the process until no more dominated strategies can be eliminated. That makes sense. 
+
+Let me try to think of an example. Suppose there's a game with two players, each with three strategies. Player 1 has strategies A, B, C, and Player 2 has X, Y, Z. Suppose in the first round, strategy C is dominated by B for Player 1. So we eliminate C. Then for Player 2, maybe Z is dominated by Y, so eliminate Z. Now the game is reduced to A, B for Player 1 and X, Y for Player 2. Maybe now, in this smaller game, A is dominated by B for Player 1, so eliminate A. Then Player 2's X might be dominated by Y, so eliminate X. Now the only strategies left are B for Player 1 and Y for Player 2. So the solution via iterated dominance is (B, Y). 
+
+But how does this relate to Nash equilibrium? I think iterated dominance can lead to a Nash equilibrium, but not all Nash equilibria can be found through this process. Also, if after iterated elimination you end up with one strategy per player, that's the unique Nash equilibrium. If there are multiple strategies left, there might be multiple equilibria. 
+
+Wait, but there's a difference between strict dominance and weak dominance. Strict dominance is when a strategy always gives a higher payoff, regardless of others' actions. Weak dominance is when a strategy is at least as good as another, and sometimes better. So iterated elimination can be done with strict or weak dominance. However, using weak dominance can be tricky because the order of elimination might affect the result. For strict dominance, the order doesn't matter because if a strategy is strictly dominated, it's always eliminated regardless of other eliminations. 
+
+So, iterated strict dominance is more robust, while iterated weak dominance might depend on the sequence. That's an important point. 
+
+Let me check if I remember correctly. The process works as follows: in each iteration, for each player, remove any strategies that are strictly dominated by another strategy. Repeat this process until no more strategies can be eliminated. The remaining strategies are said to survive iterated strict dominance. 
+
+But why is this concept important? It helps in predicting the outcome of games by narrowing down the possible strategies that rational players would choose. If all players are rational and they know that all players are rational, then they can iteratively eliminate dominated strategies. 
+
+For example, the prisoner's dilemma. Each player has a dominant strategy to confess. So in one step, the dominant strategy is chosen. But in more complex games, you might need multiple iterations. 
+
+Another example could be the beauty contest game, where players guess a number, and the winner is the one closest to 2/3 of the average. Here, iterated reasoning comes into play. If everyone picks randomly, the average is 50, so 2/3 is ~33. But if everyone thinks that, they pick 33, so next iteration 22, etc., until it converges to zero. This is similar to iterated dominance, where higher numbers are iteratively eliminated because they are dominated by lower ones. 
+
+Wait, but in the beauty contest, it's more about iterated best responses rather than dominance. Hmm, maybe the concepts are related but not the same. 
+
+Back to iterated dominance. So the key idea is that by eliminating strategies that a rational player would never use, we can reduce the game to a smaller set of strategies. If this process continues until only one strategy remains for each player, that's the solution. 
+
+But sometimes the process might not eliminate all strategies. For example, in a game where no strategies are dominated, or after some eliminations, there's a cycle or remaining strategies that aren't dominated. 
+
+Also, in some games, the outcome after iterated dominance might be a unique Nash equilibrium, but in others, it might not. For instance, in coordination games, there might be multiple equilibria that survive iterated dominance. 
+
+Wait, in the battle of the sexes, where a couple wants to coordinate on an activity but prefers different ones. Each has two strategies: Ballet or Boxing. If they can't communicate, there are two Nash equilibria: both go to Ballet or both go to Boxing. However, neither strategy is dominated for either player. So iterated dominance wouldn't eliminate any strategies here. So the concept is more useful in games where dominance exists and can be iteratively applied. 
+
+So to summarize, iterated dominance (or iterated elimination of dominated strategies) is a solution concept where players repeatedly remove dominated strategies from consideration, leading to a reduced game. This process continues until no more strategies can be eliminated. The remaining strategies are the predictions of the game, assuming common knowledge of rationality. 
+
+I need to make sure I didn't mix up any concepts. Let me verify with a standard definition. According to what I recall, iterated dominance involves successive elimination of dominated strategies. Each round eliminates strategies that are dominated given the remaining strategies of the opponents. This requires common knowledge of rationality, meaning everyone is rational, everyone knows everyone is rational, and so on ad infinitum. 
+
+Yes, that's right. Without common knowledge, players might not anticipate others' eliminations beyond a certain level. So in practice, the number of iterations people perform might be limited, but in theory, it's assumed to go to completion. 
+
+Another point: the outcome of iterated dominance can sometimes be a single strategy profile (unique solution) or multiple. If it's a single profile, that's the iterated dominant strategy equilibrium. 
+
+Also, in some games, applying iterated dominance can solve games that have a dominant strategy equilibrium only after several rounds. For example, in a 3x3 game where after removing one dominated strategy, another becomes dominated. 
+
+I think that's the gist of it. So to explain iterated dominance, I should mention the step-by-step elimination, strict vs. weak dominance, common knowledge of rationality, and how it narrows down the possible outcomes. Also, examples help, like the prisoner's dilemma for single elimination or more complex games requiring multiple steps.
+</think>
+
+**Iterated Dominance in Game Theory**
+
+Iterated dominance, specifically **iterated elimination of dominated strategies**, is a solution concept in game theory used to predict outcomes in strategic interactions by sequentially removing strategies that rational players would not use. Here's a structured breakdown:
+
+1. **Core Concept**:
+   - **Dominated Strategy**: A strategy is dominated if another strategy yields a higher payoff regardless of opponents' actions.
+   - **Iterated Process**: Players repeatedly eliminate dominated strategies from consideration. After each elimination, the reduced game is analyzed again to identify new dominated strategies.
+
+2. **Types of Dominance**:
+   - **Strict Dominance**: A strategy is strictly better than another in all scenarios. Elimination order doesn't affect the result.
+   - **Weak Dominance**: A strategy is at least as good as another and better in some cases. Order of elimination may influence outcomes.
+
+3. **Process**:
+   - **Step 1**: Remove all strictly dominated strategies for each player.
+   - **Step 2**: Re-evaluate the remaining strategies in the reduced game.
+   - **Repeat** until no more strategies can be eliminated.
+
+4. **Key Assumptions**:
+   - **Common Knowledge of Rationality**: All players are rational, know others are rational, and this knowledge is infinite (i.e., players can iterate reasoning indefinitely).
+
+5. **Examples**:
+   - **Prisoner's Dilemma**: Each player has a dominant strategy (confess), resolved in one iteration.
+   - **Complex Games**: Multi-step elimination (e.g., a 3x3 game where eliminating one strategy reveals new dominated strategies).
+
+6. **Relation to Nash Equilibrium**:
+   - Surviving strategies after iterated strict dominance are Nash equilibria, but not all equilibria survive this process.
+   - If a single strategy remains per player, it is the unique Nash equilibrium.
+
+7. **Limitations**:
+   - **Weak Dominance**: Results may depend on elimination order.
+   - **Non-Applicability**: In games without dominated strategies (e.g., Battle of the Sexes), the method doesn’t narrow outcomes.
+
+**Example Illustration**:
+Consider a game where:
+- **Player 1** has strategies A, B, C.
+- **Player 2** has strategies X, Y, Z.
+
+1. **First Iteration**: C (dominated by B) and Z (dominated by Y) are eliminated.
+2. **Reduced Game**: Strategies A, B for Player 1; X, Y for Player 2.
+3. **Second Iteration**: A (dominated by B) and X (dominated by Y) are eliminated.
+4.

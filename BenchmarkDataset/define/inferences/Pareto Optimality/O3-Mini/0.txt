@@ -1,0 +1,5 @@
+In game theory, Pareto optimality is a concept used to describe a situation where no individual's situation can be improved without making someone else's situation worse. In the context of resource allocation or decision-making, an outcome is considered Pareto optimal if there is no alternative allocation that would make at least one participant better off without making any other participant worse off.
+
+Pareto optimality is named after the Italian economist Vilfredo Pareto. In a Pareto optimal outcome, resources are allocated in the most efficient way possible according to the given criteria or preferences, meaning that any changes to benefit one party would result in a detriment to another party.
+
+It is important to note that Pareto optimality does not necessarily imply fairness or equality. It only addresses efficiency in the sense that no mutual improvements can be made. There can be multiple Pareto optimal outcomes in a given game or situation, and game theorists use this concept to analyze the efficiency of different strategies and allocations.

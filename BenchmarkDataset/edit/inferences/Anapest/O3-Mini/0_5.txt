@@ -1,0 +1,8 @@
+{
+    "model": "o3-mini",
+    "concept": "Anapest",
+    "example": "Further_",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Anapest? Include only the text that should replace the blank.\n\n Further_",
+    "label": "no",
+    "inferences": "\"than before\""
+}

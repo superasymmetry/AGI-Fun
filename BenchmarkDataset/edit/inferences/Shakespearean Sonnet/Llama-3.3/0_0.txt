@@ -1,0 +1,9 @@
+{
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "concept": "Shakespearean Sonnet",
+    "example": "The first of day is but a night in spite\nA feather in the magic, misty day\n_\nI find the penguin in the spear to stray\nA blowfish is a man without a name\nTo tin the finger game I will ascribe\nThe murder of the clouds is in the frame\nAnd into Switzerland I find my bribe\nAnother stanza gone in other times\nI strain to write the lines in rifle day\nWith hedonistic misery he rhymes\nAnd wonderful ignitions find their way\nI stop to think about the days, my dear\nWith pens and pencils I will find my fear",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Shakespearean Sonnet? Include only the text that should replace the blank.\n\n The first of day is but a night in spite\nA feather in the magic, misty day\n_\nI find the penguin in the spear to stray\nA blowfish is a man without a name\nTo tin the finger game I will ascribe\nThe murder of the clouds is in the frame\nAnd into Switzerland I find my bribe\nAnother stanza gone in other times\nI strain to write the lines in rifle day\nWith hedonistic misery he rhymes\nAnd wonderful ignitions find their way\nI stop to think about the days, my dear\nWith pens and pencils I will find my fear",
+    "label": "yes",
+    "inferences": "fourteen lines that follow a specific rhyme scheme and have a volta, or turn, after the eighth or ninth line, and are written in iambic pentameter",
+    "correct": "N/A"
+}

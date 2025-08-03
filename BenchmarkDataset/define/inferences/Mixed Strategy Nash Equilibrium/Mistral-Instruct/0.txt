@@ -1,0 +1,15 @@
+ A Mixed Strategy Nash Equilibrium (MSNE) is a strategy profile in a game where each player employs a mixed strategy, meaning they randomize their choices over their available pure strategies. In a MSNE, no player can unilaterally improve their expected payoff by changing their strategy, given that all other players keep their strategies unchanged.
+
+Here's a simple example:
+
+Consider a two-player game where the players can choose between Rock, Paper, or Scissors. Let's assume the payoff matrix is as follows:
+
+|   | Player 2: Rock | Player 2: Paper | Player 2: Scissors |
+|---|---------------|----------------|-------------------|
+| Player 1: Rock | 1, 1           | 0, 3            | 3, 0              |
+| Player 1: Paper | 3, 0           | 1, 1            | 0, 3              |
+| Player 1: Scissors | 0, 3           | 3, 0            | 1, 1              |
+
+In this game, there is no pure strategy Nash equilibrium because each player can always improve their payoff by switching their strategy. However, if Player 1 chooses Rock with a probability of 1/3, Paper with a probability of 1/3, and Scissors with a probability of 1/3, and Player 2 does the same, then neither player can improve their expected payoff by changing their strategy. This is an example of a Mixed Strategy Nash Equilibrium.
+
+In general, finding a MSNE can be complex, especially for games with more than two players or larger strategy spaces. However, the concept is fundamental in game theory as it provides a solution for games where no pure strategy Nash equilibrium exists.

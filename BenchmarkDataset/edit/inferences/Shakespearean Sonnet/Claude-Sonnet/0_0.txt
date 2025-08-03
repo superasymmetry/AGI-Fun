@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Shakespearean Sonnet",
+    "example": "The first of day is but a night in spite\nA feather in the magic, misty day\n_\nI find the penguin in the spear to stray\nA blowfish is a man without a name\nTo tin the finger game I will ascribe\nThe murder of the clouds is in the frame\nAnd into Switzerland I find my bribe\nAnother stanza gone in other times\nI strain to write the lines in rifle day\nWith hedonistic misery he rhymes\nAnd wonderful ignitions find their way\nI stop to think about the days, my dear\nWith pens and pencils I will find my fear",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Shakespearean Sonnet? Include only the text that should replace the blank.\n\n The first of day is but a night in spite\nA feather in the magic, misty day\n_\nI find the penguin in the spear to stray\nA blowfish is a man without a name\nTo tin the finger game I will ascribe\nThe murder of the clouds is in the frame\nAnd into Switzerland I find my bribe\nAnother stanza gone in other times\nI strain to write the lines in rifle day\nWith hedonistic misery he rhymes\nAnd wonderful ignitions find their way\nI stop to think about the days, my dear\nWith pens and pencils I will find my fear",
+    "label": "yes",
+    "inferences": "Behold upon the nights I find my way\n\nThis line would break the rhyme scheme of a Shakespearean sonnet (which should have a rhyme scheme of abab cdcd efef gg). The suggested line ends with \"way\" which wouldn't rhyme with \"spite\" from the first line as required in a Shakespearean sonnet's \"abab\" pattern."
+}

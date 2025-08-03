@@ -1,0 +1,9 @@
+Synesis (also known as constructio ad sensum or notional agreement) is a grammatical construction where agreement is based on the meaning or sense rather than the strict grammatical form. It occurs when the grammatical agreement between words in a sentence follows their logical relationship rather than their technical syntax.
+
+For example:
+- "The team are playing well" (instead of "The team is playing well")
+- "The majority of people are happy" (instead of "The majority is happy")
+
+In these cases, although words like "team" and "majority" are technically singular nouns, they refer to multiple people, so they may be treated as plural in meaning. This is particularly common in British English, where collective nouns are often treated as plural.
+
+Synesis is considered acceptable in many contexts, especially in informal writing and speech, though some strict grammarians might prefer maintaining formal grammatical agreement.

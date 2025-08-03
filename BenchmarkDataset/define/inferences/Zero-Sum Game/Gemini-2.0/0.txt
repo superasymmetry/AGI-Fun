@@ -1,0 +1,29 @@
+In game theory, a **zero-sum game** is a game where the total gains of all the players, minus the total losses, is zero.  In simpler terms, one player's gain is exactly equivalent to the other player's loss.  The "pie" of resources is fixed, and players are competing to get a larger slice of that pie.
+
+Here's a breakdown:
+
+*   **Gain:**  A player receives a benefit or advantage.
+*   **Loss:** A player suffers a disadvantage or decrease in resources.
+*   **Zero-Sum:** The gains of some players are *exactly* balanced by the losses of other players. There is no creation or destruction of wealth in the game itself.
+
+**Examples of Zero-Sum Games:**
+
+*   **Chess:**  If one player wins, the other player *must* lose.
+*   **Poker (played only with the players' money):**  The total amount of money in the game remains constant.  What one player wins, another player loses. (Note: this isn't *strictly* zero-sum if the house takes a rake).
+*   **Negotiation over a fixed budget:** If one party gets a larger portion of the budget, the other party gets a smaller portion.
+*   **Competitive elections:** If one candidate wins, the other candidates lose.
+
+**Key Characteristics of Zero-Sum Games:**
+
+*   **Fixed Resources:** The total amount of resources available in the game is constant.
+*   **Direct Conflict:**  Players are in direct competition with each other, as one player's success necessarily comes at the expense of another.
+*   **No Cooperation:** While players may form temporary alliances *within* the game, the overall game itself is inherently competitive, and cooperation *to increase the total payoff* is not possible.
+*   **Mathematical Representation:** The payoff matrix representing a zero-sum game will always have the property that the sum of the payoffs in each state (combination of strategies) equals zero.
+
+**Important Considerations:**
+
+*   **Real-world applications are often not purely zero-sum.**  Many situations in life involve the potential for mutual benefit (positive-sum games) or mutual harm (negative-sum games).  For example, trade can be positive-sum, as both parties can benefit.  War can be negative-sum, as both parties suffer losses.
+*   **Perception matters:**  Even if a situation isn't *objectively* zero-sum, if people *perceive* it as such, they will behave in a more competitive and less cooperative manner.
+*   **Zero-sum games are a simplification.** They're useful for modeling certain situations and understanding strategic interactions, but they're not a perfect representation of all real-world scenarios.
+
+In summary, a zero-sum game is a situation where the total gains equal the total losses, meaning what one player gains, another player loses, and the overall "size of the pie" remains constant.

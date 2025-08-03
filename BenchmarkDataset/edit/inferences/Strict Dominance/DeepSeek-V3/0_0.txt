@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Strict Dominance",
+    "example": "I'm trying to decide whether to have dinner at the Life Alive cafe in Harvard Square, or the Life Alive cafe in Central Square. Both have the same menu, so all I care about is how long the wait will be at the restaurant. I know from experience that there's never a wait in the Harvard Square cafe (because they have a huge kitchen), and that the wait in the Central Square cafe varies between 5 and 10 minutes, depending on where other people choose to eat. Which location should I go to?",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Strict Dominance.\n\n I'm trying to decide whether to have dinner at the Life Alive cafe in Harvard Square, or the Life Alive cafe in Central Square. Both have the same menu, so all I care about is how long the wait will be at the restaurant. I know from experience that there's never a wait in the Harvard Square cafe (because they have a huge kitchen), and that the wait in the Central Square cafe varies between 5 and 10 minutes, depending on where other people choose to eat. Which location should I go to?",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Strict Dominance.\n\n I'm trying to decide whether to have dinner at the Life Alive cafe in Harvard Square, or the Life Alive cafe in Central Square. Both have the same menu, so all I care about is how long the wait will be at the restaurant. I know from experience that there's never a wait in the Harvard Square cafe (because they have a huge kitchen), and that the wait in the Central Square cafe varies between 5 and 10 minutes, depending on where other people choose to eat. Which location should I go to?",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "[[ (0, 0), (5, 5) ],\n [ (0, 0), (10, 10) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": true
+}

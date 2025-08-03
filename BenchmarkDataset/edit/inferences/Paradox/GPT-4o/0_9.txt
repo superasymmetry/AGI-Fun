@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4o",
+    "concept": "Paradox",
+    "example": "As mankind took one step forward, it was actually _",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Paradox? Include only the text that should replace the blank.\n\n As mankind took one step forward, it was actually _",
+    "label": "no",
+    "inferences": "taking two steps back."
+}

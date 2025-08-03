@@ -1,0 +1,7 @@
+{
+    "condition_1": "Fundamental Attribution Error",
+    "condition_2": "Catastrophizing",
+    "condition_3": "Normalcy Bias",
+    "prompt": "Generate an example that demonstrates the Fundamental Attribution Error and Catastrophizing psychological biases, but that does not show the Normalcy Bias psychological bias.",
+    "inferences": "Here's an example demonstrating Fundamental Attribution Error and Catastrophizing, without Normalcy Bias:\n\nSarah notices her coworker James arrived late to an important client meeting. She immediately thinks \"James is such an irresponsible and unprofessional person who doesn't care about his job or others' time\" (Fundamental Attribution Error - attributing his behavior to his character rather than considering situational factors like unexpected traffic or a family emergency).\n\nSarah then spirals into catastrophic thinking: \"This will definitely cost us the client, I'll probably get blamed since James is on my team, I'll lose my year-end bonus, won't be able to pay my mortgage, and end up homeless\" (Catastrophizing - jumping to extreme worst-case scenarios).\n\nThis example avoids Normalcy Bias because Sarah isn't underestimating the possibility of negative events or clinging to business-as-usual expectations - she's actually doing the opposite by escalating the potential consequences."
+}

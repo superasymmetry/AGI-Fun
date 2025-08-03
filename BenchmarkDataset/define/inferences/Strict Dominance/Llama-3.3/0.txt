@@ -1,0 +1,14 @@
+In game theory, strict dominance refers to a situation where one strategy is strictly better than another strategy, regardless of what the other players do. In other words, a strategy is strictly dominant if it yields a higher payoff than another strategy for all possible actions of the other players.
+
+More formally, a strategy A is said to strictly dominate a strategy B if, for all possible actions of the other players, the payoff from playing A is greater than the payoff from playing B. This means that playing A is always the best choice, regardless of what the other players do, and playing B is never the best choice.
+
+For example, consider a simple game where two players, Player 1 and Player 2, can choose to either cooperate (C) or defect (D). The payoffs for each player are as follows:
+
+|  | Player 2 Cooperates | Player 2 Defects |
+| --- | --- | --- |
+| **Player 1 Cooperates** | 3, 3 | 0, 5 |
+| **Player 1 Defects** | 5, 0 | 1, 1 |
+
+In this game, defecting (D) is a strictly dominant strategy for Player 1, because regardless of what Player 2 does, defecting yields a higher payoff than cooperating. If Player 2 cooperates, Player 1 gets 5 by defecting, which is better than the 3 they would get by cooperating. If Player 2 defects, Player 1 gets 1 by defecting, which is better than the 0 they would get by cooperating.
+
+Strict dominance is an important concept in game theory because it allows players to eliminate dominated strategies and focus on the remaining strategies that are not dominated. This can help to simplify the analysis of a game and identify the most likely outcomes.

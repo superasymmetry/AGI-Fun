@@ -1,0 +1,7 @@
+{
+    "concept": "Asyndeton",
+    "semantic_condition": "a hobby",
+    "form_condition": "Use a comma in the first sentence or line.",
+    "lexical_condition": "love",
+    "inferences": "Certainly! Here\u2019s an example of **asyndeton** (the deliberate omission of conjunctions for stylistic effect) in the theme of a hobby, featuring the word *love* and a comma in the first line:  \n\n---\n\n*I love the thrill of the catch, the tug on the line, the splash of water, the quiet patience.*  \nFishing isn\u2019t just a pastime\u2014it\u2019s peace, it\u2019s challenge, it\u2019s joy.  \n\n---\n\nIn this example, the asyndeton occurs in the second sentence with the omission of conjunctions between \"peace,\" \"challenge,\" and \"joy.\" The first line includes a comma and the word *love* as requested."
+}

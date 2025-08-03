@@ -1,0 +1,10 @@
+{
+    "concept": "Symmetric Game",
+    "prompt": "Generate an example of a symmetric game. If Player 1 takes the first action, they should receive a payoff of [0, 9, 8] if the other player takes the corresponding actions. ",
+    "inferences": "To generate a symmetric game, we need to ensure that the payoff matrix is symmetric, meaning that the payoffs for Player 1 and Player 2 are interchangeable when the actions are reversed. \n\nGiven that Player 1 receives a payoff of [0, 9, 8] when the other player takes the corresponding actions, we can create a symmetric game by assigning the same payoffs to Player 2 when the actions are reversed.\n\nHere is the payoff matrix for the symmetric game:\n\n\n<OUTPUT>\n[[ (0,0), (9,8), (8,9) ],\n [ (8,9), (9,9), (0,0) ],\n [ (9,8), (0,0), (8,8) ]]",
+    "correct": [
+        true,
+        "The payoff matrix is symmetric."
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 3x3 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2), (A3,B3) ],\n [ (A4,B4), (A5,B5), (A6,B6) ],\n [ (A7,B7), (A8,B8), (A9,B9) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

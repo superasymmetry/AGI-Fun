@@ -1,0 +1,43 @@
+<think>
+Okay, so I need to figure out what a Shakespearean sonnet is. Let me start by recalling what I know about sonnets in general. I remember that a sonnet is a type of poem, right? There are different kinds, like Petrarchan and Shakespearean. The user is asking specifically about the Shakespearean one.
+
+First, I think about the structure. Sonnets usually have 14 lines. I think the Shakespearean sonnet is also called the English sonnet. How is it structured? Maybe it's divided into parts. I remember something about quatrains and a couplet. Let me break it down. A quatrain is four lines, and a couplet is two lines. So maybe three quatrains and a final couplet? That would add up to 14 lines (3x4 + 2). 
+
+Then there's the rhyme scheme. The Petrarchan sonnet has an octave and a sestet with a specific rhyme scheme, but the Shakespearean one is different. I think the rhyme scheme is ABAB CDCD EFEF GG. Each quatrain has its own set of rhymes, and the couplet at the end rhymes together. That makes sense because the couplet often summarizes the poem or gives a twist.
+
+What about the meter? I believe sonnets are written in iambic pentameter. That's ten syllables per line, with a stress on every second syllable. So each line goes da-DUM da-DUM da-DUM da-DUM da-DUM. For example, "Shall I compare thee to a summer's day?" That line has ten syllables and the iambic rhythm.
+
+Themes in Shakespearean sonnets often revolve around love, beauty, politics, mortality. Shakespeare's sonnets, for example, deal with the Fair Youth and the Dark Lady. The structure helps build up an argument or a problem in the quatrains and then resolves it in the couplet. The volta, or turn, usually happens before the couplet, maybe in the third quatrain or at the couplet itself. In Petrarchan, the volta is after the octave, but in Shakespearean, it's later.
+
+Let me check if I'm mixing up anything. The key points are: 14 lines, three quatrains, a couplet, rhyme scheme ABAB CDCD EFEF GG, iambic pentameter, volta in the couplet. Examples include Sonnet 18 ("Shall I compare thee...") and Sonnet 130 ("My mistress' eyes are nothing like the sun"). 
+
+Wait, is the volta always in the couplet? Or can it be in the third quatrain? Maybe in some sonnets the turn happens earlier. But typically, the final couplet is where the resolution or twist comes. Also, each quatrain might present a different aspect or argument, leading up to the conclusion in the couplet.
+
+I should also mention that Shakespeare wrote 154 sonnets, and they popularized this form. The structure allows for a development of ideas and a succinct conclusion. The rhyme scheme is more flexible than the Petrarchan, which might have been easier in English since we have fewer rhyming words compared to Italian.
+
+So putting it all together: Shakespearean sonnet is a 14-line poem with three quatrains and a couplet, written in iambic pentameter with the rhyme scheme ABAB CDCD EFEF GG. The volta occurs at the couplet, providing a conclusion or twist. Common themes are love, beauty, time, and mortality. Shakespeare's own sonnets are prime examples.
+</think>
+
+A **Shakespearean sonnet**, also known as an **English sonnet**, is a poetic form popularized by William Shakespeare. Here's a structured breakdown of its key features:
+
+1. **Structure**:  
+   - **14 lines** divided into **three quatrains** (four-line stanzas) and a **final couplet** (two-line stanza).  
+   - **Rhyme Scheme**: ABAB CDCD EFEF GG. Each quatrain introduces distinct rhymes, while the couplet concludes with a rhyming pair.
+
+2. **Meter**:  
+   - Written in **iambic pentameter**, each line has ten syllables with a rhythmic pattern of unstressed followed by stressed syllables (da-DUM).
+
+3. **Volta (Turn)**:  
+   - A thematic shift or resolution typically occurs in the **final couplet**, offering insight, irony, or a twist. Occasionally, the turn may begin in the third quatrain.
+
+4. **Themes**:  
+   - Explores universal topics such as **love**, **beauty**, **time**, **mortality**, and **human nature**. Shakespeare’s sonnets often address the “Fair Youth” and “Dark Lady.”
+
+5. **Purpose of the Couplet**:  
+   - The concluding couplet often summarizes the poem, reinforces its argument, or delivers a surprising conclusion. For example, Sonnet 130 subverts traditional love poetry by celebrating genuine affection over idealized beauty.
+
+**Example**:  
+Sonnet 18 begins with comparisons to a summer’s day (quatrains) and concludes with the couplet:  
+*"So long as men can breathe or eyes can see, / So long lives this, and this gives life to thee."*
+
+This structure allows for nuanced exploration of ideas, culminating in a memorable, impactful close. Shakespeare’s 154 sonnets remain iconic examples of the form.

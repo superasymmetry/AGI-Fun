@@ -1,0 +1,10 @@
+{
+    "concept": "Zero-Sum Game",
+    "prompt": "Generate an example of a zero-sum game. If Player 2 takes the third action, they should receive a payoff of [7, 0, 4] if the other player takes the corresponding actions.  In the payoff matrix, all numbers must be unique. ",
+    "inferences": "To construct the required zero-sum game, let's first consider the conditions implied by the game specifications. Since it is a zero-sum game, the payout to Player 1 and the payout to Player 2 should sum to zero for every strategy pair. Furthermore, unique numbers must be used throughout the matrix. And the payoff for Player 2 for the third action should be [7, 0, 4], meaning they receive 7, 0, and 4, respectively, when Player 1 takes their first, second, and third action.\n\nTo achieve a zero-sum outcome for each strategy combination and satisfy all conditions, follow these constraints:\n\n1. The sum of payoffs (Ai, Bi) in each cell must be zero; thus, Ai + Bi = 0.\n2. All payoff numbers (both Ai and Bi) need to be distinct.\n3. Incorporate Player 2's specified payoffs for the third column.\n\nNow, putting these into the matrix structure:\n\n<OUTPUT>\n[[ (3,-3),   (6,-6),   (-7,7)   ],\n [ (-1,1),   (5,-5),   (0,0)    ],\n [ (2,-2),   (-4,4),   (-4,4)   ]]\n",
+    "correct": [
+        true,
+        "The payoff matrix is zero-sum"
+    ],
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 3x3 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                                 It must be in the following format:\n\n[[ (A1,B1), (A2,B2), (A3,B3) ],\n [ (A4,B4), (A5,B5), (A6,B6) ],\n [ (A7,B7), (A8,B8), (A9,B9) ]]\n\nWhere Ai and Bi represent the                                 integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix."
+}

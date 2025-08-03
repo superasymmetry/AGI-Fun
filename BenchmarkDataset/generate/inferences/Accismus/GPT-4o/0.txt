@@ -1,0 +1,7 @@
+{
+    "concept": "Accismus",
+    "semantic_condition": "overcoming adversity",
+    "form_condition": "Have at least two sentences or lines that start with the same word.",
+    "lexical_condition": "earth",
+    "inferences": "Amelia stood at the cliff's edge, the sprawling valley below offering her a place of solace after the storm of her struggles. The earth cradled her dreams, whispering softly with the winds passing through the trees. Amelia gazed downward, pretending to ignore its invitation, though every fiber of her being longed to descend and find peace among the roots. The earth was where she found strength, yet she turned away, reluctant to admit how desperately she desired its grounding embrace."
+}

@@ -1,0 +1,20 @@
+In game theory, **Pareto optimality** (or **Pareto efficiency**) is a state of allocation of resources or strategies where no player can be made better off without making at least one other player worse off. 
+
+### Key Points:
+1. **No Mutual Improvement Possible**: A Pareto optimal outcome is one where any change to benefit one player would necessarily harm another.
+2. **Not Necessarily "Fair"**: Pareto optimality does not imply fairness or equality—it only ensures no further *mutually beneficial* adjustments can be made.
+3. **Pareto Dominance**: An outcome **A** *Pareto dominates* another outcome **B** if at least one player is better off in **A** and no player is worse off. A Pareto optimal outcome is one that is *not* Pareto dominated by any other outcome.
+
+### Example:
+- **Scenario**: Two players, Alice and Bob, split a cake.
+  - **Allocation 1**: Alice gets 60%, Bob gets 40% → This *might* be Pareto optimal (if giving more to either would require taking from the other).
+  - **Allocation 2**: Alice gets 100%, Bob gets 0% → This is also Pareto optimal (Bob can't gain anything without Alice losing).
+  - **Allocation 3**: Alice gets 50%, Bob gets 50% → If this is Pareto optimal depends on whether further trade-offs exist (e.g., if preferences differ).
+
+### Relation to Nash Equilibrium:
+- A Nash equilibrium is a set of strategies where no player can benefit by unilaterally changing their strategy. Not all Nash equilibria are Pareto optimal, and vice versa. For example, the Prisoner's Dilemma has a Nash equilibrium that is *not* Pareto optimal (both players confessing, even though cooperating would be better for both).
+
+### Importance:
+Pareto optimality is a benchmark for efficiency in economics and game theory, helping identify outcomes where resources or payoffs are allocated without waste. However, it doesn’t address distributional justice—other criteria (e.g., fairness, equity) are needed for that. 
+
+Would you like an example from a specific game (e.g., bargaining, public goods)?

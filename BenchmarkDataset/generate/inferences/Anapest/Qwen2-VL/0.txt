@@ -1,0 +1,7 @@
+{
+    "concept": "Anapest",
+    "semantic_condition": "childhood memories",
+    "form_condition": "Start with a word that begins with the letter \"I\".",
+    "lexical_condition": "wonder",
+    "inferences": "Innocent wonder filled my days, as I played under the sun's rays."
+}

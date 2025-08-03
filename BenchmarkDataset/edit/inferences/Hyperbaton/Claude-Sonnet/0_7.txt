@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Hyperbaton",
+    "example": "Attempt _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Hyperbaton? Include only the text that should replace the blank.\n\n Attempt _.",
+    "label": "no",
+    "inferences": "should you\n\nThe phrase \"should you attempt\" would create hyperbaton, which is a rhetorical device where the normal or expected word order is altered for emphasis or poetic effect. Placing \"should\" before the subject \"you\" creates an inversion of the typical English word order, which would normally be \"you should attempt.\""
+}

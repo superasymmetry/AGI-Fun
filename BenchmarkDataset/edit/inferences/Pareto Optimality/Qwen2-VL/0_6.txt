@@ -1,0 +1,18 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Pareto Optimality",
+    "example": "A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. All money is put into the pot, and each person gets out the multiplied money they put in.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. All money is put into the pot, and each person gets out the multiplied money they put in.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Pareto Optimality.\n\n A group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. All money is put into the pot, and each person gets out the multiplied money they put in.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "To make the example not an instance of Pareto Optimality, we can modify the game so that there is a cost associated with putting money into the pot. For example, each person must pay a $0.50 fee to put money into the pot. This means that the total amount of money in the pot will be less than the amount that was put in, and each person will receive less money back than they put in.\nHere is the modified example:\nA group of 10 people has the opportunity to put $1 into a multiplying pot which doubles the money a single time. Each person must pay a $0.50 fee to put money into the pot. All money is put into the pot, and each person gets out the multiplied money they put in, minus the $0.50 fee.\nIn this modified example, it is not possible for all players to be better off than they were before the game. Some players will receive less money back than they put in, and some players will receive more. This means that the game is not Pareto optimal.\nHere is the 2x2 payoff matrix for this game:\n[[ (0.50, 0.50), (0.50, 0.50) ],\n [ (0.50, 0.50), (0.50, 0.50) ]]\n<OUTPUT>[[ (0.50, 0.50), (0.50, 0.50) ],\n [ (0.50, 0.50), (0.50, 0.50) ]]",
+    "message": "Found 4 Pareto optimal outcomes.",
+    "correct": false
+}

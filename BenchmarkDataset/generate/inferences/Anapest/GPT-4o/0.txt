@@ -1,0 +1,7 @@
+{
+    "concept": "Anapest",
+    "semantic_condition": "nature",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "wonder",
+    "inferences": "Meadows whisper of wonder and light,   \nWhere blossoms dance in the soft moon's sight."
+}

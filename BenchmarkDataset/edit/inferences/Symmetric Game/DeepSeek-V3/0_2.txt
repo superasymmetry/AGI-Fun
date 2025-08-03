@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Symmetric Game",
+    "example": "John and Alexa are going out for a first date at Live Alive Cafe. Both of them have two options; they can either dress up or dress down. If one dresses up and the other dresses down, both \u201cplayers\u201d get a payoff of -10, because they will both feel awkward that the other chose to dress differently. If both dress down, both will get a payoff of +5, since they will both feel comfortable with each other and also wear comfortable clothes. If both dress up, both will get a payoff of +2, since they will feel comfortable with each other but have some disutility from wearing uncomfortable but nice-looking clothes. ",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it not an instance of the following game theory concept: Symmetric Game.\n\n John and Alexa are going out for a first date at Live Alive Cafe. Both of them have two options; they can either dress up or dress down. If one dresses up and the other dresses down, both \u201cplayers\u201d get a payoff of -10, because they will both feel awkward that the other chose to dress differently. If both dress down, both will get a payoff of +5, since they will both feel comfortable with each other and also wear comfortable clothes. If both dress up, both will get a payoff of +2, since they will feel comfortable with each other but have some disutility from wearing uncomfortable but nice-looking clothes. ",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it not an instance of the following game theory concept: Symmetric Game.\n\n John and Alexa are going out for a first date at Live Alive Cafe. Both of them have two options; they can either dress up or dress down. If one dresses up and the other dresses down, both \u201cplayers\u201d get a payoff of -10, because they will both feel awkward that the other chose to dress differently. If both dress down, both will get a payoff of +5, since they will both feel comfortable with each other and also wear comfortable clothes. If both dress up, both will get a payoff of +2, since they will feel comfortable with each other but have some disutility from wearing uncomfortable but nice-looking clothes. ",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "yes",
+    "inferences": "[[ (2, 5), (-10, -10) ],\n [ (-10, -10), (5, 2) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": true
+}

@@ -1,0 +1,7 @@
+{
+    "concept": "Enthymeme",
+    "semantic_condition": "the earth",
+    "form_condition": "Use the second-person perspective.",
+    "lexical_condition": "earth",
+    "inferences": "You shouldn't pollute. After all, you live on this Earth. (Implied premise: You should take care of where you live.)\n"
+}

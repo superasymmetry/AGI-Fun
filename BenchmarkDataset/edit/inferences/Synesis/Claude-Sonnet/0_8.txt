@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Synesis",
+    "example": "For, at the end of the day, how can we tell that six and seven make thirteen? Or that _?",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Synesis? Include only the text that should replace the blank.\n\n For, at the end of the day, how can we tell that six and seven make thirteen? Or that _?",
+    "label": "no",
+    "inferences": "two and two make four\n\nNote: Synesis refers to understanding through common sense rather than strict grammatical or logical rules. The statement \"two and two make four\" is considered one of the most basic and self-evident mathematical truths that we understand through common sense, making it a good example for synesis in this context."
+}

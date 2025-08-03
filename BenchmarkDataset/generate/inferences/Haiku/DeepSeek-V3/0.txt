@@ -1,0 +1,7 @@
+{
+    "concept": "Haiku",
+    "semantic_condition": "a meaningful object",
+    "form_condition": "Use dialogue.",
+    "lexical_condition": "red",
+    "inferences": "**Haiku:**  \n\n*\"Is this yours?\" she asks,*  \n*holding the red pocket watch\u2014*  \n*time whispers, \"Let go.\"*  \n\n*(Theme: A meaningful object\u2014the pocket watch\u2014evoking nostalgia and the passage of time, with dialogue and the word \"red.\")*"
+}

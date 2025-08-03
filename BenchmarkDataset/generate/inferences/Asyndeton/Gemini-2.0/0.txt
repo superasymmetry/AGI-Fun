@@ -1,0 +1,7 @@
+{
+    "concept": "Asyndeton",
+    "semantic_condition": "feeling lost",
+    "form_condition": "Do not use dialogue.",
+    "lexical_condition": "earth",
+    "inferences": "Lost. No compass, no map, no sun, no stars, just the cold damp earth pressing against skin, indifference, oblivion.\n"
+}

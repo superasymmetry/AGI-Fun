@@ -1,0 +1,8 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Analogy",
+    "example": "Flight attendants are _ always know _ going to get",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Analogy? Include only the text that should replace the blank.\n\n Flight attendants are _ always know _ going to get",
+    "label": "no",
+    "inferences": "Flight attendants are like pilots, always know where they are going to get."
+}

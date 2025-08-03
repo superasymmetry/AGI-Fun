@@ -1,0 +1,14 @@
+ A pure Nash equilibrium is a situation in a game theory where no player has an incentive to unilaterally deviate from their current strategy, given that all other players stick to their current strategies as well.
+
+In other words, in a game with multiple players, each player's strategy is a best response to the strategies of all other players. If each player is choosing their strategy based on this principle, then the combination of strategies chosen is a pure Nash equilibrium.
+
+For example, consider a game where two players, Alice and Bob, can either cooperate (C) or defect (D). The payoff matrix could look like this:
+
+|       | Alice C | Alice D |
+|-------|---------|---------|
+| Bob C | 3, 3     | 0, 5    |
+| Bob D | 5, 0    | 1, 1    |
+
+In this game, if Alice chooses to cooperate (C), Bob's best response is also to cooperate (3 > 1). Similarly, if Alice chooses to defect (D), Bob's best response is also to defect (5 > 0). Therefore, both (C, C) and (D, D) are pure Nash equilibria.
+
+However, in this specific example, (C, C) is a more stable equilibrium because both players are better off cooperating compared to defecting. This is known as a Pareto optimal equilibrium.

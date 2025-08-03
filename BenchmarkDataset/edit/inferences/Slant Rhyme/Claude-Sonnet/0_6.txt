@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Slant Rhyme",
+    "example": "\"Diamond\" and \"_\"",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Slant Rhyme? Include only the text that should replace the blank.\n\n \"Diamond\" and \"_\"",
+    "label": "no",
+    "inferences": "limping\n\n\"Diamond\" and \"limping\" form a slant rhyme (also called half rhyme or near rhyme) because they share similar but not identical sounds - the [a\u026a] sound in both words, followed by different consonant endings. The words have similar but not exactly matching sounds at their ends."
+}

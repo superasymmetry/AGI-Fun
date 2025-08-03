@@ -1,0 +1,7 @@
+{
+    "condition_1": "Illusory Superiority",
+    "condition_2": "Spotlight Effect",
+    "condition_3": "Endowment Effect",
+    "prompt": "Generate an example that demonstrates the Illusory Superiority and Spotlight Effect psychological biases, but that does not show the Endowment Effect psychological bias.",
+    "inferences": "Example:\n\nSarah recently joined a recreational tennis club. After a few weeks of playing, she believes she's already better than 75% of the club members, even though she's only been playing for a short time and has limited experience (Illusory Superiority). When she makes a minor mistake during a match, like hitting the ball into the net, she feels that everyone at the club is intensely focused on her error and judging her skills (Spotlight Effect).\n\nHowever, Sarah doesn't overvalue her tennis equipment simply because she owns it - she's quite objective about its market worth and would readily switch to better equipment if available at a fair price (avoiding Endowment Effect)."
+}

@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Hyperbaton",
+    "example": "_, I went!",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Hyperbaton? Include only the text that should replace the blank.\n\n _, I went!",
+    "label": "no",
+    "inferences": "To the store\n"
+}

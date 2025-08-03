@@ -1,0 +1,8 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Enthymeme",
+    "example": "Everyone who has a computer has access to the Internet.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Enthymeme? Include only the text that should replace the blank.\n\n Everyone who has a computer has access to the Internet.",
+    "label": "yes",
+    "inferences": "To ensure the resultant text is not an instance of an enthymeme (which typically omits a premise or conclusion), the blank should be filled with an explicit premise or conclusion. For example:\n\n\"Therefore, if someone has a computer, they can go online.\"\n\nThis makes the reasoning complete and not an enthymeme. \n\nSo the filled-in text would be:\n\nEveryone who has a computer has access to the Internet. Therefore, if someone has a computer, they can go online. \n\nOnly include the replacement text:  \n\"Therefore, if someone has a computer, they can go online.\""
+}

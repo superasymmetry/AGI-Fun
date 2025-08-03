@@ -1,0 +1,7 @@
+{
+    "concept": "Anacoluthon",
+    "semantic_condition": "childhood memories",
+    "form_condition": "Have at least two sentences or lines that start with the same word.",
+    "lexical_condition": "sunshine",
+    "inferences": "Memories of childhood summers are filled with laughter and warmth, reminiscent of sunshine that seemed to last forever. Naturally, those carefree days spent playing outside with friends are etched in my mind as a time of pure joy. Naturally, the smell of freshly cut grass and the sound of ice cream trucks bring back nostalgic feelings of simplicity and happiness. Naturally, the long days of sunshine and adventure have become a cherished part of my childhood memories, a reminder of the freedom and innocence of youth. \n\nIn this example, the concept of Anacoluthon is demonstrated through the repetition of the word \"Naturally\" at the beginning of consecutive sentences, creating a sense of continuity and emphasis on the nostalgic feelings being described. The theme of childhood memories and the inclusion of the word \"sunshine\" also meet the requirements."
+}

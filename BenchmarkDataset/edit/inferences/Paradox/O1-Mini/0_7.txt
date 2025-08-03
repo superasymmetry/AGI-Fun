@@ -1,0 +1,8 @@
+{
+    "model": "o1-mini",
+    "concept": "Paradox",
+    "example": "As _ work gets assigned to me I have less to do",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Paradox? Include only the text that should replace the blank.\n\n As _ work gets assigned to me I have less to do",
+    "label": "no",
+    "inferences": "more"
+}

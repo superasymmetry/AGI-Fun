@@ -1,0 +1,7 @@
+{
+    "concept": "Enthymeme",
+    "semantic_condition": "the earth",
+    "form_condition": "End with a one-vowel word.",
+    "lexical_condition": "wonder",
+    "inferences": "Here's an enthymeme (an argument with an implied premise) about the earth including \"wonder\":\n\n\"I wonder at the Northern Lights, for all natural marvels must make the earth glow.\"\n(Implied premise: The Northern Lights are a natural marvel)\n\nThe one-vowel word at the end is \"glow.\""
+}

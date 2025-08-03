@@ -1,0 +1,7 @@
+{
+    "concept": "Enthymeme",
+    "semantic_condition": "feeling lost",
+    "form_condition": "End with a one-vowel word.",
+    "lexical_condition": "light",
+    "inferences": "**Enthymeme:**  \n*\"She wandered without a map, yet the light still called\u2014home must be near.\"*  \n\n**One-vowel word:** *\"Near.\"*"
+}

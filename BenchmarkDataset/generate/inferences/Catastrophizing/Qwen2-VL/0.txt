@@ -1,0 +1,7 @@
+{
+    "condition_1": "Mind Reading",
+    "condition_2": "Mental Filtering (Disqualifying the Positive)",
+    "condition_3": "Sunk Cost Fallacy",
+    "prompt": "Generate an example that demonstrates the Mind Reading and Mental Filtering (Disqualifying the Positive) psychological biases, but that does not show the Sunk Cost Fallacy psychological bias.",
+    "inferences": "Sure, here's an example that demonstrates the Mind Reading and Mental Filtering (Disqualifying the Positive) psychological biases, but not the Sunk Cost Fallacy:\n\nImagine that you are a student who has just received your exam results. You got a grade of 85%, which is a good score, but not as high as you had hoped for. You start to think to yourself, \"My teacher must have thought I didn't study enough, or that I didn't understand the material. Maybe I'm not as smart as I thought I was.\"\n\nThis is an example of Mind Reading, as you are assuming that your teacher has negative thoughts about you based on your grade. You are also engaging in Mental Filtering (Disqualifying the Positive), as you are focusing on the negative aspects of your grade and ignoring the fact that it is still a good score.\n\nHowever, this example does not demonstrate the Sunk Cost Fallacy, as you are not continuing to invest time or resources into something that is not working, based on the amount of time or resources you have already invested."
+}

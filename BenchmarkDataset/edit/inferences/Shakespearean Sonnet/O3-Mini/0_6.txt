@@ -1,0 +1,8 @@
+{
+    "model": "o3-mini",
+    "concept": "Shakespearean Sonnet",
+    "example": "Illusion carried on for thirty years:\nI called it love It was a kind of grace\nthat gave me freedom, bottled up my fears,\nand let me find assurance in his face.\nHow was it from the outside looking in,\nthis marriage kept alive by sheer romance?\nWe looked so happy, and we might have been,\nunequal partners in a private dance\nHis ashes scattered now, his spirit gone,\n_\nI have the common sense to carry on\nall by myself, with clearer eyes to see\nour love was but a spell, a sleight of hand\nto marvel at: no need to understand",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Shakespearean Sonnet? Include only the text that should replace the blank.\n\n Illusion carried on for thirty years:\nI called it love It was a kind of grace\nthat gave me freedom, bottled up my fears,\nand let me find assurance in his face.\nHow was it from the outside looking in,\nthis marriage kept alive by sheer romance?\nWe looked so happy, and we might have been,\nunequal partners in a private dance\nHis ashes scattered now, his spirit gone,\n_\nI have the common sense to carry on\nall by myself, with clearer eyes to see\nour love was but a spell, a sleight of hand\nto marvel at: no need to understand",
+    "label": "no",
+    "inferences": "though memory lingers in each tear's slow trace,"
+}

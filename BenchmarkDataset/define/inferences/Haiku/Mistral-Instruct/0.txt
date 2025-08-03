@@ -1,0 +1,6 @@
+ A haiku is a form of traditional Japanese poetry. It consists of three lines with a 5-7-5 syllable count, respectively. The first line has five syllables, the second line has seven, and the third line has five again. Haikus often focus on nature, seasons, or simple, evocative images. They are intended to capture a moment or emotion in a concise and impactful way. Here's an example:
+
+    Autumn moonlight –
+    a worm digs silently
+    with the moon.
+    - Matsuo Basho, 17th century Japanese poet

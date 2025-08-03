@@ -1,0 +1,18 @@
+{
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "concept": "Pareto Optimality",
+    "example": "A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. To make things fair, they decide to each take 1 banana and 1 apple.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. To make things fair, they decide to each take 1 banana and 1 apple.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. To make things fair, they decide to each take 1 banana and 1 apple.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "To create an instance of Pareto Optimality, we need to ensure that no other outcome can make one player better off without making the other player worse off. In this case, we'll assign payoffs such that the current division of 1 banana and 1 apple for each is the optimal solution.\n\nLet's assign payoffs as follows:\n- Each banana is worth 3 points to both players.\n- Each apple is worth 1 point to both players.\n\nThe current division gives each player 1 banana (3 points) and 1 apple (1 point), for a total of 4 points each.\n\nNow, let's consider alternative divisions and their payoffs:\n- If A takes 2 bananas and 1 apple, and B takes 1 banana and 2 apples, A gets 3 + 3 + 1 = 7 points, and B gets 3 + 1 + 1 = 5 points.\n- If A takes 1 banana and 2 apples, and B takes 2 bananas and 1 apple, A gets 3 + 1 + 1 = 5 points, and B gets 3 + 3 + 1 = 7 points.\n\nHowever, these alternatives do not represent a Pareto improvement, as one player gains at the expense of the other. To represent this situation in a payoff matrix, we'll consider two strategies for each player: taking the initial division (1 banana, 1 apple) or taking an alternative division (2 bananas, 1 apple for one, and 1 banana, 2 apples for the other).\n\nHere is the payoff matrix:\n\n<OUTPUT>\n[[ (4,4), (7,5) ],\n [ (5,7), (4,4) ]]",
+    "message": "Found 2 Pareto optimal outcomes.",
+    "correct": true
+}

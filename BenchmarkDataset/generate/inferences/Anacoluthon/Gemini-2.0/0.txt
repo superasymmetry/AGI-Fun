@@ -1,0 +1,7 @@
+{
+    "concept": "Anacoluthon",
+    "semantic_condition": "a significant event",
+    "form_condition": "Use a comma in the first sentence or line.",
+    "lexical_condition": "love",
+    "inferences": "During the moon landing, a giant leap for mankind, I remember thinking, you know, about how small we all are, and the sheer magnitude of the universe, and my grandmother, she always baked the best apple pie and that, well, that's what love is, isn't it?\n"
+}

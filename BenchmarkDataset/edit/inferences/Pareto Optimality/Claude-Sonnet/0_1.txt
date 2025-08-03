@@ -1,0 +1,18 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Pareto Optimality",
+    "example": "A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. To make things fair, they decide to each take 1 banana and 1 apple.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. To make things fair, they decide to each take 1 banana and 1 apple.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n A and B must divide up a set of 3 apples and 3 bananas. Both prefer the bananas. To make things fair, they decide to each take 1 banana and 1 apple.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "Let me help construct a payoff matrix for this scenario focusing on Pareto optimality.\n\nIn game theory, a Pareto optimal outcome is one where no player can be made better off without making another player worse off.\n\nFor this situation, let's model it as follows:\n\nPlayer 1 (A) and Player 2 (B) each have two strategies:\n- Strategy 1: Take 1 banana + 1 apple (Fair split)\n- Strategy 2: Take 2 bananas + 0 apples (Greedy for bananas)\n\nLet's assign utility values based on preferences:\n- Each banana is worth 2 utility points\n- Each apple is worth 1 utility point\n\nWhen both players choose Fair split:\n- Each gets 1 banana (2 points) + 1 apple (1 point) = 3 points each\n\nWhen one is greedy and other is fair:\n- Greedy player gets 2 bananas (4 points) + 0 apples = 4 points\n- Fair player gets 0 bananas + 2 apples = 2 points\n\nWhen both are greedy:\n- They fight over bananas, ending up with less overall\n- Each gets 1 banana + 0 apples = 2 points\n\n<OUTPUT>\n[[ (3,3), (2,4) ],\n [ (4,2), (2,2) ]]",
+    "message": "Found 3 Pareto optimal outcomes.",
+    "correct": true
+}

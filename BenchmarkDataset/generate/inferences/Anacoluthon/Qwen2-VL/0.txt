@@ -1,0 +1,7 @@
+{
+    "concept": "Anacoluthon",
+    "semantic_condition": "childhood memories",
+    "form_condition": "Start with a monosyllabic word.",
+    "lexical_condition": "jump",
+    "inferences": "Jump, I remember, into the pool, where my childhood fears melted away, diving into the cool, blue depths, forgetting all worries, and embracing the joy of summer."
+}

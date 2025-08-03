@@ -1,0 +1,17 @@
+An enthymeme is a rhetorical device that originated in ancient Greek philosophy, particularly in the works of Aristotle. It is a type of argument or reasoning that is based on probability rather than certainty. In essence, an enthymeme is a syllogism (a form of logical argument) that is based on premises that are likely or probable, rather than being absolutely true.
+
+In a traditional syllogism, the premises are considered to be certain and absolute, leading to a conclusion that is also certain. In contrast, an enthymeme uses premises that are probable or likely, leading to a conclusion that is also probable or likely.
+
+The structure of an enthymeme is similar to that of a syllogism, with two premises and a conclusion. However, the premises in an enthymeme are often based on common knowledge, experience, or opinion, rather than on absolute truth. This means that the conclusion of an enthymeme is not necessarily certain, but rather probable or plausible.
+
+Enthymemes are often used in persuasive writing and speaking, as they can be effective in convincing audiences of a particular point of view. They are particularly useful in situations where absolute certainty is not possible, but where a probable or likely conclusion can still be drawn.
+
+For example:
+
+All people who exercise regularly tend to be healthier. (Premise 1 - probable)
+John exercises regularly. (Premise 2 - probable)
+Therefore, John is likely to be healthier. (Conclusion - probable)
+
+In this example, the premises are probable rather than certain, and the conclusion is also probable rather than certain. This is an example of an enthymeme, as it uses probable premises to arrive at a probable conclusion.
+
+Overall, enthymemes are a useful tool in persuasive communication, as they allow speakers and writers to make probable arguments based on likely premises, rather than relying on absolute certainty.

@@ -1,0 +1,5 @@
+In game theory, a best response is a strategy or action chosen by a player that yields the highest payoff given the strategies or actions chosen by other players in the game. Essentially, it is the optimal decision a player can make, taking into account the decisions of others.
+
+To put it another way, a player's best response is the choice that maximizes their utility, assuming the strategies of all other players are fixed. A best response can depend on many factors, including the specific strategies chosen by opponents and the structure of the payoffs in the game.
+
+When analyzing games, especially in strategic form, finding the best response for each player can help identify equilibria, such as Nash Equilibrium, where each player's strategy is a best response to the strategies chosen by others. At a Nash Equilibrium, no player has an incentive to unilaterally deviate from their strategy, as doing so would not lead to a better payoff.

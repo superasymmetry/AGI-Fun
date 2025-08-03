@@ -1,0 +1,8 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Haiku",
+    "example": "_ man\nIt's better for you to wane\nLet it float away",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Haiku? Include only the text that should replace the blank.\n\n _ man\nIt's better for you to wane\nLet it float away",
+    "label": "yes",
+    "inferences": "To ensure the resultant text is not an instance of a haiku, you could replace the blank with a phrase that disrupts the 5-7-5 syllable structure or introduces a non-seasonal/non-nature theme. For example:\n\n**\"A tired old\"**  \n\nResult:  \n*A tired old man  \nIt's better for you to wane  \nLet it float away*  \n\nThis adds two extra syllables to the first line (6 instead of 5), breaking the haiku form. Alternatively, you could use a non-nature word like **\"The programmer\"** to deviate from traditional haiku themes.  \n\nFinal answer (choose one):  \n- *\"A tired old\"*  \n- *\"The programmer\"*"
+}

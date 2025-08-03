@@ -1,0 +1,8 @@
+{
+    "model": "o3-mini",
+    "concept": "Paradox",
+    "example": "All movie directors are _ but some _ others",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Paradox? Include only the text that should replace the blank.\n\n All movie directors are _ but some _ others",
+    "label": "yes",
+    "inferences": "All movie directors are talented but some surpass others."
+}

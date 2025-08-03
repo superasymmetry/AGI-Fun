@@ -1,0 +1,8 @@
+In game theory, strict dominance occurs when one strategy is strictly better than another strategy for a player, regardless of what strategies other players choose. A strictly dominated strategy will always yield a lower payoff than the dominating strategy, no matter what the other players do.
+
+For example:
+- Strategy A strictly dominates Strategy B if the payoff from A is always higher than B
+- The dominated strategy (B) can be eliminated from consideration since a rational player would never choose it
+- This concept helps simplify game analysis through iterative elimination of strictly dominated strategies
+
+Rational players should never play strictly dominated strategies, as they can always do better by choosing the dominating strategy instead.

@@ -1,0 +1,9 @@
+An enthymeme is a rhetorical device often used in arguments and persuasive writing. It refers to an incomplete argument that relies on the audience to fill in the gaps. Essentially, an enthymeme is a syllogism in which one of the premises is implicit or assumed rather than explicitly stated.
+
+For instance, in the statement "Socrates is mortal because he is a man," the speaker assumes the audience knows the unstated general premise that "all men are mortal." Thus, the complete syllogism would be:
+
+1. All men are mortal. (unstated premise)
+2. Socrates is a man.
+3. Therefore, Socrates is mortal.
+
+By using enthymemes, a writer or speaker can engage the audience, who becomes an active participant in the argument by supplying the missing information themselves. This makes enthymemes a powerful persuasive tool, as they can make arguments seem more convincing by aligning them with the audience's own beliefs and assumptions.

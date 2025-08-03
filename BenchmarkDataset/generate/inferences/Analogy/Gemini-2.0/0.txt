@@ -1,0 +1,7 @@
+{
+    "concept": "Analogy",
+    "semantic_condition": "feeling lost",
+    "form_condition": "Use the third-person perspective.",
+    "lexical_condition": "wonder",
+    "inferences": "He felt like a lone sock in a laundromat dryer. Just tumbling around and around with no discernible destination. He could see the brightly lit exit sign, the promise of folding tables and pairing up with its missing mate, but it was always just out of reach, blurred by the constant, disorienting spin. He\u2019d catch fleeting glimpses of other socks, some patterned, some plain, but none offered solace, none seemed to know the route to the promised land of belonging. He watched them disappear into the lint trap, leaving him to wonder if they'd found their match or simply disintegrated in the heat and confusion.\n"
+}

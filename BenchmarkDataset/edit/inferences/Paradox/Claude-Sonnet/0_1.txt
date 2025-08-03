@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Paradox",
+    "example": "All movie directors are _ but some _ others",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Paradox? Include only the text that should replace the blank.\n\n All movie directors are _ but some _ others",
+    "label": "yes",
+    "inferences": "To avoid a paradox, here's text to fill in both blanks:\ntalented at directing, less talented than\n\nThis creates a non-paradoxical statement: \"All movie directors are talented at directing, but some less talented than others\"\n\nThis works because it creates a simple comparative statement without contradiction. It acknowledges a baseline quality (all are talented) while allowing for varying degrees of that quality."
+}

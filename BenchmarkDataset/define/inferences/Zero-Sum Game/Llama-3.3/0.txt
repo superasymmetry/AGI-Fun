@@ -1,0 +1,17 @@
+In game theory, a zero-sum game is a type of game where one player's gain is equal to another player's loss. In other words, the total outcome or payoff of the game is zero, meaning that the sum of the gains and losses of all players is zero.
+
+In a zero-sum game, the following conditions are met:
+
+1. The game has two or more players.
+2. The players have conflicting interests, meaning that one player's gain comes at the expense of another player's loss.
+3. The total payoff or outcome of the game is zero, meaning that the sum of the gains and losses of all players is zero.
+
+Examples of zero-sum games include:
+
+* Chess: One player wins, and the other player loses. The outcome is either +1 (win) or -1 (loss), and the sum of the outcomes is zero.
+* Poker: Players bet and win or lose money. The total amount of money won by one player is equal to the total amount of money lost by the other players.
+* Sports: In a competitive sport like tennis or basketball, one team wins, and the other team loses. The outcome is either a win (1) or a loss (0), and the sum of the outcomes is 1 (1 + (-1) = 0).
+
+Zero-sum games are often used to model competitive situations where one player's gain comes at the expense of another player's loss. They are commonly used in economics, politics, and social sciences to analyze strategic decision-making and conflict resolution.
+
+It's worth noting that not all games are zero-sum. Some games can be positive-sum, where all players can gain, or negative-sum, where all players can lose. Examples of non-zero-sum games include business partnerships, where both parties can benefit, or environmental degradation, where all parties can lose.

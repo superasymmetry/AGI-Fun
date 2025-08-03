@@ -1,0 +1,15 @@
+A haiku is a traditional form of Japanese poetry that consists of three lines with a syllable count of 5, 7, and 5. Haiku typically capture a moment in time or express a feeling or image. They often incorporate natural imagery and use sensory language to create a sense of wonder, peace, and simplicity.
+
+The structure of a haiku is usually as follows:
+
+* The first line has five syllables and sets the scene or introduces the main image.
+* The second line has seven syllables and develops the idea or introduces a contrast or twist.
+* The third line has five syllables and provides a conclusion or a final thought.
+
+Haiku often use imagery and suggestion rather than direct statement, and they may incorporate a "season word" (known as a kigo) to help establish the time and setting of the poem.
+
+Here's an example of a haiku:
+
+Snowflakes gently fall  
+Blanketing the winter scene  
+Peaceful silence deep

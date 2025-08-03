@@ -1,0 +1,7 @@
+{
+    "condition_1": "Normalcy Bias",
+    "condition_2": "Sunk Cost Fallacy",
+    "condition_3": "Fundamental Attribution Error",
+    "prompt": "Generate an example that demonstrates the Normalcy Bias and Sunk Cost Fallacy psychological biases, but that does not show the Fundamental Attribution Error psychological bias.",
+    "inferences": "Normalcy Bias: A person who lives in a flood-prone area refuses to evacuate their home during a severe storm, believing that the floodwaters will not reach their property, despite warnings from authorities and evidence of rising water levels.\nSunk Cost Fallacy: A person who has invested a significant amount of money into a failing business continues to pour more money into it, believing that they will eventually see a return on their investment, even though the business is unlikely to succeed.\nIn both of these examples, the person is demonstrating the Normalcy Bias by underestimating the severity of the situation and the Sunk Cost Fallacy by continuing to invest in something that is unlikely to succeed. However, these examples do not demonstrate the Fundamental Attribution Error, which is the tendency to attribute the behavior of others to their inherent characteristics rather than to situational factors."
+}

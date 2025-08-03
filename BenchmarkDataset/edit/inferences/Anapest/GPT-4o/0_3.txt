@@ -1,0 +1,8 @@
+{
+    "model": "gpt-4o",
+    "concept": "Anapest",
+    "example": "_ boy, walking _ a heart.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Anapest? Include only the text that should replace the blank.\n\n _ boy, walking _ a heart.",
+    "label": "yes",
+    "inferences": "a"
+}

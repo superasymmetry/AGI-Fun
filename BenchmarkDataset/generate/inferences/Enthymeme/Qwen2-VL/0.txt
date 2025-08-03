@@ -1,0 +1,7 @@
+{
+    "concept": "Enthymeme",
+    "semantic_condition": "gratitude",
+    "form_condition": "Make the result in the past tense.",
+    "lexical_condition": "light",
+    "inferences": "In the past, when we received the gift of understanding, it was like a beacon of light in our lives, guiding us through the darkness of ignorance."
+}

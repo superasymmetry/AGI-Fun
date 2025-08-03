@@ -1,0 +1,13 @@
+A symmetric game is a game in which all players have identical strategy sets and payoffs for playing particular strategies. In other words, the payoffs for playing a particular strategy depend only on the strategies chosen by the other players, not on who is playing them. All players can be interchanged without changing the game's fundamental structure.
+
+Key characteristics:
+1. All players have the same available strategies
+2. The payoffs for playing each strategy are the same for all players
+3. Switching the positions of any players doesn't change the game
+
+Common examples include:
+- Prisoner's Dilemma
+- Hawk-Dove game
+- Rock, Paper, Scissors
+
+The opposite is an asymmetric game, where players have different strategies and/or payoffs available to them.

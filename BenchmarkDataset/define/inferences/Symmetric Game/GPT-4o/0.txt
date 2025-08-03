@@ -1,0 +1,5 @@
+In game theory, a symmetric game is one where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. That is, the game looks the same from each player's perspective, meaning that the identities of the players can be swapped without affecting the payoffs. 
+
+In more formal terms, a game is symmetric if the payoff functions are symmetric; this means that if two players swap their strategies, their payoffs are also swapped. This implies that every player has the same strategy set and the payoff structure is identical. A classic example of a symmetric game is the Prisoner's Dilemma, where the consequences for cooperation and defection are the same for both players. 
+
+Symmetric games often lead to symmetric equilibria, where all players choose the same strategy. However, it's important to note that not all equilibria in symmetric games are symmetric.

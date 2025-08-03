@@ -1,0 +1,40 @@
+In game theory, **weak dominance** occurs when one strategy for a player yields a payoff that is *at least as good as* the payoff from another strategy, regardless of what strategies the other players choose, and the payoff is *strictly better* for at least one combination of other players' strategies.
+
+Here's a breakdown:
+
+*   **Strategy A weakly dominates Strategy B for Player X** if:
+
+    *   For **every** combination of strategies chosen by the other players, Player X's payoff from playing Strategy A is greater than or equal to the payoff from playing Strategy B.  This is the "at least as good as" part.
+    *   There exists **at least one** combination of strategies chosen by the other players such that Player X's payoff from playing Strategy A is *strictly greater than* the payoff from playing Strategy B. This is the "strictly better in at least one case" part.
+
+**In simpler terms:**
+
+Imagine you're Player X. If Strategy A weakly dominates Strategy B, then no matter what the other players do, you'll *never* be worse off playing Strategy A than Strategy B, and there's *at least one* situation where you'll be *better* off playing Strategy A.
+
+**Why is it called "weak"?**
+
+The term "weak" is used because weak dominance isn't as strong as "strict dominance".  In *strict* dominance, one strategy always gives a better payoff than another, *no matter what* the other players do. Weak dominance only requires that one strategy be *as good as or better* than another.
+
+**Example:**
+
+Consider a simple game with two players (Player 1 and Player 2), each with two strategies (Strategy A and Strategy B). The payoffs are given in the following payoff matrix (Player 1's payoff is listed first):
+
+|           | Player 2: Strategy A | Player 2: Strategy B |
+|-----------|-----------------------|-----------------------|
+| Player 1: Strategy A | (2, 1)                | (2, 0)                |
+| Player 1: Strategy B | (2, 1)                | (1, 0)                |
+
+Let's analyze from Player 1's perspective:
+
+*   **If Player 2 chooses Strategy A:**  Player 1 gets a payoff of 2 from Strategy A and a payoff of 2 from Strategy B.  They are equal.
+*   **If Player 2 chooses Strategy B:** Player 1 gets a payoff of 2 from Strategy A and a payoff of 1 from Strategy B. Strategy A is strictly better.
+
+Since Strategy A is *at least as good* as Strategy B in both cases, and *strictly better* in at least one case, we can say that **Strategy A weakly dominates Strategy B for Player 1.**
+
+**Important Considerations:**
+
+*   **Iterated Elimination of Weakly Dominated Strategies:** While intuitively appealing, iteratively eliminating weakly dominated strategies can lead to different outcomes depending on the order in which strategies are eliminated.  This is in contrast to iterated elimination of *strictly* dominated strategies, which always leads to the same outcome.
+*   **Equilibrium Concepts:** Weak dominance plays a role in some equilibrium concepts, but its implications are less clear-cut than strict dominance due to the potential for multiple outcomes.
+*   **Real-World Applications:**  Weak dominance can be useful in understanding strategic situations where players might be indifferent between strategies in some cases, but strictly prefer one strategy in others.
+
+In summary, weak dominance is a useful concept in game theory for identifying strategies that are never worse, and sometimes better, than other strategies, but its application requires caution because of the potential for different outcomes under iterated elimination.

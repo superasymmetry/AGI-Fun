@@ -1,0 +1,29 @@
+In game theory, a pure Nash equilibrium is a concept introduced by John Nash that describes a state in a game where no player can improve their payoff (or outcome) by unilaterally changing their strategy, assuming all other players keep their strategies unchanged.
+
+More formally, a pure Nash equilibrium is a set of pure strategies, one for each player, such that:
+
+1. No player can improve their payoff by changing their strategy, given the strategies of the other players.
+2. No player has an incentive to deviate from their chosen strategy, given the strategies of the other players.
+
+In other words, a pure Nash equilibrium is a stable state where no player has a reason to change their strategy, because any change would either lead to a worse outcome or not improve their outcome, given the actions of the other players.
+
+To illustrate this concept, consider a simple example: a game of rock-paper-scissors between two players, Alice and Bob. The payoffs for each possible outcome are as follows:
+
+|  | Alice: Rock | Alice: Paper | Alice: Scissors |
+| --- | --- | --- | --- |
+| **Bob: Rock** | Tie | Alice wins | Bob wins |
+| **Bob: Paper** | Bob wins | Tie | Alice wins |
+| **Bob: Scissors** | Alice wins | Bob wins | Tie |
+
+In this game, there is no pure Nash equilibrium, because no matter what strategy Alice chooses, Bob can always choose a strategy that beats her. For example, if Alice chooses Rock, Bob can choose Paper to win.
+
+However, if we consider a different game, such as a prisoner's dilemma, there can be a pure Nash equilibrium. In the prisoner's dilemma, two prisoners, A and B, are given the option to confess or remain silent. The payoffs are as follows:
+
+|  | A: Confess | A: Silent |
+| --- | --- | --- |
+| **B: Confess** | A: 2 years, B: 2 years | A: 3 years, B: 1 year |
+| **B: Silent** | A: 1 year, B: 3 years | A: 1 year, B: 1 year |
+
+In this game, the pure Nash equilibrium is for both prisoners to confess, because if one prisoner confesses and the other remains silent, the confessor gets a lighter sentence (1 year) and the silent prisoner gets a harsher sentence (3 years). Therefore, both prisoners have an incentive to confess, and the equilibrium is (Confess, Confess).
+
+Pure Nash equilibria are important in game theory because they help us understand the strategic interactions between players and predict the outcomes of games. However, not all games have pure Nash equilibria, and in some cases, the equilibrium may involve mixed strategies, where players randomize over their actions.

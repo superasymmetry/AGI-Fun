@@ -1,0 +1,8 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Anapest",
+    "example": "I just went _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Anapest? Include only the text that should replace the blank.\n\n I just went _.",
+    "label": "yes",
+    "inferences": "To ensure the resultant text is not an instance of an anapest (a metrical foot consisting of two unstressed syllables followed by one stressed syllable, like \"un-der-STAND\"), the blank should be filled with words that do not follow this pattern. \n\nPossible replacements for the blank could be:\n- \"home\" (stressed syllable only: \"I just went HOME.\")\n- \"to sleep\" (iambic: \"I just went to SLEEP.\")\n- \"running\" (trochaic: \"I just went RUN-ning.\")\n- \"away now\" (dactylic: \"I just went A-way-now.\")\n\nAny of these would disrupt the anapestic meter. For example, using \"home\":\n\"I just went home.\" (stresses: \"I JUST went HOME.\") \u2014 not an anapest. \n\nSo, one possible answer is:  \n**home**"
+}

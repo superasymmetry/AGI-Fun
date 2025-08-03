@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Accismus",
+    "example": "_ give me everything that I've ever wanted. You're such a jerk.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Accismus? Include only the text that should replace the blank.\n\n _ give me everything that I've ever wanted. You're such a jerk.",
+    "label": "yes",
+    "inferences": "Please\n"
+}

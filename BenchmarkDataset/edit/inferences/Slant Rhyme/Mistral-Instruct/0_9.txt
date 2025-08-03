@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Slant Rhyme",
+    "example": "\"_\" and \"piggy\"",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Slant Rhyme? Include only the text that should replace the blank.\n\n \"_\" and \"piggy\"",
+    "label": "no",
+    "inferences": " \"wig\" (Slant rhyme: both words rhyme but contain different vowel sounds)"
+}

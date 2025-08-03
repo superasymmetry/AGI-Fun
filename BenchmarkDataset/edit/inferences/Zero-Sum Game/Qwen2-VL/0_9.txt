@@ -1,0 +1,18 @@
+{
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "concept": "Zero-Sum Game",
+    "example": "Consider a game between professors and students. Professors have two modes: lecture and advise. Students have two modes: study and listen. When a professor lectures and a student studies, the professor gets +2 points and the student gets -2 points. When a professor lectures and a student listens, the professor is happy (+2) and the student is bored (-2). When a professor advises and a student studies, the professor feels useful (+4) and the student gets bored (-4). When a professor advises and the student listens, the professor and the student both get -1 points.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Zero-Sum Game.\n\n Consider a game between professors and students. Professors have two modes: lecture and advise. Students have two modes: study and listen. When a professor lectures and a student studies, the professor gets +2 points and the student gets -2 points. When a professor lectures and a student listens, the professor is happy (+2) and the student is bored (-2). When a professor advises and a student studies, the professor feels useful (+4) and the student gets bored (-4). When a professor advises and the student listens, the professor and the student both get -1 points.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Zero-Sum Game.\n\n Consider a game between professors and students. Professors have two modes: lecture and advise. Students have two modes: study and listen. When a professor lectures and a student studies, the professor gets +2 points and the student gets -2 points. When a professor lectures and a student listens, the professor is happy (+2) and the student is bored (-2). When a professor advises and a student studies, the professor feels useful (+4) and the student gets bored (-4). When a professor advises and the student listens, the professor and the student both get -1 points.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "[[ (2,-2), (2,-2) ],\n [ (4,-4), (-1,-1) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": false
+}

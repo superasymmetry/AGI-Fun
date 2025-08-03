@@ -1,0 +1,7 @@
+{
+    "concept": "Shakespearean Sonnet",
+    "semantic_condition": "love",
+    "form_condition": "Use alliteration at least once.",
+    "lexical_condition": "order",
+    "inferences": "In love's sweet realm, where hearts entwine,\nWhere passion's fire doth brightly shine,\nA sonnet's form, with order true,\nShall sing of love, and all it knew.\n\nWith alliteration's artful grace,\nThe words flow forth, with tender pace,\nAs \"love\" and \"lips\" and \"lovely\" blend,\nA symphony of sound, that never end.\n\nIn love's sweet realm, where hearts entwine,\nWhere passion's fire doth brightly shine,\nA sonnet's form, with order true,\nShall sing of love, and all it knew."
+}

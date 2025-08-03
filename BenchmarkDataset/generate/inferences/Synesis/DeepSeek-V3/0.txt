@@ -1,0 +1,7 @@
+{
+    "concept": "Synesis",
+    "semantic_condition": "overcoming adversity",
+    "form_condition": "Make every sentence start with a verb.",
+    "lexical_condition": "father",
+    "inferences": "**Synesis Example: Overcoming Adversity**  \n\n**Stand** tall, even when the weight of the world feels crushing. **Remember** the lessons your father taught you about resilience. **Push** forward, though the path is steep and uncertain. **Hold** fast to hope, for it is the anchor in the storm. **Listen** to the quiet strength in your father\u2019s voice when he said, \"This too shall pass.\" **Rise** each time you fall, knowing adversity shapes greatness. **Trust** that the struggle today builds the triumph of tomorrow. **Honor** the sacrifices your father made to pave your way. **Believe** in the power of perseverance to turn darkness into dawn."
+}

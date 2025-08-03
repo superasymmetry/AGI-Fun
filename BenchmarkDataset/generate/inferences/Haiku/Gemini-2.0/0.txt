@@ -1,0 +1,7 @@
+{
+    "concept": "Haiku",
+    "semantic_condition": "moments in time",
+    "form_condition": "End with a one-vowel word.",
+    "lexical_condition": "mother",
+    "inferences": "Clock's gentle tick-tock,\nMother's hum, a memory,\nGone with a low hum.\n"
+}

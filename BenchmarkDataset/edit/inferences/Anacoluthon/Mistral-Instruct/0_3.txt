@@ -1,0 +1,8 @@
+{
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "concept": "Anacoluthon",
+    "example": "At the same time _ interrupting a _.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Anacoluthon? Include only the text that should replace the blank.\n\n At the same time _ interrupting a _.",
+    "label": "yes",
+    "inferences": " At the same time, making a brief pause, interrupting a speech."
+}

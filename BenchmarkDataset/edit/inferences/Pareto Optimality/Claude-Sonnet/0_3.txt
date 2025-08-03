@@ -1,0 +1,18 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Pareto Optimality",
+    "example": "The lead singer of a is indifferent between large venues and small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer who is indifferent, so they only play large venues.",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n The lead singer of a is indifferent between large venues and small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer who is indifferent, so they only play large venues.",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Pareto Optimality.\n\n The lead singer of a is indifferent between large venues and small venues; but everyone else in the band prefers small venues. The band\u2019s booking agent listens to the lead singer who is indifferent, so they only play large venues.",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "Let me help create a payoff matrix that illustrates Pareto optimality using the band venue scenario.\n\nIn game theory, a situation is Pareto optimal when it's impossible to make any player better off without making at least one player worse off. \n\nLet's model this with Player 1 being the lead singer and Player 2 representing the rest of the band.\n\nFor the lead singer (Player 1):\n- Large venues payoff = 5 (they're fine with either)\n- Small venues payoff = 5 (they're fine with either)\n\nFor the rest of the band (Player 2):\n- Large venues payoff = 2 (they don't prefer this)\n- Small venues payoff = 8 (they strongly prefer this)\n\nThis creates a scenario where:\n1. The (Small, Small) outcome is Pareto optimal because it gives (5,8)\n2. The (Large, Large) outcome with (5,2) is NOT Pareto optimal because we could switch to small venues and make Player 2 better off without hurting Player 1\n\n<OUTPUT>\n[[ (5,2), (5,8) ],\n [ (5,2), (5,8) ]]",
+    "message": "Found 2 Pareto optimal outcomes.",
+    "correct": true
+}

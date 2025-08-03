@@ -1,0 +1,7 @@
+{
+    "concept": "Enthymeme",
+    "semantic_condition": "change",
+    "form_condition": "Start with a word that begins with the letter \"M\".",
+    "lexical_condition": "mother",
+    "inferences": "Manifestly, the fact that my mother had to adapt to a new career after raising our family demonstrates that people are capable of change, regardless of their age or circumstances. \n\nIn this example, the enthymeme is: \nPremise: My mother had to adapt to a new career after raising our family.\nImplicit Assumption: People can change and adapt at any stage of life.\nConclusion: People are capable of change, regardless of their age or circumstances.\n\nThe word \"mother\" is included as per your request, and the sentence starts with the word \"Manifestly,\" which begins with the letter \"M\"."
+}

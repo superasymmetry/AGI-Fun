@@ -1,0 +1,7 @@
+ Iterated dominance, also known as repeated dominance or transitive dominance, is a concept used in game theory to determine the long-term best strategy in a repeated game. It's an extension of the dominance principle, where a strategy is said to dominate another if it always leads to a better outcome, regardless of the opponent's moves.
+
+In iterated dominance, a strategy is compared not just to one other strategy, but to the entire strategy set. If a strategy A beats strategy B, and strategy B beats strategy C, then strategy A is said to iteratively dominate strategies B and C. This means that in a repeated game, strategy A would be the best choice because it consistently outperforms the other strategies.
+
+However, it's important to note that iterated dominance only applies to one-shot, two-player games. In repeated games or multiplayer games, other factors like cooperation, reputation, and the possibility of defection can come into play, making the analysis more complex.
+
+In practice, iterated dominance is used as a preliminary step in the analysis of games. Strategies that are iteratively dominated are often eliminated from further consideration, as they are not viable long-term strategies. The remaining strategies are then analyzed using other methods, such as the Nash equilibrium or evolutionarily stable strategies.

@@ -1,0 +1,7 @@
+{
+    "condition_1": "Spotlight Effect",
+    "condition_2": "Endowment Effect",
+    "condition_3": "IKEA Effect",
+    "prompt": "Generate an example that demonstrates the Spotlight Effect and Endowment Effect psychological biases, but that does not show the IKEA Effect psychological bias.",
+    "inferences": "Here's an example:\n\nSarah received a designer handbag as a graduation gift from her parents. She was extremely self-conscious about carrying it to work, constantly worrying that her colleagues were judging her for having such an expensive accessory. In reality, most of her coworkers hadn't even noticed the bag (Spotlight Effect).\n\nDespite rarely using the handbag and having received multiple offers to sell it for more than its original price, Sarah refused to part with it. Even though she could buy a more practical bag and have money left over, she felt the bag was more valuable because it was hers (Endowment Effect).\n\nThis example shows the Spotlight Effect (overestimating how much others notice our appearance/actions) and the Endowment Effect (overvaluing items we own), but doesn't demonstrate the IKEA Effect since Sarah didn't build or create the bag herself."
+}

@@ -1,0 +1,8 @@
+{
+    "model": "gemini-2.0-flash-exp",
+    "concept": "Haiku",
+    "example": "Dreams of distant shores,\nVoices echo, paths diverge,\n_ stars.",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is not an instance of the following concept: Haiku? Include only the text that should replace the blank.\n\n Dreams of distant shores,\nVoices echo, paths diverge,\n_ stars.",
+    "label": "yes",
+    "inferences": "Lost, like fading \n"
+}

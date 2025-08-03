@@ -1,0 +1,7 @@
+{
+    "concept": "Haiku",
+    "semantic_condition": "the earth",
+    "form_condition": "Make every sentence start with a verb.",
+    "lexical_condition": "light",
+    "inferences": "Here's a nature-themed haiku with sentences starting with verbs and including the word \"light\":\n\nShine light through branches\nDance leaves in morning breeze now\nSway Earth's gentle heart"
+}

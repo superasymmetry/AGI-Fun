@@ -1,0 +1,7 @@
+{
+    "concept": "Anacoluthon",
+    "semantic_condition": "nature",
+    "form_condition": "Do not use any adjectives.",
+    "lexical_condition": "earth",
+    "inferences": "Here\u2019s an instance of anacoluthon in the theme of nature, including the word *earth*:  \n\n*\"The earth\u2014when the roots twist and the sky forgets to answer.\"*  \n\nThe sentence shifts abruptly from a statement about the earth to an unrelated observation, creating a disjointed effect."
+}

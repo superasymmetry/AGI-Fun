@@ -1,0 +1,24 @@
+**Synesis** (from Greek *σύνεσις*, meaning "understanding" or "sense") is a grammatical construction in which agreement or reference is based on meaning rather than strict syntactic form. It occurs when a word takes a grammatical form that aligns with its logical or semantic sense rather than its formal grammatical structure. This is also known as **"notional agreement."**
+
+### **Examples of Synesis:**
+1. **Collective Nouns:**  
+   - *"The team are arguing among themselves."*  
+     (Here, "team" is singular in form but treated as plural because it refers to multiple individuals.)
+
+2. **Plural Subjects with Singular Meaning:**  
+   - *"Ten dollars is too much for that."*  
+     (Though "dollars" is plural, the amount is treated as a singular sum.)
+
+3. **Relative Pronouns Referring to Meaning:**  
+   - *"The government has changed their policy."*  
+     (Formally, "government" is singular, but "their" is used to imply multiple officials.)
+
+### **Key Features:**
+- **Semantic over Syntactic Agreement:** The meaning of the word dictates agreement rather than strict grammar rules.
+- **Common in Informal & British English:** Synesis is more accepted in British English (e.g., *"The committee have decided"*) than in American English, which prefers strict agreement (*"The committee has decided"*).
+
+### **Related Concepts:**
+- **Constructio ad Sensum** (Latin for "construction according to sense") is a similar concept in classical rhetoric and grammar.
+- **Notional Concord** is another term for the same phenomenon.
+
+Would you like further clarification or examples?

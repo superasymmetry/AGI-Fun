@@ -1,0 +1,7 @@
+{
+    "condition_1": "Demanding Bias",
+    "condition_2": "Fundamental Attribution Error",
+    "condition_3": "Illusory Superiority",
+    "prompt": "Generate an example that demonstrates the Demanding Bias and Fundamental Attribution Error psychological biases, but that does not show the Illusory Superiority psychological bias.",
+    "inferences": "Here's an example that demonstrates Demanding Bias and Fundamental Attribution Error without Illusory Superiority:\n\nSarah is stuck in traffic on her way to work. When another driver cuts in front of her without signaling, she immediately concludes that they must be a reckless, inconsiderate person who always drives dangerously (Fundamental Attribution Error - attributing behavior to personality rather than circumstances). Sarah then spends her entire commute feeling that everyone should follow traffic rules perfectly and that anything less is completely unacceptable (Demanding Bias - having inflexible expectations of how others should behave).\n\nThis example doesn't show Illusory Superiority because Sarah isn't comparing herself to others or believing she's better than average at driving."
+}

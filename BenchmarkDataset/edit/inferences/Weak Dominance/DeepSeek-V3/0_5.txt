@@ -1,0 +1,18 @@
+{
+    "model": "deepseek-ai/DeepSeek-V3",
+    "concept": "Weak Dominance",
+    "example": "I\u2019m playing a game of modified rock-paper-scissors with my friend Eric. Instead of the normal rules, points are scored as follows: If at least one of us plays scissors, then we both get 0 points. If one person plays rock and the other plays paper, the person playing rock wins 3 points, and the person playing paper wins 2 points. If we both play rock, we both win 1 points. If we both play paper, we both win 1 point. What strategy should I play?",
+    "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+    "prompt": "Change the following example to make it an instance of the following game theory concept: Weak Dominance.\n\n I\u2019m playing a game of modified rock-paper-scissors with my friend Eric. Instead of the normal rules, points are scored as follows: If at least one of us plays scissors, then we both get 0 points. If one person plays rock and the other plays paper, the person playing rock wins 3 points, and the person playing paper wins 2 points. If we both play rock, we both win 1 points. If we both play paper, we both win 1 point. What strategy should I play?",
+    "prompt_specifications": {
+        "prompt": "Change the following example to make it an instance of the following game theory concept: Weak Dominance.\n\n I\u2019m playing a game of modified rock-paper-scissors with my friend Eric. Instead of the normal rules, points are scored as follows: If at least one of us plays scissors, then we both get 0 points. If one person plays rock and the other plays paper, the person playing rock wins 3 points, and the person playing paper wins 2 points. If we both play rock, we both win 1 points. If we both play paper, we both win 1 point. What strategy should I play?",
+        "system_prompt": "Use as much text as you want. At the end, please generate your final output after the flag <OUTPUT>. In the final output, the following constraints must be met: Generate a 2x2 payoff matrix that meets the provided conditions. The matrix must be a valid representation of a game in game theory.                             It must be in the following format:\n\n[[ (A1,B1), (A2,B2) ],\n [ (A3,B3), (A4,B4) ]]\n\nWhere Ai and Bi represent the non-negative,                             integer-valued payoffs for Player 1 and Player 2 respectively. Include no text other than the payoff matrix.",
+        "dim": 2,
+        "chain_of_thought": true,
+        "skip": false
+    },
+    "label": "no",
+    "inferences": "[[ (1, 1), (0, 0) ],\n [ (3, 2), (1, 1) ]]",
+    "message": "No valid Python literal found in the input.",
+    "correct": false
+}

@@ -1,0 +1,31 @@
+In game theory, a **mixed strategy Nash equilibrium** is a set of strategies (one for each player) where no player can improve their expected payoff by unilaterally changing their strategy, even if the strategy involves randomizing over possible actions.
+
+### Key Concepts:
+1. **Mixed Strategy**: Unlike a pure strategy (where a player always chooses a specific action), a mixed strategy involves assigning probabilities to each possible action. For example, in Rock-Paper-Scissors, playing each option with probability \( \frac{1}{3} \) is a mixed strategy.
+2. **Nash Equilibrium (NE)**: A set of strategies where no player can benefit by deviating unilaterally, given the strategies of the other players.
+3. **Expected Payoff**: Since players randomize, payoffs are calculated as expected values based on the probabilities of actions.
+
+### Example:
+Consider the classic game of **Matching Pennies**:
+- Two players simultaneously choose Heads (H) or Tails (T).
+- Player 1 wins if the choices match; Player 2 wins if they don’t.
+
+**Pure Strategies**: No pure strategy NE exists (if Player 1 picks H, Player 2 prefers T; if Player 2 picks T, Player 1 prefers T, etc.).
+
+**Mixed Strategy NE**: 
+- Each player randomizes, choosing H or T with probability \( \frac{1}{2} \).
+- Neither player can improve their expected payoff by deviating (e.g., if Player 1 increases the probability of H, Player 2 can exploit this by choosing T more often).
+
+### Formal Definition:
+In a game with players \( i = 1, \dots, n \), a mixed strategy profile \( (\sigma_1^*, \dots, \sigma_n^*) \) is a Nash equilibrium if for every player \( i \), the strategy \( \sigma_i^* \) maximizes their expected payoff given the strategies \( \sigma_{-i}^* \) of the other players. Mathematically:
+\[
+\forall \sigma_i \in \Sigma_i, \quad u_i(\sigma_i^*, \sigma_{-i}^*) \geq u_i(\sigma_i, \sigma_{-i}^*),
+\]
+where \( \Sigma_i \) is the set of possible mixed strategies for player \( i \), and \( u_i \) is the payoff function.
+
+### Significance:
+- Mixed strategy NEs always exist in finite games (by Nash's theorem).
+- They model scenarios where unpredictability (e.g., bluffing in poker or randomizing in sports) is optimal.
+- They generalize pure strategy NEs (where probabilities are 0 or 1).
+
+Would you like a specific example or further clarification?

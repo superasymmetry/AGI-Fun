@@ -1,0 +1,17 @@
+In game theory, iterated dominance is a method used to simplify the analysis of strategic games by iteratively eliminating strategies that are dominated. A strategy is said to be dominated if there is another strategy that yields a better payoff for a player, regardless of what the other players do. 
+
+The process of iterated dominance involves the following steps:
+
+1. **Identify Dominated Strategies**: For each player, examine their strategies and determine if any strategy is dominated by another. A strategy \( S_i \) is strictly dominated if there is another strategy \( S_i' \) that results in a higher payoff for the player, no matter what strategies the other players choose.
+
+2. **Eliminate Dominated Strategies**: Remove the dominated strategies from the strategy set of the respective player.
+
+3. **Repeat**: Repeat the process with the reduced strategy sets until no more dominated strategies can be identified.
+
+There are two types of dominance considered during this process:
+
+- **Strict Dominance**: A strategy is strictly dominated if there is another strategy that provides a better payoff in every scenario.
+
+- **Weak Dominance**: A strategy is weakly dominated if there is another strategy that provides a payoff at least as good in every scenario and a strictly better payoff in at least one scenario.
+
+After applying iterated dominance, the game is often reduced to a simpler form, sometimes revealing dominant strategies or making it easier to find Nash equilibria. This method is especially useful in finite games with a large number of strategies, as it reduces the strategic complexity by focusing only on the non-dominated strategies. The procedure typically works best when using strict dominance, as the outcome might be less distinct when applying weak dominance due to potential indeterminacy.

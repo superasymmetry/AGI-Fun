@@ -1,0 +1,8 @@
+{
+    "model": "claude-3-5-sonnet-20241022",
+    "concept": "Anacoluthon",
+    "example": "A _ example would _ from literature",
+    "prompt": "In the following text, what could fill in the blank in so that the resultant text is a true instance of the following concept: Anacoluthon? Include only the text that should replace the blank.\n\n A _ example would _ from literature",
+    "label": "no",
+    "inferences": "wonderful this comes\n\n(This creates \"A wonderful this comes example would from literature\" - an anacoluthon where the grammatical sequence is abruptly broken and shifts to a different construction, creating a deliberate syntactic inconsistency that's characteristic of the device)"
+}
